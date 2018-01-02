@@ -14,9 +14,13 @@ Java部分
 
 2.[spring+websocket整合](https://github.com/Chaoscz/StudyGit/blob/master/java/websocket-spring.md)
 
+3.[JAVA+POI导出并通过流下载](https://github.com/Chaoscz/StudyGit/blob/master/java/JAVA%2BPOI%E5%AF%BC%E5%87%BA%E5%B9%B6%E9%80%9A%E8%BF%87%E6%B5%81%E4%B8%8B%E8%BD%BD.md#javapoi%E5%AF%BC%E5%87%BA%E5%B9%B6%E9%80%9A%E8%BF%87%E6%B5%81%E4%B8%8B%E8%BD%BD)
+
 Python部分
 
 1.[基础](https://github.com/Chaoscz/StudyGit/blob/master/study/python/Python.md)
+
+2.[正则表达式](https://github.com/Chaoscz/StudyGit/blob/master/study/python/正则表达式.md)
 
 Nodejs部分
 
