@@ -1,0 +1,1531 @@
+http://toutiao.com/group/6497441462051947021/|十年编程大佬学习python时的笔记|表达式换行符Python方括号制表符|5
+http://toutiao.com/group/6376955676946825473/|Python基础学习笔记|Adam函数PythonSUN字符串递归函数BartMONLisa|3
+http://toutiao.com/group/6493863149542834702/|7分钟带你Python入门|Python字符串浮点数单引号字符|4
+http://toutiao.com/group/6505260805540282894/|自学Python笔记（三）|字符串数据结构表达式函数编程语言Python数据类型作用域|0
+http://toutiao.com/group/6493750696934900238/|神级程序员用半个月整理Python学习笔记！你见过这么全的资料吗?|程序员数据库Memcached商品剩余连接池|3
+http://toutiao.com/group/6506346721952399880/|python学习笔记 1|测试程序|0
+http://toutiao.com/group/3910475338/|python大牛学习笔记十分钟就入门了？！|This字符串FalsePython浮点数列表初始化函数静态方法True|15
+http://toutiao.com/group/6481133110254633486/|从零开始学编程自学python教程学习笔记——准备阶段|命令行英文文本编辑器Python搜狗输入法|1
+http://toutiao.com/group/6481522434854879757/|从零开始学编程自学python教程学习笔记——命令简称与全称|超级用户|0
+http://toutiao.com/group/6397330956160794881/|Python学习笔记——2.Notepad++使用及注意事项|EXIT快捷键CTRLNotepadPAUSE|5
+http://toutiao.com/group/6506051852109349383/|python学习笔记：Python的基本页面、操作以及几种主要的容器类型|yes ’  ’ no序列字符串数据结构Python索引|1
+http://toutiao.com/group/6481930557956555278/|python初学到底怎么学？大神三天快速学习python的方法留下的笔记|PackersPatriots49ersRavensFalse|0
+http://toutiao.com/group/6456537022407377422/|python学习笔记（二）-windows环境配置|安装包浏览器p2ppython3环境变量|0
+http://toutiao.com/group/6456230894041563662/|python学习笔记（一）——linux环境配置|SELINUX小白鼠防火墙python3Python|0
+http://toutiao.com/group/6470301905145823757/|Python学习笔记——安装Python学习及开发环境|IDEWindows集成开发环境PythonPyCharm|1
+http://toutiao.com/group/6450340199087882509/|十年编程大牛的Python笔记，如何系统的来学习Python|浏览器Python数据库SQLPython核心编程JavaScriptWebHead First HTML与CSSJaveScript DOM编程|3
+http://toutiao.com/group/6439274214829965569/|大牛十年前写的python学习笔记！|字节码字符串utf8解释器布尔值|7
+http://toutiao.com/group/6501263102594515470/|Python读书笔记（Python软件的安装）|解释器PATHPythonWindowsIDLE|3
+http://toutiao.com/group/6478144885240103438/|全栈工程师用15天整理Python开发笔记！见解独到能少走很多弯路！|PythonASC原函数字符集函数|6
+http://toutiao.com/group/6389947149522157825/|Python 每日学习笔记（1）|源文件解释器字符串标识符Python|2
+http://toutiao.com/group/6506426824594031111/|Python读书笔记11（循环遍历所有内容）|Python字符串单引号For循环中括号|5
+http://toutiao.com/group/6500161141723890189/|掌握python机器学习-读书笔记7-（抽样分类方法）|CART支持向量机算法机器学习决策树朴素贝叶斯|0
+http://toutiao.com/group/6481402783311331853/|从零开始学编程自学python教程学习笔记——移动python文件位置|Pythonpython快捷方式UsersWindowsPowerShell|0
+http://toutiao.com/group/6398087517631643905/|Python学习笔记——3.基本的输入和输出|单引号C语言NotePad双引号字符串|0
+http://toutiao.com/group/6503162118592791053/|Python 3.6 字符串操作学习笔记之字符串与日期的转换|函数代码说明字符串Python转换|0
+http://toutiao.com/group/6494467769768083981/|Python 系统类dict笔记|python返回字典|0
+http://toutiao.com/group/6489575477999567374/|python笔记|左操作数定义赋值操作时函数迭代器运算符操作符调用时|0
+http://toutiao.com/group/6501968035169960461/|python笔记（一）：序列|序列字符串引索JavaPython列表|0
+http://toutiao.com/group/6390319674861338881/|Python 每日学习笔记（2、列表和元组）|字符串数据结构序列圆括号Python|1
+http://toutiao.com/group/6477381037390299661/|Java和Python的编程对比|PythonJavajava|3
+http://toutiao.com/group/6498473911460561422/|Java和Python的Web开发|PythonJavaWSGIMVCHTTP|0
+http://toutiao.com/group/6457352965987500558/|python学习笔记（四）-循环的使用方法（初学者应掌握）|循环体python3循环文件名|0
+http://toutiao.com/group/6490873923473768973/|一位大佬整理的机器学习笔记|机器学习Mac沙箱环境操作系统Python|1
+http://toutiao.com/group/6484769595134575117/|史上最详细、最适合基础得python完美数据库正确步骤 之前是错的|MySQL游标对象数据库成功时返回数据库交互|0
+http://toutiao.com/group/6428160213425570050/|Python学习笔记之三：正则表达式和文件操作|内容换行符字符文件描述符网络爬虫列表括号|1
+http://toutiao.com/group/6456503821949469198/|Python学习笔记——了解Python|Python科学计算数据库编程XML|0
+http://toutiao.com/group/6409213647981592834/|python学习笔记 列表和元组|分片赋值序列YearRESTART分片索引字符串数据结构赋值|0
+http://toutiao.com/group/6458385669549982222/|python学习笔记（六）-文件操作|This读写方式打开文本文件换行符|1
+http://toutiao.com/group/6440958139898003713/|我的python学习笔记|note.youdao.com|0
+http://toutiao.com/group/6455156385536541197/|月薪28K Python大牛写下的学习网络资源整理笔记|Python啄木鸟在线教育Vamei网络资源|0
+http://toutiao.com/group/6430955573986590978/|Python机器学习初步学习笔记|机器学习数据挖掘交叉验证过拟合数据集|1
+http://toutiao.com/group/6485530994165154317/|为什么Python发展得如此之快？50年神级程序员来告诉你|Flask数据科学Stack Overflow编程语言PythonDevOpsDjango|0
+http://toutiao.com/group/6391778849278279938/|Python 每日学习笔记（5、条件、循环和其他语句）|Python语句循环break语句Monday|0
+http://toutiao.com/group/6427077983466651906/|Python学习笔记之二：列表、集合、字典|返回key-value网络爬虫列表ScrapyTrue|2
+http://toutiao.com/group/6451179779177513229/|多年Python工作开发经验大牛分享的学习笔记，你值得拥有！|想要学习python面向对象TornadoPython DocDive into PythonLeaning pythonPythonFlask|0
+http://toutiao.com/group/6432153211839480065/|Python最优化学习笔记|Numerical Python曲线拟合最优化与KKT条件目标函数函数点和线误差平方和最优化导论Scipy Lectures偏导数不等式拉格朗日最大值最优化|0
+http://toutiao.com/group/6439195593910911234/|Python基础学习笔记|编程爬虫面向对象编程脚本面向对象|0
+http://toutiao.com/group/6503863715698311693/|干货满满，Python3网络爬虫还有这操作？你知道吗|Python网络爬虫编码方式浏览器URL|1
+http://toutiao.com/group/6426696232353874178/|Python学习笔记之一：字符串常用操作和格式化高级操作|字符ScrapyJava格式化字符串|1
+http://toutiao.com/group/6459145441563902478/|python学习笔记（七）-函数相关（非常重要）|程序函数测试程序复用性参数|0
+http://toutiao.com/group/6481427221394227726/|编程自学python教程学习笔记——在当前目录建立文件夹及返回|文件夹当前目录|0
+http://toutiao.com/group/6465136517420417550/|python学习笔记-序列相关操作|变量字符串序列数据结构函数|2
+http://toutiao.com/group/6436566622279319810/|Python爬虫学习笔记（第一天）|bs4爬虫PycharmPythonInterpreter|0
+http://toutiao.com/group/6494473178574750222/|Python 第三方模块EasyGui笔记|字符串返回NoneButton对话框|0
+http://toutiao.com/group/6456541436744565261/|python学习笔记（三）-pip的更新与优化（干货推荐）|文件夹python3脚本批处理pypi.douban.com|0
+http://toutiao.com/group/6433651691153719554/|Python线性模型学习笔记|Sat自相关线性回归R语言OLSRegression自变量正态分布x2x1|0
+http://toutiao.com/group/6499802766561509901/|神级程序猿精心写下的pycharm代码的调试、运行笔记，入门飞快！|PythonPycharm控制台ConsolePyCharm|5
+http://toutiao.com/group/6484117960205009421/|PythonSocket套接字网络编程 全球最适合初学的文章别特详细！|客户端Python服务器UDPSocket|2
+http://toutiao.com/group/6491121881628803597/|python创建可以打开文件的EXE|hello.exe浏览器文件夹命令行打开可执行程序输入文本编辑器|0
+http://toutiao.com/group/6463772945595499022/|史诗级程序猿留下的python 学习总结笔记，妈妈再不用担心我学习|多余元素有序序列None人生苦短迭代器|1
+http://toutiao.com/group/6494467026893931022/|Python内置函数笔记|返回False函数迭代器Python字符串True|0
+http://toutiao.com/group/6429062670507131138/|Python学习笔记之六：多进程模块multiprocess|Process进程池Event信号量MongoDB|5
+http://toutiao.com/group/6481408752414097934/|Python女神分享教程之Python 3-8 迭代器和生成器|Python返回值迭代器生成器yield中止|0
+http://toutiao.com/group/6341341446461817090/|初识Python|PerlPythonLinuxIDEEditPlus|0
+http://toutiao.com/group/6403960669691461889/|Python学习笔记—virtuale虚拟环境安装（连载中）|apt-get installSSL虚拟环境FlaskUbuntu|1
+http://toutiao.com/group/6487081258177266190/|python女神笔记分享之Django安装|解释器|1
+http://toutiao.com/group/6492769530161398286/|Python：从逻辑判断开始谈循环|True布尔表达式PythonFalse循环|3
+http://toutiao.com/group/6485223453686235662/|神级程序员花了一个月整理的超详细python2和3兼容写法hook！必看|程序员迭代器Python 2Hello奇技淫巧|1
+http://toutiao.com/group/6484829900095095310/|Python女神分享教程之Python 装饰器|函数装饰器f1f2f3|1
+http://toutiao.com/group/6480138045419946510/|当Python字符串遇上MySQL|utf8字符串Python转义字符MySQL|0
+http://toutiao.com/group/6477086898031428109/|PythonFBL第七篇——一周学习笔记|Python分而治之归并排序时间复杂度排序算法|1
+http://toutiao.com/group/6474417933614318093/|Go Assembly 学习笔记|SP寄存器SBDATATLS函数TEXT|0
+http://toutiao.com/group/6428905689053331714/|Python学习笔记之五：subprocess子进程模块|字符串可执行文件父进程可执行程序函数|0
+http://toutiao.com/group/6469330102822896141/|PythonFBL第六篇——一周学习笔记|PythonVBScript标记语言脚本语言冒泡排序|0
+http://toutiao.com/group/6481410520820744718/|Python女神教程分享之基本数据类型set|True数据类型s3s2数据库|0
+http://toutiao.com/group/6481072952107336206/|js中惊吓全球的正则！一名perl神级老程序员整理出来的js重点笔记|反斜杠A-Z字符集a-z元字符|14
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=2650846618&idx=3&sn=dd06ddbbfaa16378522ffacdb23633e7|ScalersTalk成长会Python小组第17周学习笔记|命令行因特网网络新闻Python新闻组|1
+http://toutiao.com/group/6426197214482219266/|Numpy 学习笔记|二维数组Falsearr2arr1np.arrayTrue正态分布|0
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=402826344&idx=3&sn=7c98a736c27188179da28447f4e88785|ScalersTalk成长会Python小组第7周学习笔记|字典b ) for字符串键值对操作符obj函数Python对称差def哈希值chosen成员关系可变对象|0
+http://toutiao.com/group/6428316924854436097/|Python学习笔记之四：os和os.path文件路径模块|操作系统当前目录文件名路径网络爬虫|1
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=2650845883&idx=3&sn=ab627b51ce07337686e5ee3deff04d9a|ScalersTalk成长会Python小组第12周学习笔记|命名空间Python从变量导入到解释器作用域|0
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=403033147&idx=4&sn=31ef0a429908c2bf3e0362e44c9b538c|ScalersTalk 成长会 Python 小组第 9 周学习笔记|持久化标准错误文件系统标准输入标准输出命令行参数文件描述符类文件字符串序列化换行符Python磁盘文件|0
+http://toutiao.com/group/6450676697598689549/|五年程序员做的多项式回归学习笔记！（非常重要的知识点）|a1多项式a3回归函数多项式回归|1
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=2650846190&idx=4&sn=396fe0c1b87e9fb109187f5dad5e58fa|ScalersTalk成长会Python小组第14周学习笔记|字符串执行环境python脚本函数式编程lambda表达式|0
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=2650846321&idx=4&sn=144ec4e7d730621967206f5f500e67b6|ScalersTalk成长会Python小组第15周学习笔记|正则表达式字符串Python字符集a-zA-Z|0
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=402383939&idx=2&sn=e673ea41a2c06df8c9a9e02afab88726|[777]ScalersTalk成长会Python小组第4周学习笔记|布尔型内存地址函数空对象数据结构str字符串FalseevalPython运算符|0
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=2650847544&idx=3&sn=5f61af0285054a5cae7bd1b84f566b08|ScalersTalk成长会Python小组第22周学习笔记|内存泄漏字符串解释器第22Python|0
+http://toutiao.com/group/6428441826306654465/|Pandas 学习笔记|SwedenStockholmNumpyPopulationSeriesState|0
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=2650845782&idx=2&sn=b52a492e67c7580ff388f9d8418df862|[827]ScalersTalk成长会Python小组第11周学习笔记|bar作用域fibonaccistrargERROR递归列表解析Python局部变量生成器字符串位置参数函数式编程函数调用关键字传递函数lambda|0
+http://toutiao.com/group/6491976515809444366/|刚入门爬虫的小白居然对Beautiful Soup理解的这么深！这笔记超全|PythonHTMLBeautiful Soup遍历获取解析器|6
+http://toutiao.com/group/6486327357924704781/|神级程序员教你十分钟搞定pandas数据分析+案例 非常详细适合基础|PythonSeries直方图数据结构DataFrame|3
+http://toutiao.com/group/6501134323452740110/|成都Python培训价格贵不贵？要看教学质量！|机器学习数据库千锋成都爬虫成都Python培训|0
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=2650846442&idx=2&sn=40fd5f1860fe8c4aae75967d7f73e30f|[868]ScalersTalk成长会Python小组第16周学习笔记|客户端/服务器Python套接字无限循环客户端程序|0
+http://toutiao.com/group/6422971103954862338/|机器学习笔记—生成学习|算法垃圾邮件朴素贝叶斯后验概率似然函数|0
+http://toutiao.com/group/6418477328733995265/|《用 Python 学微积分》笔记 2|函数函数图像Afterx2默认值多项式x : xval用Python学微积分import sympyfrom sympy.abc import|0
+http://toutiao.com/group/6486342308575838734/|神级程序员完美诠释Python关键字yield的解释以及内部机制！|Python生成器函数迭代迭代器|2
+http://toutiao.com/group/6491463565587776014/|Numpy快速入门教程（一）：数组创建与数组访问|np.array布尔型Falsebool_idximport numpya[0    1Python|1
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=402942474&idx=4&sn=9863ec9b2dbb54004740a3bac8ea1986|ScalersTalk成长会Python小组第8周学习笔记(2)|Python生成器文本处理numiterif语句迭代器lenstrfactor列表解析条件表达式|0
+http://toutiao.com/group/6418051662280048898/|《用 Python 学微积分》笔记 1|x : xval用Python学微积分泰勒级数指数函数欧拉公式洛必达法则多项式|0
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=2650846190&idx=3&sn=3f0f89a92c87b04dfa9a5e7fe84064c3|[855]ScalersTalk成长会Python小组第13周学习笔记|bar下划线构造函数Python构造器|0
+http://toutiao.com/group/6499036478222369293/|重温基础-Python小白社群 Day194（字符串的截取）|社群HelloMorning字符串python|0
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=402942474&idx=3&sn=0502e3f2b3b2f2bc5796cd40c8c214af|ScalersTalk成长会Python小组第8周学习笔记(1)|if语句step操作符Wintercountfor循环迭代器Python条件表达式|0
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=2650846977&idx=4&sn=673c0cb17051306a49e4ad97971b183f|[904]ScalersTalk成长会Python小组第20周学习笔记|web服务器字符串Python网络爬虫祥子|0
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=2650846728&idx=2&sn=432c4cddb76ea4ffe4b15eb69528c3f4|[883]ScalersTalk成长会Python小组第18周学习笔记|函数Pythonthreading共享内存多线程编程|0
+http://toutiao.com/group/6418874530534703361/|《用 Python 学微积分》笔记 3|用Python学微积分回归线函数导函数函数值最小值|0
+http://toutiao.com/group/6484503095362454030/|多线程帮助你的程序更加高效、快速、全球最详细最适合基础的教程|setNamePython线程模块Thread执行时|0
+http://toutiao.com/group/6497676393822814733/|基于深度学习的人脸识别AI技术谜与思之——工利其器|分类器人脸检测人脸识别百度大脑关键点|3
+http://toutiao.com/group/6506079803211252232/|自学Python笔记：用Python做成绩分析（1）|爬虫面向对象育才中学跳一跳PythonExcel|2
+http://toutiao.com/group/6504960360485749262/|自学Python笔记（二）|二进位保留字循环语句标识符表达式操作数Python单引号|3
+http://toutiao.com/group/6496816459400872462/|python爬虫学习笔记day——1|HTTPScrapyHTMLRedis爬虫|1
+http://toutiao.com/group/6497564890448790030/|python爬虫学习笔记day-3|Decode浏览器cookie信息GeckoJSON|0
+http://toutiao.com/group/6497906083254764045/|python爬虫学习笔记day-5|HTTP爬虫人人网正则表达式Handler|0
+http://toutiao.com/group/6499759865475383821/|Python爬虫学习笔记day-8多线程爬虫实例1|线程FalseHTMLQueueTrue|0
+http://toutiao.com/group/6497118362450002446/|python爬虫学习笔记day-2|PythonFirefoxMozilla浏览器Gecko|0
+http://toutiao.com/group/6499419151319171598/|python爬虫学习笔记day-7——爬虫爬取糗事百科段子|Python字符串JavaScript属性值数据结构|0
+http://toutiao.com/group/6391435364766662914/|Python 每日学习笔记（4、字典）|Pythonname ’ :qian ’  ’ sun数据结构字典|0
+http://toutiao.com/group/6494469032534606350/|Python 系统模块time笔记|Python十进制夏令时格林威治字符串|0
+http://toutiao.com/group/6458012534413722125/|python学习笔记（五）-列表表达式（应该掌握）|列表表达式表达式expression for iter_val in iterablepython学习笔记|1
+http://toutiao.com/group/6494469980346647054/|Python 系统模块timeit笔记|pythondefault timer计时器构造函数|0
+http://toutiao.com/group/6494476294384779789/|Python 第三方模块tkinter笔记|控件输入框Frame单选框Entry|0
+http://toutiao.com/group/6494468592040428045/|Python 系统模块os笔记|浮点型文件名当前目录抛出异常目录|0
+http://toutiao.com/group/6495356732942844430/|7分钟带你搞定Python函数递归问题|递归Python关键字循环体函数|2
+http://toutiao.com/group/6494467507749913102/|Python 系统类set笔记|集合等价于修改操作对称差python|0
+http://toutiao.com/group/6499203696595829262/|Python第三方模块 selenium 笔记|Firefox浏览器返回WebElement对象属性查找标签窗口句柄|0
+http://toutiao.com/group/6494467394398847501/|Python 系统类list 笔记|python取下标|0
+http://toutiao.com/group/6494469627395965454/|Python 系统模块datetime笔记|UTCNonedatetime对象格式化字符串Calendar返回|0
+http://toutiao.com/group/6489307026215141902/|Python女神分享教程之Python 模块创建及导入|PythonAdministratorUsersAppDataPrograms|0
+http://mp.weixin.qq.com/s?__biz=MzA4MjIyNDYzMQ==&mid=2650847030&idx=4&sn=8934cac40efeb781880e554f66e793f6|ScalersTalk成长会Python小组第21周学习笔记|数据库表关系数据库SQL语句python语言SQL语言|0
+http://toutiao.com/group/6418051662280048898/|《用 Python 学微积分》笔记 1|x : xval用Python学微积分泰勒级数指数函数欧拉公式洛必达法则多项式|0
+http://toutiao.com/group/6506793982977114632/|Python学起来很枯燥？那是因为你还不会爬妹子图！超级牛逼的教程|python开发环境|36
+http://toutiao.com/group/6507211443698401806/|337本python书籍优先系列二：五本特色实例教程分享|Head First PythonPythonPython编程快速上手数据结构数据可视化机器学习Python基础教程像计算机科学家一样思考Think Python|13
+http://toutiao.com/group/6460400815583527438/|Python最全面最零基础的教程！不可错过|匿名函数Student序列化下划线self.bJSONPython教程初始化self.a字符串|3
+http://toutiao.com/group/6432383900949315842/|Python 菜鸟教程|GNUHelloGuidoWorld源代码|0
+http://toutiao.com/group/6507053196077171214/|新手看完Python实现微信跳一跳自动运行，再忍不住了|异常处理Exception跳一跳BiggerPython|121
+http://toutiao.com/group/6506845222859702791/|宝宝都能学会的python编程教程8：条件判断与循环|语句循环Falsecontinue语句Python|0
+http://toutiao.com/group/6462221439301845518/|共60课：Python基础教程|PythonInstallerpython3软件测试|0
+http://toutiao.com/group/6506996144038478350/|微博有反爬，还有动态加载？看python大神怎么做微博爬虫！|Python微博爬虫|0
+http://toutiao.com/group/6507154744434229767/|Python大牛教你写维护IP的代理池，爬虫效率呈直线提升！|爬虫Python|0
+http://toutiao.com/group/6490675601567908366/|Python，PyCharm2017安装教程|注册码PythonPyCharm解释器IDE|4
+http://toutiao.com/group/6453935727242641934/|python从入门到精通教程-python入门(1)||3
+http://toutiao.com/group/6507013682906530312/|Python学习之路入门教程之测试驱动开发与Python（附例子与源码）|单元测试Django功能测试Test-Driven Development with PythonTDDTo-Do|0
+http://toutiao.com/group/6485869034943283725/|一起学python教程（4）开始第一个python程序|python解释器笔记本Sublime|0
+http://toutiao.com/group/6506703426783543811/|有了记忆才能发挥出服务器的威力，python架服务器连接数据库速成|浏览器编辑器流程图服务器数据库|0
+http://toutiao.com/group/6507376262099501582/|扣丁学堂Python3视频教程之queue队列模块详解|扣丁学堂Python3Python队列多线程|0
+http://toutiao.com/group/6488853631561892365/|沉迷学习中无法自拔，再来一套Python教程|Python老男孩|4
+http://toutiao.com/group/6479768338212848142/|教程｜python极速打包界面软件|python界面文本文件|2
+http://toutiao.com/group/6480040022954213901/|python 基础教程|Python面向对象Perl语言脚本语言Guido|3
+http://toutiao.com/group/6485866733952303629/|一起学python教程（1）python简介|PythonGUI龟叔编程语言C语言|0
+http://toutiao.com/group/6457781909027029517/|python从入门到精通教程-字典(8)||0
+http://toutiao.com/group/6481092090179617294/|Python入门教程 文件读取与写入|str1关闭文件文件指针偏移量Python|1
+http://toutiao.com/group/6507011093569733124/|扣丁学堂浅谈Python3视频教程之多线程爬虫实例讲解|UrlPython多线程线程爬虫|0
+http://toutiao.com/group/6502988294794510862/|同是Python程序员，为啥你赚的比别人少几K！|web前端pythonPython程序员|0
+http://toutiao.com/group/6506815426079490568/|这是我见过最全的零基础到项目的教程！两万字的资料你见过吗？|函数调用Unicode字符串变量Python浮点数编程|6
+http://toutiao.com/group/6475650787966976526/|零基础python教程0(c)-让led灯亮起来之python idle编程环境|树莓派led灯|5
+http://toutiao.com/group/6481133110254633486/|从零开始学编程自学python教程学习笔记——准备阶段|命令行英文文本编辑器Python搜狗输入法|1
+http://toutiao.com/group/6504015463951893006/|看程序员用Python开发私人远程服务器文件管理系统|程序员远程服务器Python|1
+http://toutiao.com/group/6504055389061906958/|写给新手程序员的话：你应该知道的这十条！|程序员|0
+http://toutiao.com/group/6448924397939949837/|Fabric核心API的使用教程（配合python代码）|函数Fabricuser.info面向对象修饰符|2
+http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651372996&idx=1&sn=11c214a3ceb00a61515a8e77c9aa43b3|Python股市数据分析教程(Part 2)|Python股票交易者多头仓位交易系统|2
+http://toutiao.com/group/6506407279430992387/|大神用Python开发在国内就能访问的google搜索引擎|google搜索引擎|1
+http://toutiao.com/group/6467512543119147533/|Python教程之先说说Python是什么|数据结构Python语言编程语言脚本语言Python|0
+http://toutiao.com/group/6501832772494033422/|用Python做一个爬取某网站的小视频的爬虫|百思不得姐视频爬虫|0
+http://toutiao.com/group/6387944555114660353/|教程｜从头开始系列：用Python实现决策树算法|成本函数基尼系数二叉树小波变换分割点数据集Classification And Regression Tree algorithmCART|1
+http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651372835&idx=1&sn=fc2779f4b48d3ace74455cce1983b6bd|Keras 教程：Python 深度学习终极入门指南|Theano教程深度学习卷积神经网络Keras|6
+http://toutiao.com/group/6481410520820744718/|Python女神教程分享之基本数据类型set|True数据类型s3s2数据库|0
+http://toutiao.com/group/6506702268597797379/|微信跳一跳高分教学|LLVMUserspip install -rDesktopHomebrew|0
+http://toutiao.com/group/6484067281151197709/|Mars亲授Python基础视频教程02|Python &人工智能开发教程python&人工智能开发教程|0
+http://toutiao.com/group/6504835539600933389/|八十万的程序员带你做Python爬虫，抓取《内涵社区》搞笑段子|Python程序员爬虫内涵社区|0
+http://toutiao.com/group/6441323619485303042/|python基础教程 零基础如何学好python|大数据|0
+http://toutiao.com/group/6504399778472788494/|scrapy框架的秘密——Python爬取虎嗅网新闻信息|scrapy虎嗅网|0
+http://toutiao.com/group/6410705178345324801/|python教程 完善游戏||1
+http://toutiao.com/group/6460239265514127885/|python从入门到精通教程-流程控制(9)|流程控制|2
+http://toutiao.com/group/6449599970492498189/|「干货」Python数据分析的完整教程！|编程语言SeabornPythonIPython函数|1
+http://toutiao.com/group/6392758477002309890/|python量化交易教程（1）常用函数|科学计算PythonZipline算法数据结构|0
+http://toutiao.com/group/6343486442416636418/|Python基础教程: 模块|Python|2
+https://m.hnr.cn/article/tech/20170203_805954_0.html|教程 | 从头开始：用Python实现基线机器学习算法|基线机器学习因变量函数None ]算法|6
+http://toutiao.com/group/6339486888792949250/|Python基础教程：函数|Python|1
+http://toutiao.com/group/6441776709162500354/|python：安装easygui的教程|命令提示符开始菜单Desktop|0
+http://toutiao.com/group/6397364944413802753/|教你如何下载python中文开发者社区教程|开发者css选择器|0
+http://toutiao.com/group/6419475028747796737/|Python基础教程 python爬取与采集||1
+http://toutiao.com/group/6409081913281872130/|python开发教程 开发注意事项||0
+http://toutiao.com/group/6425054720167870721/|python学习教程之轻松学会Gui||0
+http://toutiao.com/group/6433672850649465089/|Python学习教程2|Python|0
+http://toutiao.com/group/6420537757727424769/|python基础教程 python采集中文社区教程|中文社区|1
+http://toutiao.com/group/6486222967507255821/|一起学python教程（7）为什么python整数的除法也是精确的|浮点数整数Python|0
+http://mp.weixin.qq.com/s?src=3&timestamp=1498793920&ver=1&signature=2qvUQsQ6Tzf13kTij4VZ4cULEA7t1XgK8B6Ny*FKurBXuD7024RmlU8IE6IMg5VOl4x6ZDkyWRuxoJJCPv2q64pkvfhtXq8wek0WIRlAFX4eSJViVeX7KVu4UKMoGvEmq8x3I6iBdMC*KQgRAxxjvDA954E0REC6ruW*d22bg48=|Python 模拟登陆百度云盘实战教程|简书百度网盘浏览器验证码登录|7
+http://toutiao.com/group/6342600703168545025/|python基础教程之Python 中文编码|Python编码UTF-8FileEncoding|0
+http://toutiao.com/group/6450330557258662414/|python零基础教程||3
+http://toutiao.com/group/6456722366809506318/|Python零基础教程：学习pycharm的基本使用|PythonPyCharmDjangoIDE语法高亮|0
+http://toutiao.com/group/6465568648789492237/|python从入门到精通教程-流程控制-循环控制 (13)|流程控制|0
+http://toutiao.com/group/6422102106069778690/|Python学习基础教程 python是什么语言？|Python字节码虚拟机源代码Guido|0
+http://toutiao.com/group/6478840269662847502/|python异常处理极简教程|Python异常处理代码块抛出异常File|0
+http://toutiao.com/group/6460818304217907726/|python从入门到精通教程-流程控制-逻辑 (10)|流程控制|1
+http://toutiao.com/group/6448870781274292749/|Python零基础教程：数据结构|Python数据结构|1
+http://toutiao.com/group/6439905569972158977/|python：服务器架构之Django开发，最佳自学教程！|服务器Django视频|1
+http://toutiao.com/group/6423216191782781442/|就是这么简单Python网络编程基础教程高清视频||0
+http://toutiao.com/group/6339472807071580674/|Python基础教程：控制流|Python|0
+http://toutiao.com/group/6429164267530354945/|Python基础教程：入门学习（1）|人生苦短|0
+http://toutiao.com/group/6505935338236543501/|走过了2017，2018你好！||0
+http://toutiao.com/group/6429181229312229634/|Python基础教程：入门学习（2）|人生苦短|0
+http://toutiao.com/group/6427678777887555841/|Python新人入手线程技术教程，值得收藏|编程语言线程|0
+http://toutiao.com/group/6459282563692233229/|python入门基础教程之函数参数||0
+http://toutiao.com/group/6429280139573854465/|Python基础教程：入门学习（3）|人生苦短|0
+http://toutiao.com/group/6454705349332042253/|python从入门到精通教程-数据类型-数字-字符串(5)|字符串数据类型|1
+http://toutiao.com/group/6451448289454719501/|python爬虫教程：爬取音乐巴士||0
+http://toutiao.com/group/6408255980560531714/|Python教程：打造socket聊天室|视频|0
+http://toutiao.com/group/6461951449407422989/|python爬虫教程：爬去免费代理IP-忘仙|忘仙|0
+http://toutiao.com/group/6475112337618502157/|Python开发被大数据云计算带火啦让我门一起学习Python教程大全！|云计算Python大数据|0
+http://toutiao.com/group/6400598675723567362/|Python开发丨Python 开发高级教程|坐标轴神经网络条形图算法Bottle|0
+http://toutiao.com/group/6405545835371774209/|教你如何下载python中文开发者社区教程|css选择器开发者|0
+http://toutiao.com/group/6501996747542233613/|年薪百万的工程师果然厉害！直播整站爬虫，400万数据一次搞定|整站爬虫|5
+http://toutiao.com/group/6454781588109525518/|150 多个 ML、NLP 和 Python 相关的教程|TutorialStanfordPythonDeepLearning机器学习|0
+http://toutiao.com/group/6407598777688178945/|跟美女学Python教程之制作艺术签名|python美女|0
+http://toutiao.com/group/6462958147291054605/|Python爬取美女图片详细教程|代码函数Python|0
+http://toutiao.com/group/6450423323225489933/|python零基础教程：循环语句||1
+http://toutiao.com/group/6441013820442067202/|树莓派与MQ2气体烟雾传感器Python编程使用教程|CHANNEL气体传感器指示灯VCC树莓派|0
+http://toutiao.com/group/6443652539372470542/|Python语言做数据探索教程|字符串数据类型数据可视化列联表缺失值|1
+http://toutiao.com/group/6460480115615728142/|白帽黑客msf教程 python扩展|PythonMetasploit文件夹python扩展目标机器|0
+http://toutiao.com/group/6413326396218687746/|python教程 变量||0
+http://toutiao.com/group/6504066328754651662/|想学习一门技能，参加培训到底有没有用？|仪式感然而培训并没有用想学习华尔街英语时间管理囤积症|0
+http://toutiao.com/group/6468494688969032205/|python教程：005闲聊之Python的数据类型|视频数据类型Python|0
+http://toutiao.com/group/6465573820504736270/|python从入门到精通教程-流程控制-while (14)|流程控制|1
+http://toutiao.com/group/6468494680987271694/|python教程：003小插曲之变量和字符串|字符串视频|0
+http://toutiao.com/group/6461114850994029070/|Python抓取网易云专辑图详细教程|代码Selenium专辑网易云音乐Python|1
+http://toutiao.com/group/6456740060376072717/|Python爬虫教程：采集简书文章|PIL爬虫Windows|0
+http://toutiao.com/group/6420916975602663682/|python基础教程 打造多线程网络爬虫|数据挖掘多线程网络爬虫|0
+http://toutiao.com/group/6431637950396383489/|「中文字幕」Python实用机器学习教程-回归-p2|机器学习|1
+http://toutiao.com/group/6459669218282439181/|python入门基础教程之forwhile循环||0
+http://toutiao.com/group/6470442697592144398/|Python大神系列教程——mysql表约束|DROPMySQLTABLENULLALTER|0
+http://toutiao.com/group/6418081346312323329/|想要数据分析，这里有Python安装教程|配置环境变量交互式安装程序命令提示符提示符|1
+http://toutiao.com/group/6450789497759072781/|python零基础教程：字符串详解（二）|字符串|0
+http://toutiao.com/group/6462231890161041934/|Python gluon 机器学习教程|机器学习python|0
+http://toutiao.com/group/6450776691160646158/|python零基础教程：字符串详解|字符串|2
+http://toutiao.com/group/6443051945414656258/|Python之Tornado基础+项目实战视频+教程网盘下载|Tornado服务器代码优化开放源代码列表-分页-搜索|1
+http://toutiao.com/group/6469929382424085005/|Python大神系列教程——mysql日志管理|二进制日志root @ rhel6 mysql-glibcMySQL数据库ERROR|0
+http://toutiao.com/group/6435563226915193089/|Python基础教程One：基本数据类型|数据类型s2prints1False布尔型|0
+http://toutiao.com/group/6436219187307856130/|Python基础教程：字符串使用详解|a  b  c制表符格式化八进制格式化字符串|0
+http://toutiao.com/group/6463319907944628750/|python基础教程linux基础阶段——07-虚拟机简介|虚拟机基础阶段linux|0
+http://toutiao.com/group/6469980737293517326/|Python变量类型｜技术教程|BobPython数据类型Michael字符串Tracy|0
+http://toutiao.com/group/6455110319558623757/|黑马程序员绝密教程：Python进阶之Django框架|DjangoMVC设计模式Linux程序员|2
+http://toutiao.com/group/6468130276907172365/|数据科学工具 Jupyter Notebook 教程 in Python|TrueLaTeXMarkdownFalsePythonHTMLAnacondaIPython|0
+http://toutiao.com/group/6471029865058402829/|Python大神系列教程——mysql表的关系（连载中）|PRIMARYKEYMySQLINTNULL|0
+http://toutiao.com/group/6434258018364326146/|Python之scrapy+MongoDB安装教程|MongoDBscrapymongodb|0
+http://toutiao.com/group/6412439017745531137/|文本分析初学者教程：用Python实现垃圾邮件过滤器|文本SVM语料库文本挖掘朴素贝叶斯支持向量机机器学习|0
+http://toutiao.com/group/6421304982334603778/|Python基础学习之scrapy+MongoDB安装教程|scrapyPythonmongodb|0
+http://toutiao.com/group/6506378093597295118/|宝宝都能学会的python编程教程7：元祖(tuple)|Python字符串LisaPHP方括号|1
+http://toutiao.com/group/6500145393156751885/|「7」python教程——条件判断|PythonFalse判断True人生苦短|0
+http://toutiao.com/group/6492709711794668045/|python库matplotlib快速入门教程|SciPyMATLAB曲线图plt.plotimport numpy|0
+http://toutiao.com/group/6500138835098206733/|「6」python教程——使用list和tuple|PythonMichaelTracy数据类型Bob|0
+http://toutiao.com/group/6468155032251400717/|看完python教程，还是不会该如何是好？|Python字符画编程GitHub编程语言|0
+http://toutiao.com/group/6507101213635379715/|Python大神三十分钟教你成功开发一个属于自己聊天室！|Python程序员聊天室|0
+http://toutiao.com/group/6507115541126185486/|python web开发知多少？|字符串POSTHttpRequest对象HttpResponse对象Django|0
+http://toutiao.com/group/6507080478141448711/|全栈式开发语言 – Python，人生苦短，我用Python|PythonJavaScript网络爬虫HadoopDevOpsR语言|0
+http://toutiao.com/group/6504169714695012878/|python程序员开发必备的5大工具，你用过几个？|Python程序员NetBeans编程语言PyCharm|0
+http://toutiao.com/group/6431670972801204481/|如何使用 Python 开发 iOS 程序？|iOS解释器OCARM64ARMv7|2
+http://toutiao.com/group/6507013682906530312/|Python学习之路入门教程之测试驱动开发与Python（附例子与源码）|单元测试Django功能测试Test-Driven Development with PythonTDDTo-Do|0
+http://toutiao.com/group/6398702500950720769/|Python开发丨python 开发学习路线|自动化编程网络爬虫面向对象编程CSS|5
+http://toutiao.com/group/6506793982977114632/|Python学起来很枯燥？那是因为你还不会爬妹子图！超级牛逼的教程|python开发环境|36
+http://toutiao.com/group/6419386862784266498/|大数据全栈式开发语言 – Python|网络爬虫大数据全栈式DevOps|3
+http://toutiao.com/group/6478798815800328717/|多年开发给Python初学者整理的一些技巧|False49ersRavensPatriotsPackers|2
+http://toutiao.com/group/6480724870169625102/|一线Python运维开发带你秒懂Flask框架|客户端插件h1配置文件Flask工厂方法Python虚拟环境|1
+http://toutiao.com/group/6497204199577616910/|使用python开发一个高性能的网站|Flask服务器数据库ORMDjango|6
+http://toutiao.com/group/6479695404630802957/|「编程开发」搭建Python开发环境|PythonPyCharm开发环境Eclipse编程语言|4
+http://toutiao.com/group/6504559193519817230/|用Python开发一个博客系统（详细教程）|80pxIE10释放内存浏览器0 ] .files [ 0DOCTYPEAjaxbindAvatar3 ( )|2
+http://toutiao.com/group/6499392580277502477/|Python开发！一节课打造高质量搜索引擎|Python一节课|4
+http://toutiao.com/group/6497147456319390222/|Python开发！大神打造全栈工程师项目开发|Python数据库全栈工程师|0
+http://toutiao.com/group/6478879522925052430/|关于python开发工具|Python机器学习Sublime TextAnaconda开发工具|0
+http://toutiao.com/group/6404044616647377153/|python开发桌面程序|PIL|11
+http://toutiao.com/group/6482313913743442445/|「编程开发」Python开发中的Hook技巧|修饰器Python修饰符描述符FooSingleton|4
+http://toutiao.com/group/6481234158411579917/|MicroPython开发板，教你如何使用python开发一个短信功能！666|短消息开发板通信文本格式手机号码|0
+http://toutiao.com/group/6501921408572981774/|基于Python3开发的自动签到拿京豆软件-2.自动启动Python程序|PythonWindows|0
+http://toutiao.com/group/6506823377762648580/|程序员论坛知乎以及豆瓣都是用Python开发的 今天实战开发知乎|Python程序员豆瓣|0
+http://toutiao.com/group/6483771934357062158/|Python开发万能下载器，神器|Python下载器|4
+http://toutiao.com/group/6482721286358303245/|Python全栈项目开发教程，小白小白你快来！|Python小白全栈|0
+http://toutiao.com/group/6489270628468654605/|利用Python开发微信人脸识别系统（第一节）|人脸识别系统Python微信人脸识别|8
+http://toutiao.com/group/6486057543742259725/|Python开发在线抽奖系统|Python|0
+http://toutiao.com/group/6497508182926033421/|Python开发单词助记系统-项目思路|Python单词|0
+http://toutiao.com/group/6410349476389994753/|python教程 安卓端python语言快速开发游戏|安卓手机游戏python语言|5
+http://toutiao.com/group/6491878554857374222/|学Python开发 做全能型技术开发人才|编程语言胶水语言Python人工智能编程|0
+http://toutiao.com/group/6506793354120921613/|传智播客黑马Python就业+基础班视频教程分享（大概400多GB）|人工智能人生苦短Pythonpython并行计算|0
+http://toutiao.com/group/6494126126670021133/|python开发如何高效运行提高效率？|Python程序员PerlJavapython|0
+http://toutiao.com/group/6451069422487535885/|使用PyQt开发Python GUI程序：概述|GUIwxPython程序子线程状态栏|12
+http://toutiao.com/group/6493011676781085197/|郑州Python开发哪家好 零基础可以学会吗|PHPJava编程语言PythonPerlPython核心编程|0
+http://toutiao.com/group/6486592033304609293/|python实战！Python开发音乐播放器软件2|音乐播放器软件|0
+http://toutiao.com/group/6423361201871601921/|Python实战案例之开发仿知乎问答系统|Python问答系统数据库|0
+http://toutiao.com/item/6464365959145603342/|谁说不能用 Python开发企业应用？|JavaeBayPython虚拟机PayPal|0
+http://toutiao.com/group/6459828423345832461/|Python Asyncio开发进阶 So Easy！|Python异步IO协程调用函数|3
+http://toutiao.com/group/6450507698165383438/|Python开发（最实用的笔记）|C语言Python解释器GIL程序|1
+http://toutiao.com/group/6409081913281872130/|python开发教程 开发注意事项||0
+http://toutiao.com/group/6417415784435958018/|python开发回答平台||0
+http://toutiao.com/group/6489618728186020366/|利用Python开发微信人脸识别系统（第三节节）|Python微信人脸识别人脸识别系统|0
+http://toutiao.com/group/6428917884056453377/|Python开发实践路线|工程师学习PythonLinux自动化　　 　　 　　 　　 　　|0
+http://toutiao.com/group/6503492356803658254/|python爬虫抓取网易云音乐歌词|GeckoWindows NTAppleWebKitPythonWin64|0
+http://toutiao.com/group/6446255648421184013/|Python音频点击播放网站开发|音频|1
+http://toutiao.com/group/6489324838040109582/|利用Python开发微信人脸识别系统（第二节）|微信人脸识别人脸识别系统Python|0
+http://toutiao.com/group/6477491159441605134/|Python：GUI开发签名设计|PythonGUI|0
+http://toutiao.com/group/6400598675723567362/|Python开发丨Python 开发高级教程|坐标轴神经网络条形图算法Bottle|0
+http://toutiao.com/group/6501179973624136206/|Python开发微信人脸识别系统视频资料|Python视频人脸识别人脸识别系统微信|0
+http://toutiao.com/group/6458744258382807565/|Python 多线程开发 So Easy！|编程语言PythonLock多线程Easy|14
+http://toutiao.com/group/6411855590071140609/|Python开发基础15：文件打开方法|Python|1
+http://toutiao.com/group/6461845322749444621/|Python初级开发工程师学习线路图|Python工程师|0
+http://toutiao.com/group/6463047661678232077/|Python全栈开发程序员眼中的Python|面向对象程序设计加Python学习群大数据开发工程师|0
+http://toutiao.com/group/6429289174763012354/|Python开发贪吃蛇小游戏|贪吃蛇人生苦短|2
+http://toutiao.com/group/6425360625341923586/|python开发文件及时分享系统||0
+http://toutiao.com/group/6471217404155265550/|菜鸟用python开发微信小游戏打飞机|self.x子弹UsersLenovoDesktop|0
+http://toutiao.com/group/6475947171400122893/|必读：WBE前端开发——Python web开发|WSGI函数Python中间件DjangoFlask字符串|1
+http://toutiao.com/group/6423356017345888513/|继续浅谈Python Python web开发|PythonFlaskDjangoRailsWeb|1
+http://toutiao.com/group/6503085949969236494/|python入门经典书籍|深入浅出Python廖雪峰Python教程笨办法学Python像计算机科学家一样思考pythonpython学习手册PythonPython CookBook简明Python教程Python入门指南Python学习手册t.cn|0
+http://toutiao.com/group/6427304308287127809/|python项目实战之Django框架开发|Django|0
+http://toutiao.com/group/6455999941847302669/|资深程序员用python仿百度云盘开发||5
+http://toutiao.com/group/6421480641636024577/|Python整站爬虫开发实时存储数据库|爬虫整站Python数据库|0
+http://toutiao.com/group/6436174535313064449/|Python开发数据挖掘机并存储 上部|数据挖掘挖掘机|1
+http://toutiao.com/group/6452962572252480013/|web开发之python后端数据可视化详解|Python数据可视化腾讯|0
+http://toutiao.com/group/6415915530322329857/|Python实战案例之开发万能搜索引擎|人生苦短|1
+http://toutiao.com/group/6465904047143518733/|VS code for python开发利器|文件类型|0
+http://toutiao.com/group/6503449483194401294/|python环境的安装|PythonPyCharm注册码python3PATH|0
+http://toutiao.com/group/6429435312980181250/|python音乐播放器后台开发|音乐播放器|0
+http://toutiao.com/group/6428100301907181825/|python的跨平台开发项目实战|视频|0
+http://toutiao.com/group/6447427397552701965/|Python大牛详解web底层开发||0
+http://toutiao.com/group/6441022494169776385/|为什么Python开发越来越火？|脚本语言编程语言人工智能网络爬虫自由软件如何成为一名黑客|0
+http://toutiao.com/group/6433230731966693634/|python开发项目实战之 web开发音乐网站||0
+http://toutiao.com/group/6430697695136989442/|做企业急需的Python开发人才，4个月一步到位拿Python高薪|Redis工程师MySQL数据库Linux|1
+http://toutiao.com/group/6460345890044379661/|python开发周游”列表“世界|腾讯Python|0
+http://toutiao.com/group/6507384566796255751/|C/C++工程师的福音——Go语言及其职业方向|机器学习DockerGo语言编程语言工程师|0
+http://toutiao.com/group/6474887125819982349/|大牛程序员用Python开发网盘系统|大牛网盘Python程序员|1
+http://toutiao.com/group/6433046173954736386/|Python全栈开发实战视频教程下载|录播运算符数据类型内容补充正整数|0
+http://toutiao.com/group/6427581099564351746/|Python开发人工智能扫一扫人脸识别系统|人工智能人脸识别人脸识别系统|2
+http://toutiao.com/group/6415453715990216961/|Python开发效率高，奇酷学院磨炼开发人才|编程语言奇酷机器学习网络爬虫脚本语言|0
+http://toutiao.com/group/6444058150667551246/|资深Python大牛开发仿知乎网站！|大牛|4
+http://toutiao.com/group/6436543950122648066/|Python开发数据挖掘机并存储 下部|数据挖掘挖掘机|0
+http://toutiao.com/group/6424842698322755841/|Python开发超炫的音乐播放器|音乐播放器人生苦短|0
+http://toutiao.com/group/6431702244881957122/|零基础 Python网站开发入门视频教程下载|CSS3BootstrapJavaScriptHTML5jQuery|0
+http://toutiao.com/group/6462265750269723150/|Python：Django开发大型企业级项目|Djangodjango|2
+http://toutiao.com/group/6482140380031615501/|上海python开发招聘|Python工程师上海月httpjobs.51job.com带薪年假|0
+http://toutiao.com/group/6456230945300152846/|Python运维开发 Python编程风格讲解|Python运维|0
+http://toutiao.com/group/6444708324679090702/|Python开发必备技能之SMTP发邮件|腾讯|0
+http://toutiao.com/group/6422051673666470145/|Python Web开发实战课程|Python|0
+http://toutiao.com/group/6426130004690059521/|python开发SEO关键词排名工具|seo|3
+http://toutiao.com/group/6474153808321577485/|Python：Django开发仿电影天堂网站|Django电影天堂电影网站django|2
+http://toutiao.com/group/6424049368450515201/|如何利用Python开发商业爬虫（2)||0
+http://toutiao.com/group/6424419905614364929/|如何利用Python开发商业爬虫（3)|视频爬虫|0
+http://toutiao.com/group/6425580501717827842/|如何利用Python开发商业爬虫（5)|爬虫|0
+http://toutiao.com/group/6425016197330682113/|如何利用Python开发商业爬虫（4)||0
+http://toutiao.com/group/6423662234229276929/|如何利用Python开发商业爬虫（1)|视频爬虫|0
+http://toutiao.com/group/6448991099456782605/|Python简单学：猜拳小游戏开发|编程语言python小游戏新华字典随机函数|2
+http://toutiao.com/group/6440964427930927617/|Python开发在线移动音乐网站-强子|音乐网站|0
+http://toutiao.com/group/6433891106715713794/|Python开发仿知乎问答社区平台||0
+http://toutiao.com/group/6432432905717383425/|Python Django Web开发入门视频教程下载|Web框架转发器编程语言工程师Django|0
+http://toutiao.com/group/6440604563165676034/|一招教你用Python开发在线移动音乐网站|音乐网站|0
+http://www.codingke.com/article/2107|扣丁学堂Python培训内部干货|Python培训编程语言函数式编程Python开发编码规范|0
+http://toutiao.com/group/6431627249746067714/|导图Python开发技能表|Web开发者程序猿Django|0
+http://toutiao.com/group/6446304205744374286/|Python开发跨平台文件搜索软件||2
+http://toutiao.com/group/6461085174015721997/|Python全栈工程师开发网站二维码生成器|工程师Python全栈生成器二维码|0
+http://toutiao.com/group/6419103754951885058/|Python开发Web爬虫（Scrapy）|Scrapyscrapy|0
+http://toutiao.com/group/6506707426643804686/|Python数据分析之Numpy学习 1——NumPy-简介及环境安装配置|线性代数Python逻辑运算NumPyNumeric|0
+http://toutiao.com/group/6441432261590302978/|技术漫谈｜使用docker-compose进行python开发|web容器容器当前目录Dockerfile文本编辑器|0
+http://toutiao.com/group/6429215527890632962/|Python开发12306火车票抢票（神器）|Python12306火车票|0
+http://toutiao.com/group/6507390133749154318/|孟哥带你学python：第一次使用函数|返回值函数编程语言关键字Python|0
+http://toutiao.com/group/6459958680128324109/|Python函数！史上最全函数知识合集！（小白福利篇）|默认值单一Python局部变量函数调用匿名函数实参全局变量函数|1
+http://toutiao.com/group/6400345446245613825/|python——函数（一）|字符串关键字默认值参数参数表|0
+http://toutiao.com/group/6474058559037374990/|Python史上最全面的函数资料大全！Python入门从这里开始！|Python字符串八进制ASCII码函数|3
+http://toutiao.com/group/6468149761940652557/|Python那些事——超级干货，python常用函数大总结|当前目录十六进制环境变量字符串ASCII特殊字符字符函数子目录|2
+http://toutiao.com/group/6506236325744607752/|python入门——Python中I/O函数|Python表达式参考位置函数File|0
+http://toutiao.com/group/6507185762662875655/|一个快速将python2代码批量转为python3代码的好方法|文件夹python3命令行python2Python|0
+http://toutiao.com/group/6506710732858458627/|Python最全内置函数合集！你应该没有见过这么全的函数以及解析|python函数|9
+http://toutiao.com/group/6435544670039130370/|了解和掌握Python的函数（连载三）|Excel循环参数单一函数Python标准差数据分析师程序员|2
+http://toutiao.com/group/6485857523285885453/|全干货！Python正则表达式常用函数详解|Python正则表达式字符串函数人生苦短|1
+http://toutiao.com/group/6384332851214565634/|学习python必备的函数知识|想学习python学习资料参数函数表达式|0
+http://toutiao.com/group/6506793982977114632/|Python学起来很枯燥？那是因为你还不会爬妹子图！超级牛逼的教程|python开发环境|36
+http://toutiao.com/group/6475822629713347086/|python函数其实很简单|函数内置函数python|7
+http://toutiao.com/group/6507131213931610638/|2017年大热的编程语言Python大事件回顾——附10道经典面试题|Python引用计数单引号编程语言内存池|2
+http://toutiao.com/group/6504431296322732558/|python入门——python函数|表达式局部变量函数全局变量Python|0
+http://toutiao.com/group/6506644769307886083/|python 12 函数介绍|调用函数printMax圆括号sayHello函数调用|0
+http://toutiao.com/group/6438569703065731329/|关于Python的高级函数|函数MapReducex2字符串Processing|0
+http://toutiao.com/group/6501639371744084494/|Python——函数之初始函数！|作用域内置函数定义函数函数函数调用|0
+http://toutiao.com/group/6507379270577291789/|python 13 默认参数和关键参数|关键参数默认值函数默认参数值字符串|0
+http://toutiao.com/group/6502987217604968974/|python的简单内置函数|字符串返回值八进制True函数|0
+http://toutiao.com/group/6385110908461269250/|Python———函数|全局变量参数函数Python作用域|2
+http://toutiao.com/group/6459145441563902478/|python学习笔记（七）-函数相关（非常重要）|程序函数测试程序复用性参数|0
+http://toutiao.com/group/6495356732942844430/|7分钟带你搞定Python函数递归问题|递归Python关键字循环体函数|2
+http://toutiao.com/group/6452558799197700621/|史上最全python函数知识点讲解|函数|2
+http://toutiao.com/group/6390579787954258178/|Python函数大全|高阶函数字符串ZooASCII返回调用返回函数局部变量u2|3
+http://toutiao.com/group/6369175896239603970/|Python函数传参详解|RedisCentOSMySQLHostnameOther|0
+http://toutiao.com/group/6485692646621708813/|Python 递归函数 解（不喜勿喷！）|Python代码递归函数|1
+http://toutiao.com/group/6339486888792949250/|Python基础教程：函数|Python|1
+http://toutiao.com/group/6500528472979407374/|Python那些事——Python之函数式编程！|匿名函数函数式编程Pythonfunction1sayHello|0
+http://toutiao.com/group/6507115541126185486/|python web开发知多少？|字符串POSTHttpRequest对象HttpResponse对象Django|0
+http://toutiao.com/group/6495335370236887565/|python基础（二）：函数|当前目录Python夏令时字符串环境变量操作系统函数内置函数二进制表达式|0
+http://toutiao.com/group/6451527135252185614/|Python之类和函数的综合应用|self.areaself.rangeself.timesself.name|0
+http://toutiao.com/group/6494903887550480910/|3分钟带你设计自己的Python函数|Python返回值代码运行圆括号函数|1
+http://toutiao.com/group/6386574089721856258/|python中函数的调用和返回|返回值Mike调用函数函数调用|3
+http://toutiao.com/group/6506881420248482311/|TensorRec：基于TensorFlow的推荐引擎框架|机器学习TensorFlow推荐系统函数损失函数|2
+http://toutiao.com/group/6424059264436977921/|函数 初学者学Python总要学到吧|返回迭代器Python命名空间函数调用File|1
+http://toutiao.com/group/6473754164919796238/|Python函数接口设计|函数Python|4
+http://toutiao.com/group/6393663789850870017/|产品经理学技术&Python（五）：函数|Python关键字参数产品经理函数可变参数|0
+http://toutiao.com/group/6390597727596921089/|哈佛教授陪你写一个斐波那契函数，Python第十五讲（中字）|哈佛大学斐波那契二进制数工商管理硕士函数|2
+http://toutiao.com/group/6506338626794701319/|享学课堂之python for循环|循环|0
+http://toutiao.com/group/6441035503726657793/|关于python函数输出None的问题|None函数|0
+http://toutiao.com/group/6433089340662743298/|Python 生成器函数与 Deque（双向列表）模块|生成器函数yield语句返回值generator object nums at 0x0000015159AB0048p.append|2
+http://toutiao.com/group/6461127400783610382/|python中的list函数|JAVA语言删除列表函数|1
+http://toutiao.com/group/6450694391778197773/|Python中如何定义一个函数|解释器函数编程语言Python返回值单一|0
+http://mp.weixin.qq.com/s?__biz=MzAwNDc0MTUxMw==&mid=2649640120&idx=1&sn=7b9b1b833844b1f8cebd7827be99a7b3|Python函数里的爱情故事|HandRight型defCC0Left|0
+http://toutiao.com/group/6462311367696204301/|python入门基础知识点：匿名函数内嵌函数|匿名函数函数|0
+http://toutiao.com/group/6450709979966997006/|Python基础之 >>>函数版-增删改查|输入任意键退出n.get名片-------------user1|0
+http://toutiao.com/group/6466637649145758221/|Python基础 5.2 函数与递归|Python函数|0
+http://toutiao.com/group/6446602534265029133/|兄弟连新版Python视频教程-函数5.4|兄弟连|0
+http://toutiao.com/group/6494467026893931022/|Python内置函数笔记|返回False函数迭代器Python字符串True|0
+http://toutiao.com/group/6461165525144699406/|Python中内置map函数的用法要点详解|print maplambda表达式函数Sequence字符串|1
+http://toutiao.com/group/6440712314471039234/|Python：函数的定义、参数传入与函数的调用|关键字参数命名关键字参数函数默认参数传入|1
+http://toutiao.com/group/6367127163233583361/|半夜还在写代码吧？递归阶乘函数Python第十三将|SAT二进制数排序算法斐波那契MIT|0
+http://toutiao.com/group/6468411761132306958/|记住两个函数就能搞定 Python sqlite 增删改查|Python操作SQLite数据库函数python操作sqlite数据库|0
+http://toutiao.com/group/6460986083789242893/|06 Python 函数|函数对象python函数函数Python函数|1
+http://toutiao.com/group/6451316006786253070/|Python基础之函数的简单应用|函数学生会一对兔子人猿泰山|0
+http://toutiao.com/group/6391022639721775362/|大牛的迭代斐波那契函数的例子，Python第十六讲（中字）|排序算法斐波那契SAT二进制数MIT|0
+http://toutiao.com/group/6436983256150704641/|轻松玩转Python入门之第七节函数||0
+http://toutiao.com/group/6458027775784649229/|Python基础语法（三）——函数|关键字参数参数函数定义函数|0
+http://toutiao.com/group/6453002513246323214/|python入门教程之匿名函数内嵌函数讲解|匿名函数函数|1
+http://toutiao.com/group/6446602533975622158/|兄弟连新版Python视频教程-函数5.5|兄弟连|0
+http://www.cnblogs.com/shaosks/p/5623898.html|python 内置函数 getattr|内置函数|0
+http://toutiao.com/group/6391749241412862209/|这都不愿意？就两分钟学习写一个排序函数，Python第二十讲|排序算法哈佛大学斐波那契SAT二进制数|0
+http://toutiao.com/group/6459568754295570957/|如何理解Python的main函数？|Pythonfile1python3|8
+http://toutiao.com/group/6451681143443095822/|Python基础-函数的初级应用|字符串1while函数输入程序定义|1
+http://toutiao.com/group/6391022893296517377/|逐行分析迭代斐波那契函数，Python第十七讲（中文字幕）|排序算法斐波那契SAT二进制数MIT|0
+http://toutiao.com/group/6460010454046474766/|详谈Python函数之内置函数和递归|函数递归Python圆括号匿名函数单一|0
+http://toutiao.com/group/6447434093910032910/|Python入门基础视频教程-5.3.4 Python函数实参赋值顺序问题||0
+http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651374827&idx=1&sn=4078aeeecd01b08f460276700055074d|在Python中探索函数式响应型编程(FRP)|FRP数据流函数函数式编程Elm流函数生成器|0
+http://toutiao.com/group/6485077436072460814/|Python递归|函数递归递归函数Python栈溢出|2
+http://toutiao.com/group/6463774100488716813/|Python中numpy.apply_along_axis()函数的用法|函数python|0
+http://toutiao.com/group/6447434089501819406/|Python入门基础视频教程-5.3.1 Python自定义函数基础：有形参和无形参解析||0
+http://toutiao.com/group/6392162904300339714/|一字一句的分析插入排序函数，python第二十三讲|斐波那契SAT二进制数排序算法插入排序|0
+http://toutiao.com/group/6451741464929304845/|Python基本输出函数print()用法小结|函数Python缓冲区分隔符Hello|0
+http://toutiao.com/group/6390598003807404290/|看看大神如何看待迭代与递归阶乘函数的，Python第十四课|排序算法斐波那契二进制数函数哈佛大学|1
+http://toutiao.com/group/6466637632746029582/|Python基础 5. 1 函数的定义、调用与返回 3|Python函数|0
+http://toutiao.com/group/6471369017037685262/|一点一点学Python——Python 3 中常用的字符串处理函数|字符串换行符函数UnicodePython|1
+http://toutiao.com/group/6463900286594318862/|Python中字符串格式化函数format的使用|字符串十六进制格式化十进制分隔符|1
+http://toutiao.com/group/6367127506856755458/|老外带你逐行分析递归斐波那契函数，Python第十九讲|排序算法斐波那契SAT二进制数MIT|0
+http://toutiao.com/group/6363589392816734465/|3.5函数Function_1|返回值字符串参数函数Python|0
+http://toutiao.com/group/6466637588810695181/|Python基础 5. 1 函数的定义、调用与返回|Python函数|0
+http://toutiao.com/group/6411095545058754818/|Python开发基础14：for结构、range函数|函数|0
+http://toutiao.com/group/6447434076918907406/|Python入门基础视频教程-5.1 Python函数库分类及函数标准库示例||0
+http://toutiao.com/group/6466637605722128910/|Python基础 5. 1 函数的定义、调用与返回 2|Python函数|0
+http://toutiao.com/group/6474543898436829709/|小说不能下载？No全网小说随你下载，一个函数全搞定，Python入门|Python正则表达式网络爬虫编程语言文本文件|3
+http://toutiao.com/group/6439306059898192130/|程序猿自我修炼之python学习（4）pip，虚拟环境与高阶函数，创建django项目|Request-URI创建虚拟环境浏览器安装包pip install|0
+http://toutiao.com/group/6431751313411506434/|Python编程语言基础技术框架（下）之print输出、函数介绍|函数视频Python编程语言|0
+http://toutiao.com/group/6468430758313722381/|Python 3.X模块内置函数实例讲解（apply、filter、reduce、map）|Python序列列表输出函数Python3|1
+http://toutiao.com/group/6498653958892945933/|5.1函数（一）-Python|Python十六进制TypeError函数File|0
+http://toutiao.com/group/6480123395345220110/|Python入门简介之函数|编程语言Python自定义函数第三方库函数内置函数|1
+http://toutiao.com/group/6485872476210332173/|python基础学习第十五步·函数（2）|涮涮锅参数函数累积和返回值|0
+http://toutiao.com/group/6480859100061106701/|Python入门简介之自定义函数二|Python预设值自定义函数形参编程语言|1
+http://toutiao.com/group/6480532632462426638/|Python入门简介之自定义函数一|Python返回值IDLE自定义函数语法结构|3
+http://toutiao.com/group/6486267127278862862/|python基础学习第十五步·函数（3）|Pythonarg1arg2局部变量匿名函数test1变量递归函数|0
+http://toutiao.com/group/6392323414644588801/|0015b 编程入门python之函数补充说明|函数这时候返回递归函数函数内部|1
+http://toutiao.com/group/6398229040743022849/|Python自学之路-内置函数说明及实例（一）|调用False字节参数值字符串|0
+http://toutiao.com/group/6399004997108105474/|Python自学之路-内置函数说明及实例（三）|解释器哈希值False函数字符串|0
+http://toutiao.com/group/6399346589765320961/|Python自学之路-内置函数说明及实例（四）|迭代器字符串类型对象False函数|0
+http://toutiao.com/group/6507083628286050820/|我给你整理一套2018完整的Python学习书籍，请你收下|Python编程Python语言编程语言Python编程自然语言Python机器学习实践指南Python自然语言处理Python极客项目编程用Python写网络爬虫机器学习数据结构Python编程初学者指南精通Python自然语言处理Python高性能编程|23
+http://toutiao.com/group/6507074506450797069/|2017年关于Python的总结，Python大事|编程语言WaylandPython机器学习Django|1
+http://toutiao.com/group/6507174547345637901/|Python工程师教你 Python来玩微信非常火的跳一跳，分分钟超越好友|MacOSPythonAndroid虚拟环境ADB|0
+http://toutiao.com/group/6507053196077171214/|新手看完Python实现微信跳一跳自动运行，再忍不住了|异常处理Exception跳一跳BiggerPython|121
+http://toutiao.com/group/6506781308390212109/|十年老Pythoner花一周总结出最适合小白练手的20个小程序！|Python|12
+http://toutiao.com/group/6507220368237789709/|Python学习难点立刻理解，不求人！|参数值FalseForm数据库错误信息字段HTML|0
+http://toutiao.com/group/6507396996934926855/|Python能与C类语言互调吗？内附Python全栈学习资料|PythonPyObjectpArgsWindows平台动态链接库|0
+http://toutiao.com/group/6507394389109637645/|Python读书笔记13（初识字典）|字符串大括号Hash获取字典哈希表|0
+http://toutiao.com/group/6506793982977114632/|Python学起来很枯燥？那是因为你还不会爬妹子图！超级牛逼的教程|python开发环境|36
+http://toutiao.com/group/6507190746418774541/|python 实战项目|topic_idTopicURL模式Django数据库|0
+http://toutiao.com/group/6506434051967025678/|豆瓣评分9.3，高分python入门书籍高清英文原版+中文译版pdf分享|害人不浅电子表格excel电子表格豆瓣Excel|86
+http://toutiao.com/group/6507157396408762893/|Python搭建网站全文详解！|数据库GitHub函数视图配置文件|0
+http://toutiao.com/group/6506292285309714948/|谁适合学Python?学了Python可以做什么工作？|Flask编程语言深度学习Python机器学习|1
+http://toutiao.com/group/6506809402496909828/|小白该如何入门Python|Pythonpython学会做减法google编程语言|0
+http://toutiao.com/group/6506757826348581380/|让我们一起用Python攻破这个最流行的又最讨厌的东西|WordPress机器学习源代码Python计算机视觉深度学习验证码OpenCV|1
+http://toutiao.com/group/6507424151551083012/|喜欢的电影需要VIP？看完文章你可以省掉很多钱|URL服务器Python抛出异常表达式|0
+http://toutiao.com/group/6507092963993059844/|微信跳一跳高分秘籍：不仅可以用 Python 刷分，还可以直接改分|V2EXGitHubPython微信Github|0
+http://toutiao.com/group/6507404514771862020/|Docker快速入门之一个小Demo|test1容器Docker宿主机端口映射|0
+http://toutiao.com/group/6506708737141506574/|想自学python又不想求别人？一定别错过这几本好书|Python编程编译语言利用Python进行数据分析机器学习集体智慧编程Python算法教程Web|6
+http://toutiao.com/group/6507137388798542350/|我是工地搬砖的，想改行学Python，可行吗？|编程语言PythonNCRE小伙伴Python语言|5
+http://toutiao.com/group/6507144738364195335/|Python那些事——Python with提前退出：坑与解决方案|return True上下文单元测试抛出异常ABContext|0
+http://toutiao.com/group/6481481475135898125/|Python那些事——python超实用精品大全，值得收藏！|Python匿名函数设计模式函数函数式编程|0
+http://toutiao.com/group/6504279713437975054/|Python实战项目分享：Python超级实用！|Pythonpython人工智能大家一起来程序员|2
+http://toutiao.com/group/6507396290337309188/|如何深入 Python 虚拟机追查 HTTP 服务 core dump 导致 502 问题|函数内存管理线程对象池多线程Python虚拟机GIL引用计数共享内存|0
+http://toutiao.com/group/6507395771594179076/|最新intel CPU漏洞检测——linux篇|对话框解压缩linux系统|1
+http://toutiao.com/group/6506710732858458627/|Python最全内置函数合集！你应该没有见过这么全的函数以及解析|python函数|9
+http://toutiao.com/group/6507033830648463875/|python大总结（告诉你哪里找，怎么玩）||1
+http://toutiao.com/group/6381986048163463425/|「python」使用Python操作Excel的学习|Python脚本Excel防火墙Sheet|18
+http://toutiao.com/group/6506236325744607752/|python入门——Python中I/O函数|Python表达式参考位置函数File|0
+http://toutiao.com/group/6505505147177665037/|python入门——python模块|Python局部变量命名空间函数全局变量|0
+http://toutiao.com/group/6374633779834651137/|Python公开课——Python的正确学习姿势|Python公开课编程语言|1
+http://toutiao.com/group/6507404323083780611/|谷歌发布 TensorFlow 1.5全面支持动态图机制和 TensorFlow Lite|Python二进制文件CUDA支持Eager|0
+http://toutiao.com/group/6438846306999140610/|Python练习题|完全平方数斐波那契数列练习题|2
+http://toutiao.com/group/6501283141318083085/|Python第1课-Python安装|PythonHomebrewpython3Python3编程语言|3
+http://toutiao.com/group/6503836006070878733/|python那些事——python常用可视化技巧|LossNewspaperplt.titleplt.show可视化相关性获救TrueFalseplt.plot|0
+http://toutiao.com/group/6395062969445236994/|Python爬虫实战—为啥学Python，BOSS告诉你|Backup爬虫Python解析器span class|7
+http://toutiao.com/group/6466919244863914510/|python学习：手机软件编程python|手机软件|12
+http://toutiao.com/group/6392529080294310145/|Python-面向对象|面向对象学习交流群Python学习交流Python学习交流群类函数|4
+http://toutiao.com/group/6488846181777539598/|Python学习：Python 正则表达式轻松学习|Python正则表达式SRE字符串扫描器|0
+http://toutiao.com/group/6506252280818303501/|「python」使用Python快速搭建FTP服务器|PythonFTP用户名浏览器实例化|5
+http://toutiao.com/group/6437309236451016962/|Python小项目——使用Python写诗|机器学习|0
+http://toutiao.com/group/6490462854003556877/|Python——python安装及环境配置|Python安装包环境变量命令行环境配置|1
+http://toutiao.com/group/6438879109145100545/|python零基础！|数据类型数据结构编程语言操作符控制流|2
+http://toutiao.com/group/6389918404018438402/|「python」Notepad++搭建Python开发环境|插件Notepad快捷键Python脚本|12
+http://toutiao.com/group/6477417895398736397/|python自动化|python|3
+http://toutiao.com/group/6480887387483275789/|Python 正则表达式|字符串字符m  n字符集表达式|2
+http://toutiao.com/group/6392924954078068994/|「python」使用Python批量为图片添加水印|Python添加水印文件夹图片添加水印当前目录|3
+http://toutiao.com/group/6488600915317096973/|python学习：python数据结构详解|默认值True数据结构TuplePythonlist1list2首字母|1
+http://toutiao.com/group/6487168579992027661/|Python那些事——Perl 与 Python 知多少！|字符Perl正则表达式线程字符串操作符函数Python数据类型子程序|0
+http://toutiao.com/group/6452171453528801806/|什么是python？用python干嘛？python多久？|python3basic语言c语言编程语言科学计算|0
+http://toutiao.com/group/6507388838795543044/|享学课堂-探索人工智能时代的美学|神经网络图像雪人（ The Snowman ）鉴别器GAN机器学习边缘检测银翼杀手（ Blade Runner ）生成器|0
+http://toutiao.com/group/6507398369055343111/|抢票攻略！用这招，程序猿分分钟抢到春节车票|程序员Splinter浏览器抢票Python|0
+http://toutiao.com/group/6434071505286349057/|必学python，python越来越火|PHPJava编程语言TIOBEFRC|0
+http://toutiao.com/group/6383769137013473538/|「python」使用Python快速搭建FTP服务器|FTP用户名浏览器脚本Python|23
+http://toutiao.com/group/6482981144848499214/|python装饰器|闭包f1f2f3函数|0
+http://toutiao.com/group/6385472112156721410/|Python——数据结构|数据结构Python学习交流330637182群字典返回字符串|6
+http://toutiao.com/group/6382672152693686529/|「python」使用Python进行简单的ARP攻击|攻击者MACLinuxPythonARP|3
+http://toutiao.com/group/6390924536498127105/|Python多线程|父进程操作系统子进程PythonWindows|2
+http://toutiao.com/group/6499958251101094413/|Python 03 使用编辑器编写python程序|Python解释器程序编程语言Hello World|0
+http://toutiao.com/group/6397217590922756354/|跟我学Python之Python简介|UNIXGuido数据库编程语言脚本语言|1
+http://toutiao.com/group/6385435996725379329/|python 零基础|PythonWindows解释器源代码格式化|1
+http://toutiao.com/group/6477696013413909005/|Python初尝试|网络爬虫访问量尾页正则表达式Python|4
+http://toutiao.com/group/6427633855955910914/|Python初学者|INDEX|0
+http://toutiao.com/group/6387884832877199618/|python编程-利用python对接飞信发短信平台|飞信MozillaGeckoFirefox验证码|5
+http://toutiao.com/group/6368754987287970050/|Python 正则表达式|test1test2函数正则表达式PerlPattern对象a-z编程语言字符串默认值|2
+http://g.csdn.net/5286626|“Python之父”Guido谈Python|PythonGuido|0
+http://toutiao.com/group/6400332141407273217/|python网络爬虫|网络爬虫人生苦短|0
+http://toutiao.com/group/6506798639505998340/|给娃正确的数学启蒙，你缺这张思维导图|启蒙早期教育数学启蒙皮亚杰数学|0
+http://toutiao.com/group/6478896464842981901/|python基础学习第三步·认识python|ABC语言Guido程序员WindowsLinuxJavaPython标准库C语言编译器|1
+http://toutiao.com/group/6384234873443975426/|Python小干货，如何使用Python来发送邮件|SMTP协议编程语言Python163邮箱SMTP|14
+http://toutiao.com/group/6385491281762681090/|Python——数据类型|Python字符串数据类型格式化a  b  c|2
+http://toutiao.com/group/6507409739809292814/|python机器学习配置pybrain与scikitlearnLinux（自学视频收藏）|机器学习视频|0
+http://toutiao.com/group/6383145218312536322/|Python模块|当前目录Python导入字符串全局变量脚本符号表函数|0
+http://toutiao.com/group/6494219140172087821/|python 排序算法|smallest_num_indexRESTARTi+1UsersDesktop测试案例|0
+http://toutiao.com/group/6484717242398278158/|Python选择排序|Python排序序列选择排序|4
+http://toutiao.com/group/6434073677449101570/|Python Web|Webweb框架HTTP函数web服务器|0
+http://toutiao.com/group/6481884716076106254/|Python 流程控制语句|循环代码块循环语句Python语句|1
+http://toutiao.com/group/6439549373398385154/|python：python调用c和c++模块|视频|0
+http://toutiao.com/group/6490402387323257358/|小白学Python｜Python的变量类型|UTF-8字符串字符变量Python数据类型运算符|0
+http://toutiao.com/group/6432188237527892225/|Python手册！|脚本初始化符号表函数导入解释器子模块模块全局变量文本编辑器|0
+http://toutiao.com/group/6342600703168545025/|python基础教程之Python 中文编码|Python编码UTF-8FileEncoding|0
+http://toutiao.com/group/6454864391182483982/|Python不归路|作用域局部变量函数全局变量整段代码|0
+http://toutiao.com/group/6439549525936881922/|Python沙箱|JailException硬编码脚本语言python3|5
+http://toutiao.com/group/6480108546259157518/|python列表|LinuxPythonPHPJavaVim|0
+http://toutiao.com/group/6495545117644947982/|python-数据集成|数据挖掘数据源算法离散化正态分布|0
+http://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664608140&idx=2&sn=ab178acde33b8007ab448fdfaa7895e9|用 Python 实现 Python 解释器|解释器FunctionNoneVirtualMachinePythonFrame|0
+http://toutiao.com/group/6444332501263876366/|Python数据挖掘|数据挖掘统计量算法离群点聚类分析|0
+http://toutiao.com/group/6449463849372254477/|Python基础|获取用户python程序下划线|0
+http://toutiao.com/group/6480810847462490637/|Python 运算符（一）|Python返回操作数左侧操作数False|0
+http://toutiao.com/group/6423943435601838594/|用python写网络爬虫，玩转python|网络爬虫|0
+http://toutiao.com/group/6384392378798866690/|「python」使用Python编写、操作FTP客户端|Python脚本FTP客户端FTP服务器FTP|0
+http://toutiao.com/group/6398702500950720769/|Python开发丨python 开发学习路线|自动化编程网络爬虫面向对象编程CSS|5
+http://mp.weixin.qq.com/s?src=3&timestamp=1500305828&ver=1&signature=jlCWT*3Xh9KMcUbSfNVl8d1eqtswlE9wAW4XohRjkgP8BGmjvmRox8TAztC0BGyxgWwrGevfJRylROJrTImujJcfuIFTTUKDvr0B4gGEyoYFJi6SaqFh0GoVU-RK*UT*vhmwo8er5b3rAwywvDP3UzMzYwWglp*HU8V*RvQehxA=|Python｜使用jupyter notebook学习python基础|浏览器R语言集成开发环境jupyter notebookIDE|2
+http://toutiao.com/group/6481180277539340813/|Python 运算符（二）|False逻辑运算符运算符Python返回|0
+http://toutiao.com/group/6481780750189330957/|Python定义变量|下划线变量Python|0
+http://toutiao.com/group/6478047629707051534/|python怎么学|Python数据挖掘Django爬虫数据分析|0
+http://toutiao.com/group/6416188351636898050/|Python——列表|返回值Java单引号数据类型File字符串flying-birdlist对象列表|0
+http://toutiao.com/group/6362432878182252801/|python切片python怎么读取元素|切片|0
+http://toutiao.com/group/6429901495680729345/|你好！python|Quora数值计算PHP注册码Guido|0
+http://toutiao.com/group/6419827316331282690/|Python——模块|解释器安装包Pillow作用域PIL|3
+http://toutiao.com/group/6456503821949469198/|Python学习笔记——了解Python|Python科学计算数据库编程XML|0
+http://toutiao.com/group/6456727939294691853/|Python生成器|Inmodule > ( ) ----返回值Out函数生成器|1
+http://toutiao.com/group/6480840645605851662/|python元组详解|LinuxPHPpython3FileVim|0
+http://toutiao.com/group/6390997788868624641/|Python连接器|编程语言MySQLPython数据库连接器|0
+http://toutiao.com/group/6441727934755275010/|python练习题||4
+http://toutiao.com/group/6412911316352696577/|Python简介|操作系统机器码编译器字节码虚拟机|0
+http://toutiao.com/group/6446139294955340302/|Python入门教程||0
+http://toutiao.com/group/6441323619485303042/|python基础教程 零基础如何学好python|大数据|0
+http://toutiao.com/group/6437342006946562562/|8天学会python（1）：python基础数据类型|视频数据类型|0
+http://toutiao.com/group/6480875257279283726/|Python 逻辑|pythonZara字符串|0
+http://toutiao.com/group/6454115351771742733/|python入门教程：python安装2||0
+http://toutiao.com/group/6362036379639775489/|正确安装Python（搭建Python环境）|Pythonpython|0
+http://toutiao.com/group/6409607855855796481/|Python——字符串|view plain copy字符串代码片CODE格式化代码片派生|0
+http://toutiao.com/group/6460833875152077325/|Python｜在控制台执行Python脚本|Pythonpython可执行文件脚本|0
+http://toutiao.com/group/6456376384548766222/|PYTHON简介|GNUPython面向对象Guido脚本语言|2
+https://temai.snssdk.com/article/feed/index/?id=10115079&source_type=12&content_type=1|Python实战——Python实现选择排序|Python算法数据结构排序算法选择排序|1
+http://toutiao.com/group/6427273247980945666/|Python培训|培训班编程语言|0
+http://toutiao.com/group/6478076202023125518/|python变量|Python字符串True变量编程语言|0
+http://toutiao.com/group/6392916179534627073/|产品经理学技术&Python（三）：Python基础语法1|产品经理数据类型Python大小写浮点数|0
+http://toutiao.com/group/6422816763805335809/|Python冒泡排序|Python冒泡排序|0
+http://toutiao.com/group/6444258163876544781/|python 序列|python|0
+http://toutiao.com/group/6412123497472213250/|Spark(python)|SparkLinux环境变量软链接spark01|0
+http://toutiao.com/group/6406254745125060866/|Python|国内新闻分布式Filter数据库Redis|0
+http://toutiao.com/group/6417376255051038978/|初识python|Guido机器码字节码字节Unicode|0
+http://toutiao.com/group/6417731330935062785/|开启PYTHON|字节GB2312字符编码字符串ASCII|0
+http://toutiao.com/group/6393292175892005122/|产品经理学技术&Python（四）：Python基础语法2|Python产品经理False方法删除懂技术|0
+http://toutiao.com/group/6403306672077095170/|Python 数据类型|JavaInteger字符串字面量浮点数|0
+http://toutiao.com/group/6357523071327699202/|Python 异常处理|系统调用初始化运行时解释器代码生成|0
+http://toutiao.com/group/6506031706053542407/|微信跳一跳不仅可以用python刷分，竟然还可以直接改分|Flappy Bird虚拟环境ADB跳一跳MacOSPython|29
+http://toutiao.com/group/6481221146430669326/|Python那些事——python实用读书笔记，精品！|散列表字符串python3Pythons2café字符NFDNFC|1
+http://toutiao.com/group/6504431296322732558/|python入门——python函数|表达式局部变量函数全局变量Python|0
+http://toutiao.com/group/6500815290908017165/|Python第0课-为什么使用Python|C语言Python编程Java编程语言|0
+http://toutiao.com/group/6499228128160776718/|python 02 安装Python教程|WindowsPATH环境变量LinuxPython|0
+http://toutiao.com/group/6500527914528801293/|Python那些事——如何组织Python程序？|Python叙述逻辑流程序拓扑排序|0
+http://toutiao.com/group/6507185762662875655/|一个快速将python2代码批量转为python3代码的好方法|文件夹python3命令行python2Python|0
+http://toutiao.com/group/6391229146090094849/|Python3经典小程序练习，就是这么so esay！二|源代码|3
+http://toutiao.com/group/6314487982922612994/|Python3 色情图片识别|PillowPython3像素PythonPIL|45
+http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651370868&idx=1&sn=d786b16923d1b399b42a812c4529ad4f|Python3描述——10个很棒的Python特性|字符串标准库生成器Python3迭代器|3
+http://toutiao.com/group/6479612275782058510/|一小时入门 Python 3 网络爬虫（实战）|一年永恒浏览器SoupChrome网络爬虫爬虫HTML笔趣看一念永恒JavaScriptPythonURLPOST|17
+http://toutiao.com/group/6507376262099501582/|扣丁学堂Python3视频教程之queue队列模块详解|扣丁学堂Python3Python队列多线程|0
+http://toutiao.com/group/6458187853980500494/|史上最全面的python3 文件操作，不可错过哦！|文件对象Python字符串参考位置函数|4
+http://toutiao.com/group/6425040559518155010/|Python3中正则表达式使用方法|URL表达式字符串Python3Python空白字符内容换行符修饰符正则表达式|3
+http://toutiao.com/group/6475280656774464013/|聚沙成塔——爬虫系列（二）（python3基础语法）|可变数据类型数据结构函数表达式字符串|0
+http://toutiao.com/group/6495655377302979086/|python - Django2.0来了，用上Python3|Instagrampython3DjangoPythonpython2 1|4
+http://toutiao.com/group/6374176918212411650/|Java相比Python3有哪些优势？|Python面向对象JavaPython3C语言|6
+http://toutiao.com/group/6451595621790712077/|Python3 零基础自学笔记 1|Python000课笔记编程语言|1
+http://toutiao.com/group/6493409822619206158/|Python3安装|方向键Python3python3回退键Python|0
+http://toutiao.com/group/6347836926107877634/|Python3操作数据库|数据库导入库python3|7
+http://toutiao.com/group/6481094434422260237/|用Python3 破解ZIP文件的密码？学习了！|PyCharmzip文件Users密码字典Desktop|0
+http://toutiao.com/group/6408523177060761857/|python2和python3的区别|字符串Python3函数python3Python2|4
+http://toutiao.com/group/6496400288650363405/|享学课堂浅谈Python3之MySQL数据库连接详解|PythonAGEMysql数据表SQL语句SQL语句|0
+http://toutiao.com/group/6332374940180676866/|Python3零基础快速入门|python3|3
+http://toutiao.com/group/6501519394055651854/|自动签到拿京豆（基于Python3）|Python3|0
+http://toutiao.com/group/6428328571982823682/|「快学Python3」循环控制|苦叶子九九乘法表utf-8 -循环数值序列|0
+http://toutiao.com/group/6447262726129697038/|Python3中PyMongo的用法|KevinPython3调用ObjectId数据库result [ ' name 'Mike示例MongoDBJordan|1
+http://toutiao.com/group/6458470683784512013/|python3进阶八：异常处理|异常处理ZeroDivisionError错误信息ValueError除以零|0
+http://toutiao.com/group/6416225382395609345/|完美解决 Python2 和 python3 共存|Anaconda|0
+http://toutiao.com/group/6475182150881640974/|python3自动化中生成时间名（防止重复）|格式化|2
+http://toutiao.com/group/6404061181745266946/|爬取Bing的前十条搜索结果（python3）|Package正则表达式标签html标签Python3|0
+http://toutiao.com/group/6470381491212780045/|python3网络爬虫 (6)-分析知乎问题页面数据|格式化浏览器网络爬虫|1
+http://toutiao.com/group/6504099630949597709/|Python3 完全零基础入门精讲 02 编程语言|Python3编程语言|2
+http://toutiao.com/group/6435141368321933826/|Python3基础系列视频课程：（1）Python初识|Python3基础系列视频课程python3基础系列视频课程视频|1
+http://toutiao.com/group/6456643202387542542/|python3进阶三：提高效率的高阶函数|返回值Zara高阶函数匿名函数python3|0
+http://toutiao.com/group/6449458004575126029/|Python3非阻塞异步代码设计|代码Python3|0
+http://toutiao.com/group/6507011093569733124/|扣丁学堂浅谈Python3视频教程之多线程爬虫实例讲解|UrlPython多线程线程爬虫|0
+http://toutiao.com/group/6493769268537065998/|Python3编程小技巧|False|1
+http://toutiao.com/group/6495947925074477581/|Python3之 中文关键字提取|Python关键字倒排索引JAVANodejs|1
+http://toutiao.com/group/6347538562901623041/|Python3爬虫入门实践——爬取名著|爬虫三国演义隋唐演义数据库|2
+http://toutiao.com/group/6454499358279729678/|python3基础四：条件判断|布尔值控制台python3编程语言函数|0
+http://toutiao.com/group/6504484730589676046/|一个月带你入门Python爬虫，轻松爬取大规模数据|ScrapyMRO初始化PythonMongoDB数据库爬虫多重继承|13
+http://toutiao.com/group/6477693898704552461/|32个Python爬虫项目让你一次吃到撑|MongoDBRedis爬虫网络爬虫Python|2
+http://toutiao.com/group/6506793982977114632/|Python学起来很枯燥？那是因为你还不会爬妹子图！超级牛逼的教程|python开发环境|36
+http://toutiao.com/group/6507154744434229767/|Python大牛教你写维护IP的代理池，爬虫效率呈直线提升！|爬虫Python|0
+http://toutiao.com/group/6491877167352250893/|神级程序员手把手教你入门Python爬虫！阅读此篇不需要Python基础|PythonXpath浏览器爬虫编程语言|1
+http://toutiao.com/group/6507146101156479502/|Python那些事——利用Python爬虫过滤“掘金”的关键词检索结果|解析器函数Python爬虫JSONHTMLNonefout.writeInvalidURL|0
+http://toutiao.com/group/6485686575421194765/|两个超详细的python爬虫技能树（思维导图）|PPTGitHub思维导图爬虫|3
+http://toutiao.com/group/6507187433224798728/|神级程序猿留下的快速安装django指南，非常适合初学框架的你|数据库PostgreSQLDjangoPythonPIP|0
+http://toutiao.com/group/6492531881114862093/|福利，非常全的"Python爬虫"学习资料（免费）|用Python写网络爬虫Scrapy浏览器Python网络爬虫爬虫|10
+http://toutiao.com/group/6485224588069306894/|三种 Python 网络内容抓取工具与爬虫|ScrapyGitHub网络爬虫爬虫Python|1
+http://toutiao.com/group/6456671082760897038/|python爬虫爬取彩票中奖信息|Python爬虫腾讯|1
+http://toutiao.com/group/6421806714119717122/|Python：爬虫处理流程及网页解析|XMLHTML单一解析器XPathPython|0
+http://toutiao.com/group/6421480641636024577/|Python整站爬虫开发实时存储数据库|爬虫整站Python数据库|0
+http://toutiao.com/group/6505912436971799043/|Python3爬虫实战：第1课时 Python3+Pip环境配置|爬虫Python3|0
+http://toutiao.com/group/6489656964228841997/|python爬虫学习！教你从零基础开始玩爬虫！三|玩爬虫爬虫|0
+http://toutiao.com/group/6497564890448790030/|python爬虫学习笔记day-3|Decode浏览器cookie信息GeckoJSON|0
+http://toutiao.com/group/6426310747865497857/|Python爬虫天气预报（小白入门）|Referer浏览器爬虫服务器|1
+http://toutiao.com/group/6429639175352451329/|Python爬虫数据处理|数据库爬虫字段函数SQL|0
+http://toutiao.com/group/6451448289454719501/|python爬虫教程：爬取音乐巴士||0
+http://toutiao.com/group/6478509513996501518/|Python大牛带你一个爬虫搞定ALL英文单词翻译发音建立私人单词库|Python爬虫单词库|0
+http://toutiao.com/group/6445071614378770958/|零基础教你用python爬虫爬段子|爬虫腾讯|0
+http://toutiao.com/group/6439545751675879681/|Python开发简单爬虫（一）|URL网页下载器网页解析器爬虫MySQL|2
+http://toutiao.com/group/6462117723496251918/|Python淘宝搜索爬虫|Python爬虫|0
+http://toutiao.com/group/6424458385295835393/|爬虫 我还是喜欢Python|NUMXXXX爬虫网络爬虫JOBS|0
+http://toutiao.com/group/6487088019747635726/|Python爬虫|网络爬虫爬虫编程语言URL|0
+http://toutiao.com/group/6432985461732475138/|Python爬虫音频数据|音频数据音频IDE喜马拉雅数据量|0
+http://toutiao.com/group/6456783791754052110/|Python如何快速制作爬虫采集小说|爬虫数据库Python想要学习python感兴趣|0
+http://toutiao.com/group/6473699270636601870/|Python爬虫：爬取美女写真图|python|1
+http://toutiao.com/group/6434124248752095489/|python爬虫实战案例之采集数据|人生苦短|0
+http://toutiao.com/group/6280316710625509634/|Python爬虫：喜马拉雅FM|异常处理断点续传喜马拉雅有声书|16
+http://toutiao.com/group/6440559197644915201/|Python开发简单爬虫 3 爬虫技术的价值 全22课|爬虫|1
+http://toutiao.com/group/6413688819376095489/|跟女神学爬虫之Python多线程|Xpathbs4多线程爬虫女神|2
+http://toutiao.com/group/6423995983273459970/|用爬虫解析Python岗位招聘情况|数据库top10DjangoLinux算法导论数据结构Python|0
+http://toutiao.com/group/6431500488260337921/|Python爬虫：爬呀爬表情包|爬虫人生苦短|1
+http://toutiao.com/group/6435782821907267842/|Python爬虫学习视频 下部|数据挖掘视频爬虫|0
+http://toutiao.com/group/6467100021824160269/|爬虫Python-定向爬虫实例|哈尔滨工业大学数据结构中国科学技术大学华中科技大学　　　|0
+http://toutiao.com/group/6439185631931236610/|python爬虫，大有可为！|爬虫|1
+http://toutiao.com/group/6478150753868317197/|Python爬虫开发精准营销插件|Python插件爬虫|0
+http://toutiao.com/group/6459221314224783885/|Python爬虫原理讲解（二）爬虫必备知识点|Python爬虫|0
+http://toutiao.com/group/6486224424428110350/|Python个性化主题网络爬虫探究|GeckoPython网络爬虫MozillaSeleniumHTML浏览器Windows NT爬虫HTTP|0
+http://toutiao.com/group/6485950623979143694/|python技术悟空问答平台爬虫工具开发|Python腾讯|0
+http://toutiao.com/group/6444282134516466190/|python爬虫从入门到精通系列(5.requests+BeautifulSoup4+完成淘宝爬虫）|爬虫|0
+http://toutiao.com/group/6416646119662027009/|用 Python 代码构建一个爬虫框架|Scrapy数据库Request触发调用Spider|0
+http://toutiao.com/group/6423662234229276929/|如何利用Python开发商业爬虫（1)|视频爬虫|0
+http://toutiao.com/group/6438326720117342721/|Python爬虫框架Scrapy|爬虫scrapy|0
+http://toutiao.com/group/6449676719423144205/|为什么我们要用Python做爬虫呢？|PythonHTML网络爬虫爬虫中关村|1
+http://toutiao.com/group/6424419905614364929/|如何利用Python开发商业爬虫（3)|视频爬虫|0
+http://toutiao.com/group/6431026166941401346/|python简单爬虫，实战案例！|爬虫|0
+http://toutiao.com/group/6436364513792229634/|Python 爬虫的自我维护和自我判断（二）：如何判断爬虫出错然后重启|看门狗B重启爬虫爬虫文件数量|0
+http://toutiao.com/group/6425016197330682113/|如何利用Python开发商业爬虫（4)||0
+http://toutiao.com/group/6425580501717827842/|如何利用Python开发商业爬虫（5)|爬虫|0
+http://toutiao.com/group/6424049368450515201/|如何利用Python开发商业爬虫（2)||0
+http://toutiao.com/group/6505884237088948739/|大神说你学会这个爬虫高级技巧，网站随便你爬！|Python爬虫|3
+http://toutiao.com/group/6424670989958938881/|Python爬虫东方财富贴吧数据|帖子列表列表页数据库帖子详情页解析函数|0
+http://toutiao.com/group/6420014530138571010/|Python Web结合爬虫开发在线音乐播放器|播放器爬虫在线音乐|0
+http://toutiao.com/group/6456740060376072717/|Python爬虫教程：采集简书文章|PIL爬虫Windows|0
+http://toutiao.com/group/6459246640048898574/|Python爬虫必备三大模块精讲|Python爬虫|1
+http://toutiao.com/group/6428134075046838530/|Python爬虫系列-途家|字符串www.baidu.com途家网|0
+http://toutiao.com/group/6439993737522184705/|python基础学爬虫2|Python|0
+http://toutiao.com/group/6447796354072789262/|python爬虫之微打赏（scrapy版）|PythonMozillaGecko爬虫Windows NT|0
+http://toutiao.com/group/6441146079819825410/|Python爬虫不一样豆瓣音乐|豆瓣音乐中国音乐top250爬虫流行音乐|0
+http://toutiao.com/group/6410941323717411074/|Python爬虫进阶|正则表达式浏览器爬虫user-agent|0
+http://toutiao.com/group/6437193439712395522/|Python爬虫之同步/异步|Requests爬虫|0
+http://toutiao.com/group/6460432374059500046/|Python爬虫小白入门之Requests库|RequestsHTML浏览器Python|0
+http://toutiao.com/group/6423329795702178050/|Python爬虫糗事百科（精讲）|Python数字控制爬虫|0
+http://toutiao.com/group/6440281310501011969/|爱剪辑-python基础学爬虫3|爬虫|0
+http://toutiao.com/group/6453377054342644238/|python爬虫入门必备正则表达式详解||0
+http://toutiao.com/group/6428125720899879170/|python爬虫小白入门之BeautifulSoup库|小白|0
+http://toutiao.com/group/6451048492936053006/|Python爬虫利刃之BeautifulSoup实例操作|互联网BeautifulSoupPythonbs4HTML|0
+http://toutiao.com/group/6470055693880656397/|Python初学，QQ音乐网站，简单爬虫，零基础|爬虫音乐网站|2
+http://toutiao.com/group/6481056548863869453/|自学python爬虫之爬取知乎的图片|python百度贴吧|0
+http://toutiao.com/group/6488108108513018381/|Python爬虫scrapy入门看这篇就够了|Scrapy网络爬虫爬虫PythonField|1
+http://toutiao.com/group/6504900728606163469/|python 爬虫之BeautifulSoup 一|命令提示符解释器编码方式BeautifulSoup解析器|2
+http://toutiao.com/group/6477815439840772621/|python爬虫之图片下载APP1.0||1
+http://toutiao.com/group/6485544810076701198/|Python数据分析及可视化实例之爬虫源码（03）|NLPJson关键词网络爬虫Ajax|0
+http://toutiao.com/group/6408869167771943425/|Python 基础：分分钟入门|False函数运算符In字符串代码风格True|3
+http://toutiao.com/group/6507053196077171214/|新手看完Python实现微信跳一跳自动运行，再忍不住了|异常处理Exception跳一跳BiggerPython|121
+http://toutiao.com/group/6503773572224254477/|python基础教学|元素函数列表字符串机器语言|0
+http://mp.weixin.qq.com/s?src=3&timestamp=1502241737&ver=1&signature=wnZn1UtWreFWjQbpWweZXp6RRvmmKwW1-Kud3x6OF0fQQ4BYW6JOM1wIxZaoNYkuYtQW55CfAaoX8*v8XfllQnsGPXGHt1mwJWzO5GTC74ijcj9*Tm*irxALaFblAUzhH8w0i6FSsR8qNONUEZcI5sSDfKdgqzutLF0GK8-ONbc=|一个Python包，学会所有基础算法|python3Python算法测试用例时间复杂度|5
+http://toutiao.com/group/6480835083405099533/|python之网络编程基础篇|半双工源代码服务器端服务端客户端|2
+http://toutiao.com/group/6505936981795537421/|python学习之基础语法（十四）|list01python列表list02list03|0
+http://toutiao.com/group/6506475804585624071/|想转行的和零基础的如何用五个月精通python？|精通Python编程语言精通编程到达精通|6
+http://toutiao.com/group/6469519820248318478/|python网络爬虫——入门基础|Cookie服务端浏览器Mozilla网络爬虫服务器Fiddler爬虫字符编码|2
+http://toutiao.com/group/6507137388798542350/|我是工地搬砖的，想改行学Python，可行吗？|编程语言PythonNCRE小伙伴Python语言|5
+http://toutiao.com/group/6478520247555981837/|python基础学习第二步·编辑器的选择|文本编辑器PyCharmIDE编程语言Vim|2
+http://toutiao.com/group/6507095122075714055/|孟哥带你学python：初学者必学的数据类型有几种？今天学Tuples|Tuples操作符t1字符串数据类型|0
+http://toutiao.com/group/6429164267530354945/|Python基础教程：入门学习（1）|人生苦短|0
+http://toutiao.com/group/6506818005542896131/|Python读书笔记12（IF语句应用）|为真执行Forif语句PythonIF语句|5
+http://toutiao.com/group/6506709342878695950/|2017传智播客黑马Python就业+基础班视频教程|人工智能|0
+http://toutiao.com/group/6506793354120921613/|传智播客黑马Python就业+基础班视频教程分享（大概400多GB）|人工智能人生苦短Pythonpython并行计算|0
+http://toutiao.com/group/6506644322237022727/|跟我从零开始学Python之七：列表的方法|Python方法用于pop方法Java列表|1
+http://toutiao.com/group/6480040022954213901/|python 基础教程|Python面向对象Perl语言脚本语言Guido|3
+http://toutiao.com/group/6486996196912005646/|python基础学习第十七步·面向对象「1」|面向对象BMWStudentCar面向对象编程面向过程Object|0
+http://toutiao.com/group/6486620571101561358/|python基础学习第十六步·文件操作|重命名位置创建新文件文件指针文件名|2
+http://toutiao.com/group/6490385404020130318/|小白学Python｜来看看基础语法吧|脚本解释器双引号Python单引号标识符|0
+http://toutiao.com/group/6385758497908359426/|python基础------正则表达式|正则表达式字符串Python模式匹配元字符|1
+http://toutiao.com/group/6506725394807259652/|Python基础教程 呃……我也记不清楚这该是第几期了|方括号|0
+http://toutiao.com/group/6452468345391284749/|Python基础语法（1）|Python布尔值字符串编码浮点数|0
+http://toutiao.com/group/6481846959790359054/|Python基础：多线程编程|信号量Lock主程序代码段Semaphore|0
+http://toutiao.com/group/6506448900876927502/|汇总微信跳一跳小白也能掌握的刷分方式|Python小游戏破解版模拟器|0
+http://toutiao.com/group/6363597316200775938/|Python 基础|垃圾回收引用模块Python引用计数|2
+http://toutiao.com/group/6424098385788027137/|python的基础有哪些了？|面向对象编程|0
+http://toutiao.com/group/6481652660712768014/|Python基础简介之for文件基本操作实例|GBKpython3函数Python文件底部添加内容|4
+http://toutiao.com/group/6506338626794701319/|享学课堂之python for循环|循环|0
+http://toutiao.com/group/6484927226696434189/|python基础学习第十四步·元祖&字典|Python地球亚洲中国北京字符串File字典|0
+http://toutiao.com/group/6487782966649946638/|python基础学习第十七步·面向对象「3」|实例化PythonSingleton单例模式解释器|0
+http://toutiao.com/group/6417246354111774978/|Python 数据分析包：pandas 基础讲解|Numpy|1
+http://toutiao.com/group/6440797005232046337/|Python基础命令入门|字符串浮点数全局变量赋值运算符流程控制|1
+http://toutiao.com/group/6426543021614432514/|如此“简单”的Python基础课程||1
+http://toutiao.com/group/6479367381595456013/|Python：夯实基础重中之重|Python遍历操作符函数列表|2
+http://toutiao.com/group/6488805035936317966/|python学习！python基础知识点之递归函数详解！|知识点递归函数|1
+http://toutiao.com/group/6342600703168545025/|python基础教程之Python 中文编码|Python编码UTF-8FileEncoding|0
+http://toutiao.com/group/6480678616752456206/|python基础学习第七步·算数运算符|数学计算算数运算符计算结果Python字符串|0
+http://toutiao.com/group/6506448674543895047/|如果大学生把学校的编程课程学完了，能否胜任工作呢？|88元PythonJava大学生编程语言|22
+http://toutiao.com/group/6478629253620433421/|Python基础笔记二|索引序列函数Python运算符字符串返回值数据结构迭代器列表|0
+http://toutiao.com/group/6429280139573854465/|Python基础教程：入门学习（3）|人生苦短|0
+http://toutiao.com/group/6436219187307856130/|Python基础教程：字符串使用详解|a  b  c制表符格式化八进制格式化字符串|0
+http://toutiao.com/group/6483094274127692302/|python基础学习第十步·变量的命名|Python命名法小写字母标识符关键字|1
+http://toutiao.com/group/6416952793383321857/|python基础2|人生苦短|0
+http://toutiao.com/group/6437342006946562562/|8天学会python（1）：python基础数据类型|视频数据类型|0
+http://toutiao.com/group/6479188910252491278/|Python基础笔记五——条件，循环和其他语句|字符串运算符函数Pythonc语言File内存地址表达式语句|0
+http://toutiao.com/group/6429181229312229634/|Python基础教程：入门学习（2）|人生苦短|0
+http://toutiao.com/group/6488461691494334990/|Python基础学习—列表|Python|0
+http://toutiao.com/group/6495327888504521229/|python基础（一）：数据类型|字符格式化函数十六进制FalseTruePython运算符随机数字符串|0
+http://toutiao.com/group/6450690832936173838/|python 基础-如何调用函数|TypeError函数Python类型转换abs函数|1
+http://toutiao.com/group/6424316349120479490/|python基础之数据类型介绍|字符串True浮点数False数据类型|0
+http://toutiao.com/group/6449463849372254477/|Python基础|获取用户python程序下划线|0
+http://toutiao.com/group/6459282563692233229/|python入门基础教程之函数参数||0
+http://toutiao.com/group/6411346089307881729/|python基础之快速排序||2
+http://toutiao.com/group/6484067281151197709/|Mars亲授Python基础视频教程02|Python &人工智能开发教程python&人工智能开发教程|0
+http://toutiao.com/group/6466291330766078477/|Python基础 1.3 Python语言介绍和配置|PythonPython语言python语言|0
+http://toutiao.com/group/6422102106069778690/|Python学习基础教程 python是什么语言？|Python字节码虚拟机源代码Guido|0
+http://toutiao.com/group/6420537757727424769/|python基础教程 python采集中文社区教程|中文社区|1
+http://toutiao.com/group/6466291347656540685/|Python基础 1.3 Python语言介绍和配置 2|python语言PythonPython语言|0
+http://toutiao.com/group/6486580756649869838/|变量Python基础学习——变量||0
+http://toutiao.com/group/6462311367696204301/|python入门基础知识点：匿名函数内嵌函数|匿名函数函数|0
+http://toutiao.com/group/6393558654704959746/|Python基础之模块|脚本解释器Python学习交流群模块文本编辑器|1
+http://toutiao.com/group/6466639612205859341/|Python基础 6.4 文件实例二|Python|0
+http://toutiao.com/group/6431386341527699714/|Python编程语言基础技术框架|视频Python编程语言|0
+http://toutiao.com/group/6431102442466001153/|Python基础之字符编码|字符编码Python解释器Unicode文本编辑器|0
+http://toutiao.com/group/6447434106841072142/|Python入门基础视频教程-8.1 循环体for基础||0
+http://toutiao.com/group/6439993737522184705/|python基础学爬虫2|Python|0
+http://mp.weixin.qq.com/s?src=3&timestamp=1500305828&ver=1&signature=jlCWT*3Xh9KMcUbSfNVl8d1eqtswlE9wAW4XohRjkgP8BGmjvmRox8TAztC0BGyxgWwrGevfJRylROJrTImujJcfuIFTTUKDvr0B4gGEyoYFJi6SaqFh0GoVU-RK*UT*vhmwo8er5b3rAwywvDP3UzMzYwWglp*HU8V*RvQehxA=|Python｜使用jupyter notebook学习python基础|浏览器R语言集成开发环境jupyter notebookIDE|2
+http://toutiao.com/group/6466569540607148558/|Python基础 4.1 程序基本结构|Python|0
+http://toutiao.com/group/6466639444312064526/|Python基础 6.3 文件实例一|Python|0
+http://toutiao.com/group/6467308579786326541/|Python 基础丨数析学院|析学院PythonPackagesScipy数据结构|1
+http://toutiao.com/group/6413215222688907777/|python numpy基础 数组和矢量计算|arr2浮点数False数组arr1|0
+http://toutiao.com/group/6506700742277988878/|学会Python很难吗？我建议你应该看看这个|Python华氏温度摄氏温度编程正则表达式|4
+http://toutiao.com/group/6466572085450768910/|Python基础 4.6 基本循环结构|Python|2
+http://toutiao.com/group/6466571823227077133/|Python基础 4.2 简单分支|Python|0
+http://toutiao.com/group/6459669218282439181/|python入门基础教程之forwhile循环||0
+http://toutiao.com/group/6429146013050749186/|Python基础之控制流|控制流伪代码True表达式语句False|0
+http://toutiao.com/group/6447434089501819406/|Python入门基础视频教程-5.3.1 Python自定义函数基础：有形参和无形参解析||0
+http://toutiao.com/group/6477078239800984078/|Python基础《for循环/模块概念/数组》|打印list1UsersLibraryDesktop|1
+http://toutiao.com/group/6420916975602663682/|python基础教程 打造多线程网络爬虫|数据挖掘多线程网络爬虫|0
+http://toutiao.com/group/6466571844945183246/|Python基础 4.3 多分支|Python|0
+http://toutiao.com/group/6428748935762411778/|Python基础 开始学习数据类型 编程基础|数据类型编程语言NBAplayerR语言Py|0
+http://toutiao.com/group/6466640765274554894/|Python基础 6.8 字典实例二|Python|0
+http://toutiao.com/group/6428901323085611266/|Python入门基础之变量|函数字符串系统函数编译器变量|0
+http://toutiao.com/group/6493131372075418125/|人工智能已经‘入侵’的行业，看看有没有你所在的行业|AIOpenI AM AI机器人人工智能编程语言TEO|14
+http://toutiao.com/group/6458027775784649229/|Python基础语法（三）——函数|关键字参数参数函数定义函数|0
+http://toutiao.com/group/6435563226915193089/|Python基础教程One：基本数据类型|数据类型s2prints1False布尔型|0
+http://toutiao.com/group/6466640181406466573/|Python基础 6.6 字典的操作|Python|0
+http://toutiao.com/group/6466640646709969421/|Python基础 6.7 字典实例一|Python|0
+http://toutiao.com/group/6451316006786253070/|Python基础之函数的简单应用|函数学生会一对兔子人猿泰山|0
+http://toutiao.com/group/104585268/|Python基础之字符串和编码|ASCII编码字符串编码格式化字节Unicode编码Python|0
+http://toutiao.com/group/6466567619280372238/|Python基础 3.1 数字和字符串类型 4|Python字符串|0
+http://toutiao.com/group/6447434085206852109/|Python入门基础视频教程-4 Python变量解析||0
+http://toutiao.com/group/6466563632909009421/|Python基础 2.2 蟒蛇绘制程序|Python|0
+http://toutiao.com/group/6411471726387822850/|Python开发基础14：列表解析、乘法表|乘法表|0
+http://toutiao.com/group/6466561597346152974/|Python基础 2.1 Python语法元素入门|Python|0
+http://toutiao.com/group/6466567341952991757/|Python基础 3.1 数字和字符串类型 3|Python字符串|1
+http://toutiao.com/group/6466561950548492814/|Python基础 2.1 Python语法元素入门 2|Python|0
+http://toutiao.com/group/6466571861781119502/|Python基础 4.4 异常处理|Python异常处理|0
+http://toutiao.com/group/6410313873118740738/|Python开发基础13：while基础结构||0
+http://toutiao.com/group/6466567018106585613/|Python基础 3.1 数字和字符串类型—2|Python字符串|0
+http://toutiao.com/group/6479612275782058510/|一小时入门 Python 3 网络爬虫（实战）|一年永恒浏览器SoupChrome网络爬虫爬虫HTML笔趣看一念永恒JavaScriptPythonURLPOST|17
+http://toutiao.com/group/6482049292440699406/|Python基础简介之简单网络爬虫|PythonURL浏览器编程语言网络爬虫|7
+http://toutiao.com/group/6423196019588743425/|Python网络爬虫requests、bs4爬取空姐网图片|bs4Scrapy爬虫爬取Python|40
+http://toutiao.com/group/6405441758705008897/|python网络爬虫技巧——以搜房网和58为例|数据库正则表达式循环抓取浏览器SQLite|6
+http://toutiao.com/group/6421236849725374721/|Python网络爬虫基本原理|爬虫网络爬虫互联网|1
+http://toutiao.com/group/6423496770265448705/|Python网络爬虫：空姐网、糗百、xxx结果图与源码|空姐网Scrapy源码网络爬虫Spiders|26
+http://toutiao.com/group/6491211331025240589/|零基础如何用python3.6网络爬虫从小demo到搭建完整爬虫系统|PythonFlaskScrapyRedis爬虫|0
+http://toutiao.com/group/6499594141666640398/|学会Python这几个类库使用，快速写爬虫不是问题（详细步骤附源码）|爬虫InOutExampleCSSNametest1HTML网络爬虫SETTING|2
+http://toutiao.com/group/6441927302075121921/|精通Python网络爬虫（0）：网络爬虫学习路线|XPathScrapy爬虫编程语言Linux|1
+http://toutiao.com/group/6501986721599586830/|与微软爬虫工程师浅谈Python爬虫！与君一席话，胜读十年书！|网络爬虫HTTP爬虫代理服务器User-Agent|2
+http://toutiao.com/group/6499610139216052750/|Python爬虫入门：爬虫基础了解|PythonScrapyHTML网络爬虫爬虫|1
+http://toutiao.com/group/6496260197185487374/|用 Python 连接 MySQL 的几种姿势|Python数据库ORMMySQLSQL|1
+http://toutiao.com/group/6368443400123597058/|用Python 写网络爬虫-第一个网络爬虫|BeautifulSoupurllib2 import urlopenfrom bs4 importGrapIndex字符流代码片段|7
+http://toutiao.com/group/6479021051513668109/|干货Python全套教程免费，网络爬虫-机器学习-黑客入门-入门教程|Python机器学习自然语言编程语言深度学习|2
+http://toutiao.com/group/6315164708530323714/|Python即时网络爬虫项目：内容提取器的定义|GitHub网络爬虫源代码Python程序员|1
+http://toutiao.com/group/6413601955960275202/|案例+课件下载｜46页PPT，带你玩转Python网络爬虫|大数据文本分析网络爬虫商业智能|6
+http://toutiao.com/group/6415295977695543553/|浅谈Python网络爬虫|浏览器JavaScript网络爬虫urllib2爬虫CSS|3
+http://toutiao.com/group/6337985576176140546/|Python网络爬虫实战12：处理新闻数据来源（持续更新)||0
+http://toutiao.com/group/6504976182029582861/|拒绝手动下载，python网络爬虫下载图灵数学统计学丛书|JavaScript正则表达式图灵数学统计学丛书人工智能谷歌浏览器|5
+http://toutiao.com/group/6494841145628033549/|Python从0到1：玩转PyQuery快速解析HTML|PythonjQueryPyQueryPyCharm网络爬虫|1
+http://toutiao.com/group/6334573509532975361/|Python网络爬虫实战2、数据处理与网络爬虫（持续更新)||2
+http://toutiao.com/group/6494174670152008206/|牛逼！利用Python获取淘宝商品信息，小伙伴们赶紧上吧！|代码网络爬虫Python|0
+http://toutiao.com/group/6335686435744317698/|Python网络爬虫实战8：制作新闻网络爬虫（持续更新)||3
+http://toutiao.com/group/6431125763374416129/|python网络爬虫该如何爬妹子图片|MozillaGeckoWindows NTAppleWebKitbs4|1
+http://toutiao.com/group/6497737276221555213/|Python入门必学2个重点及精髓-Requests库~正则基本使用（附源码）|经典老歌字符串换行符正则表达式Demowww.baidu.comh2Pythonli data-view参数传递|3
+http://toutiao.com/group/6500781034722820621/|精通Python网络爬虫：核心技术、框架与项目实战|网络爬虫全栈开发-web框架篇爬虫全栈开发-项目实战开发-基础篇|0
+http://toutiao.com/group/6400332141407273217/|python网络爬虫|网络爬虫人生苦短|0
+http://toutiao.com/group/6500339139487990286/|Python网络爬虫实战｜非结构化数据处理与网络爬虫|Python非结构化数据网络爬虫|1
+http://toutiao.com/group/6503844543534727693/|Python网络爬虫实战-撰写第一只网络爬虫|Python网络爬虫|0
+http://toutiao.com/group/6425195510647128322/|python网络爬虫之：获取IP代理|Python学习交流群爬虫分享更新IPDDOS|1
+http://toutiao.com/group/6477696013413909005/|Python初尝试|网络爬虫访问量尾页正则表达式Python|4
+http://toutiao.com/group/6470008748915032590/|Python网络爬虫——爬虫进阶|Cookie打开方式HTTPPythonwww.baidu.com网络爬虫|1
+http://toutiao.com/group/6481496350700601870/|你想找的Python资料这里全都有！没有你找不到！史上最全资料合集|NoSQLDjango命令行MySQLPython数据库RedisFlaskJSONHTML|10
+http://www.bilibili.com/video/av10630230/|用Python写网络爬虫必学||0
+http://toutiao.com/group/6400344582122373377/|python打造网络爬虫爬取整站视频|图形界面网络爬虫取整站视频|1
+http://toutiao.com/group/6452539099508113933/|Python网络爬虫-爬虫进阶（看完我爬了一遍空姐图）|代码操作Cookieurllib2回调函数爬虫|0
+http://toutiao.com/group/6339026023954661634/|Python网络爬虫实战18：完成内文信息抽取函（持续更新)||2
+http://toutiao.com/group/6389436801388822785/|python打造网络爬虫爬取整站视频（桌面版）|网络爬虫视频取整站桌面版|0
+http://toutiao.com/group/6423943435601838594/|用python写网络爬虫，玩转python|网络爬虫|0
+http://toutiao.com/group/6428542534922223873/|手把手教你写网络爬虫 Python语言开发工具选择||3
+http://toutiao.com/group/6481162958050165262/|京东的python爬虫，可以搭建自己的购物平台啦，哈哈！|网络爬虫爬虫爬取源码源代码正则表达式|1
+http://toutiao.com/group/6335311135415206401/|Python网络爬虫实战5、剖析网页元素（持续更新)||0
+http://toutiao.com/group/6481209883248050701/|Python 全栈高级视频｜学习资料分享|Python机器学习人工智能网络爬虫开发者|3
+http://toutiao.com/group/6335686729160573186/|Python网络爬虫实战9：抓取新闻内文页面（持续更新)||0
+http://toutiao.com/group/6344658032505405697/|Python网络爬虫框架Scrapy笔记（二）|爬虫CSSXPathURLHTML|0
+http://toutiao.com/group/6504051858619761165/|Python网络爬虫实战-制作新浪新闻网络爬虫|Python网络爬虫新浪新闻|0
+http://toutiao.com/group/6328181435455832321/|Python网络爬虫实战1、大数据时代的数据挑战（持续更新)|第一套视频短篇2016年真题|8
+http://toutiao.com/group/6449857959534067982/|Python网络爬虫实战|Python网络爬虫数据库标识符课时|0
+http://toutiao.com/group/6498083665644356109/|学Python爬虫必会两大神器Urllib与BeautifulSoup的使用（详细源码|解析器Pythonutf8爬虫li classCSSBarwww.baidu.comh4Foo|3
+http://toutiao.com/group/6480448809921937933/|免费下载歌曲!Python工程师教你写几行代码无限制下载歌曲（附源码|Python万维网Redis爬虫网络爬虫|3
+http://toutiao.com/group/6431865841205117185/|Python网络爬虫实战Scrapy 爬取网页的通用代码框架||1
+http://toutiao.com/group/6491923229941170701/|网络爬虫之必备知识|网络爬虫爬虫字符编码Python简明教程笨办法学Pythonhttp权威指南浏览器Python|2
+http://toutiao.com/group/6410286468350411010/|用python写网络爬虫第三课|网络爬虫|0
+http://toutiao.com/group/6500888774560449037/|老Pythoner教你利用爬虫框架Scrapy批量抓取招聘信息！|网络爬虫爬虫PythonScrapyGithub|0
+http://toutiao.com/group/6337984865476559106/|Python网络爬虫实战13：整理新闻数据内页（持续更新)||0
+http://toutiao.com/group/6346053512048754945/|Python网络爬虫框架Scrapy笔记（三）|ScrapyMozillascrapy crawl stackoverflowscrapy shellmongoDB|0
+http://toutiao.com/group/6368615462670975234/|网络爬虫爬取站点地图 python 抓取|网站地图数据库网络爬虫Python|1
+http://toutiao.com/group/6444001745663164942/|python爬虫从入门到精通系列（1. 什么是网络爬虫）|网络爬虫爬虫|1
+http://toutiao.com/group/6421681209117540609/|Python 网络爬虫数据采集|PythonMongoDB怪兽IT学院JSON爬虫|1
+http://toutiao.com/group/6486224424428110350/|Python个性化主题网络爬虫探究|GeckoPython网络爬虫MozillaSeleniumHTML浏览器Windows NT爬虫HTTP|0
+http://toutiao.com/group/6426206501966184706/|python网络爬虫之：抓取搜房网小区详细信息||0
+http://toutiao.com/group/6473799568671638030/|就是这么简单你也行Python入门网络爬虫，二十行代码下载经典名著|正则表达式网络爬虫编程语言文本文件Python|0
+http://toutiao.com/group/6421763915633394178/|Python零基础快速学习之用python写网络爬虫视频教程|网络爬虫Python|0
+http://toutiao.com/group/6476749059007709710/|不用到处找，超简单十行代码免费下载歌曲和歌词，Python入门教程|Python万维网网络爬虫爬虫编程语言|5
+http://toutiao.com/group/6481960449960051214/|免费打包下载段子!Python工程师几行代码教你下载经典笑话（附源码|Web爬行网络爬虫爬虫Surface|1
+http://toutiao.com/group/6435074365196337666/|爱剪辑-python打造多线程网络爬虫|多线程网络爬虫|0
+http://toutiao.com/group/6373437280393199873/|一名合格的数据分析师分享Python网络爬虫二三事（上）|Exceptionx80HTTPURL网络爬虫爬虫异常处理|0
+http://toutiao.com/group/6437615921153540354/|Python网络爬虫实战视频教程下载|网络爬虫新浪新闻百度搜索大数据非结构化数据|0
+http://toutiao.com/group/6432255679637815554/|python爬虫案例讲解之使用bs4打造网络爬虫|bs4网络爬虫http协议|0
+http://toutiao.com/group/6438465940799373569/|程序员学网络爬虫之用python获取免费代理IP|爬虫百度搜索代理ip信息网络爬虫免费代理ip|4
+http://toutiao.com/group/6337987630806466818/|Python网络爬虫实战16：剖析新闻标识符数据（持续更新)||0
+http://toutiao.com/group/6419916383212159234/|用python写网络爬虫第二课之链接爬虫|网络爬虫爬虫|0
+http://toutiao.com/group/6418041266006049025/|用python写网络爬虫第二课之链接爬虫|网络爬虫爬虫|0
+http://toutiao.com/group/6473424093780640270/|超简单Python网络爬虫入门学习，十行代码获取最新新闻信息|Python人工智能大数据代码编程语言|1
+http://toutiao.com/group/6339026125007798529/|Python网络爬虫实战17：建立评论数抽取函式（持续更新)||0
+http://toutiao.com/group/6337985027385344258/|Python网络爬虫实战14：爬取新闻发布者名称（持续更新)||0
+http://toutiao.com/group/6470343385281462797/|Python网络爬虫---------Requests和Beautiful Soup|JSONSSLhttpbin.org编码方式解析器浏览器HostFalsePythonAccept|1
+http://toutiao.com/group/6431865977302270210/|Python网络爬虫实战Scrapy Requests库的get()方法|Scrapy网络爬虫scrapy|1
+http://toutiao.com/group/6335685773103382785/|Python网络爬虫实战7、观察如何抓取新浪新闻（持续更新）||0
+http://toutiao.com/group/6428177669716885761/|Python网络爬虫之采集平台商品信息|网络爬虫人生苦短|0
+http://toutiao.com/group/6431865607184777474/|Python网络爬虫实战Scrapy Requests库单元小结|Scrapy网络爬虫scrapy|0
+http://toutiao.com/group/6500012902643139085/|Python两大利器Scrapy框架中Spiders和ItemPipeline用法（附源码）|爬虫回调函数RequestScrapy网络爬虫|2
+http://toutiao.com/group/6455254093106512398/|Python网络爬虫，爬取王者荣耀最强套路（王者手到擒来）|设置服务器端口号Fiddler服务器端英雄联盟王者荣耀英雄联盟盒子|1
+http://toutiao.com/group/6443597894234718478/|Python网络爬虫反爬破解策略实战||2
+http://toutiao.com/group/6431865607184892162/|Python网络爬虫实战Scrapy Requests库的get()方法|网络爬虫scrapyScrapy|1
+http://toutiao.com/group/6502017148703998477/|Python爬虫技术培训为何越来越火，让编程大佬告诉你！|爬虫网络爬虫R语言编程浏览器|1
+http://toutiao.com/group/6335686615419715841/|Python网络爬虫实战10：取得新闻内文标题（持续更新)||0
+http://toutiao.com/group/6474122178047509005/|高速批量下载图片“新姿势”，超简单Python网络爬虫入门学习进阶|正则表达式迅雷网络爬虫编程语言Python|0
+http://toutiao.com/group/6431865934986035457/|Python网络爬虫实战Scrapy HTTP协议及Requests库方法|http协议scrapyScrapy网络爬虫|0
+http://toutiao.com/group/6446327293810835981/|python入门学习教学全集-网络爬虫——爬取校花网校花图片|校花网络爬虫|1
+http://toutiao.com/group/6431866120089960705/|Python网络爬虫实战Scrapy Requests库主要方法解析|Scrapy网络爬虫scrapy|1
+http://toutiao.com/group/6337985740853346562/|Python网络爬虫实战15：抓取新闻评论数据（持续更新)||1
+http://toutiao.com/group/6470658144379863565/|Python网络爬虫——利用有道词典实现简单翻译程序|字符串时间戳md5有道翻译MD5加密|0
+http://toutiao.com/group/6335687202739814658/|Python网络爬虫实战11：取得新闻发布时间（持续更新)||0
+http://toutiao.com/group/6434738447395455234/|东时教育Python网络爬虫课程各大高校实训火热进行中！|职业规划编程语言实训课程C语言Java|0
+http://toutiao.com/group/6420916975602663682/|python基础教程 打造多线程网络爬虫|数据挖掘多线程网络爬虫|0
+http://toutiao.com/group/6425319349669708034/|python网络爬虫之：IP代理地址切换，完美越狱代码|网络爬虫|0
+http://toutiao.com/group/6493286507351114253/|初学Python认识爬虫及原理~Centos7安装oracle问题及解决方法汇总|浏览器爬虫服务器JsonHTML|0
+http://toutiao.com/group/6419806607751774722/|用python写网络爬虫第一课之编写可复用的下载模块|网络爬虫|0
+http://toutiao.com/group/6416910088582217986/|python写网络爬虫第一课之编写可复用的下载模块|网络爬虫|0
+http://toutiao.com/group/6428975211023106306/|2017最新课程Python网络爬虫实战视频教程网盘下载|怪兽IT学院网络爬虫爬虫NoSQL动态网页|0
+http://toutiao.com/group/6467798421406220813/|Python 程序如何高效地调试找出问题？|调用栈IPythonDEBUGBUGFlask|0
+http://toutiao.com/group/6495544986681999885/|最火Python大神免费分享爬取校花及上海高级人民法院数据(附源码)|爬虫Python爬取Scrapy网络爬虫|3
+http://toutiao.com/group/6503842999582065165/|Python实战-了解网络爬虫背后的秘密|Python网络爬虫|0
+http://toutiao.com/group/6504174367428051470/|收藏｜学习Python编程的6本书籍|程序设计笨办法学Python像计算机科学家一样思考PythonPython语言编程语言Python编程|0
+http://toutiao.com/group/6478592738760589838/|完完全全的零基础Python教程！只要你有点计算机基础！此篇包会！|编程语言Python运算符字符串n2数据结构操作数函数机器学习n1|42
+http://toutiao.com/group/6507053196077171214/|新手看完Python实现微信跳一跳自动运行，再忍不住了|异常处理Exception跳一跳BiggerPython|121
+http://toutiao.com/group/6429164267530354945/|Python基础教程：入门学习（1）|人生苦短|0
+http://toutiao.com/group/6487100025619874318/|Python Numpy全世界最长基础教程最适合小白比全球的还长 还详细|函数Python多项式二进制数组NumPy二维数组C语言多维数组字节|7
+http://toutiao.com/group/6498971864361075213/|Python学习资料入门教程分享，Python快速学习方法|Python全栈工程师工程师机器学习Django|0
+http://toutiao.com/group/6462221439301845518/|共60课：Python基础教程|PythonInstallerpython3软件测试|0
+http://toutiao.com/group/6502666854383747597/|宝宝都能学会的python编程教程1：第一行代码|python编程教程编程语言单引号Python学会|7
+http://toutiao.com/group/6488064267026170382/|强力推荐，非常全的 Python 学习资料（今日免费）|WebPython编程机器学习利用Python进行数据分析数据挖掘|148
+http://toutiao.com/group/6486240818683183629/|零基础如何自学Python？|PythonPyCharmLinuxPython语言Linux系统|0
+http://toutiao.com/group/6488821909805859342/|扣丁学堂Python入门基础教程之五个常用Python功能代码|随机数伪随机数Python正则表达式扣丁学堂|0
+http://toutiao.com/group/6338276959974752513/|Python基础教程：安装及使用|Python|3
+http://toutiao.com/group/6504622114790703629/|Python初学者再不用痛苦的找错误，你可以自己“看”了！|小伙伴Python TutorOnlinePython完全数|0
+http://toutiao.com/group/6498911214821704205/|2017年Python3.6网络爬虫（基础+实战+框架+分布式）高清视频教程|PythonScrapyRedis爬虫分布式|2
+http://toutiao.com/group/6492531881114862093/|福利，非常全的"Python爬虫"学习资料（免费）|用Python写网络爬虫Scrapy浏览器Python网络爬虫爬虫|10
+http://toutiao.com/group/6506709342878695950/|2017传智播客黑马Python就业+基础班视频教程|人工智能|0
+http://toutiao.com/group/6407621132224938242/|Python更新系列教程-基础篇||1
+http://toutiao.com/group/6441323619485303042/|python基础教程 零基础如何学好python|大数据|0
+http://toutiao.com/group/6497058182806897165/|python基础学习！金牌讲师教你如何学习python的算法！|算法讲师|1
+http://toutiao.com/group/6506793354120921613/|传智播客黑马Python就业+基础班视频教程分享（大概400多GB）|人工智能人生苦短Pythonpython并行计算|0
+http://toutiao.com/group/6501922285815857678/|Python教程看完了，还是不会编程，怎么办？|Flask编程Python3字符画Python|1
+http://toutiao.com/group/6500316963896558093/|Python爬虫！基础知识之Urllib库的基本使用|POSTDELETE浏览器URLHTMLHTTP|2
+http://toutiao.com/group/6501589518561313293/|python基础教程（7）|编程语言方法.sort函数sorted列表函数|0
+http://toutiao.com/group/6506725394807259652/|Python基础教程 呃……我也记不清楚这该是第几期了|方括号|0
+http://toutiao.com/group/6492583135337775630/|python库SciPy快速入门教程|改变图片MATLABSciPy傅里叶获取图片|0
+http://toutiao.com/item/6446602841648791822/|编程小白，想学python,基础入门教程有哪些？||0
+http://mp.weixin.qq.com/s?__biz=MzA4OTg1MTExMw==&mid=2653389903&idx=1&sn=00782acce990b5373118ec7b5865c93b|周末荐读 | Python基础教程|PythonLie浮点数编程语言程序员|1
+http://toutiao.com/group/6419475028747796737/|Python基础教程 python爬取与采集||1
+http://toutiao.com/group/6339486888792949250/|Python基础教程：函数|Python|1
+http://toutiao.com/group/6343486442416636418/|Python基础教程: 模块|Python|2
+http://toutiao.com/group/6490056168243724814/|享学课堂盘点python基础教程常见二十五个面试题|Python字符串数据结构函数C语言|0
+http://toutiao.com/group/6506700742277988878/|学会Python很难吗？我建议你应该看看这个|Python华氏温度摄氏温度编程正则表达式|4
+http://toutiao.com/group/6338259649477148929/|Python基础教程：常量与变量|Python|1
+http://toutiao.com/group/6496360503122592270/|扣丁学盘点Python基础教程之列表去重四种方法|PythonorgListformatList字符串视频教程|0
+http://toutiao.com/group/6484067281151197709/|Mars亲授Python基础视频教程02|Python &人工智能开发教程python&人工智能开发教程|0
+http://toutiao.com/group/6420537757727424769/|python基础教程 python采集中文社区教程|中文社区|1
+http://toutiao.com/group/6342600703168545025/|python基础教程之Python 中文编码|Python编码UTF-8FileEncoding|0
+http://toutiao.com/group/6488805035936317966/|python学习！python基础知识点之递归函数详解！|知识点递归函数|1
+http://toutiao.com/group/6484151800013259278/|神级程序员写下Python教程 编写多线程Python服务器 最适合基础|多线程Python服务器套接字Python服务器程序员Python|1
+http://toutiao.com/group/6459282563692233229/|python入门基础教程之函数参数||0
+http://toutiao.com/group/6489164763442971149/|python学习！python基础知识点：类和对象之继承详解！|知识点类和对象视频|1
+http://toutiao.com/group/6476749059007709710/|不用到处找，超简单十行代码免费下载歌曲和歌词，Python入门教程|Python万维网网络爬虫爬虫编程语言|5
+http://toutiao.com/group/6422102106069778690/|Python学习基础教程 python是什么语言？|Python字节码虚拟机源代码Guido|0
+http://toutiao.com/group/6339472807071580674/|Python基础教程：控制流|Python|0
+http://toutiao.com/group/6443051945414656258/|Python之Tornado基础+项目实战视频+教程网盘下载|Tornado服务器代码优化开放源代码列表-分页-搜索|1
+http://toutiao.com/group/6467475203248095758/|python入门学习基础教程异步数据抓取并保存至excel_6|Python|0
+http://toutiao.com/group/6328271470725480706/|Python教程：ORM连接Sqlite数据库，软件架构基础|Python数据库SQLAlchemyORM命令行|0
+http://toutiao.com/group/6463319920712090126/|python基础教程linux基础阶段——10-Linux系统下的文件目录结构|文件目录基础阶段linux|1
+http://toutiao.com/group/6467475198906991117/|python学习基础教程全集异步数据抓取并保存至excel_5|Python|0
+http://toutiao.com/group/6467475194687521294/|python学习基础教程异步数据抓取并保存至excel_4|Python|0
+http://toutiao.com/group/6435563226915193089/|Python基础教程One：基本数据类型|数据类型s2prints1False布尔型|0
+http://toutiao.com/group/6499642383385231885/|扣丁学堂浅谈Python基础教程之四种逐行读取文件内容方法介绍|Python文件内容换行符python3code.txt|0
+http://toutiao.com/group/6485959852257444365/|扣丁学堂Python基础教程视频之String字符串详解|str1字符串字符StringPythonstr2|0
+http://toutiao.com/group/6493296859333788174/|深度学习的中文资源，教程推荐！|深度学习公开课机器学习机器学习实战统计学习方法学英语强化学习|0
+http://toutiao.com/group/6506448900876927502/|汇总微信跳一跳小白也能掌握的刷分方式|Python小游戏破解版模拟器|0
+http://toutiao.com/group/6421304982334603778/|Python基础学习之scrapy+MongoDB安装教程|scrapyPythonmongodb|0
+http://toutiao.com/group/6446224702049911053/|程序员做的数据分析基础教程Numpy指南笔记！|npA数组特征值函数utf-8import numpy逆矩阵|0
+http://toutiao.com/group/6503306776291574285/|异步社区｜本周半价电子书书单|NLPServoPython机器人机器学习NLTK|0
+http://toutiao.com/group/6422000321652621570/|Python基础入门教程网络编程之socket学习视频教程|Python|0
+http://toutiao.com/group/6501071688124334606/|扣丁学堂浅谈Python基础教程之Python爬虫工具列表详解|HTML字符串解析器浏览器Python网络爬虫|2
+http://toutiao.com/group/6506845222859702791/|宝宝都能学会的python编程教程8：条件判断与循环|语句循环Falsecontinue语句Python|0
+http://toutiao.com/group/6507211443698401806/|337本python书籍优先系列二：五本特色实例教程分享|Head First PythonPythonPython编程快速上手数据结构数据可视化机器学习Python基础教程像计算机科学家一样思考Think Python|13
+http://toutiao.com/group/6507131213931610638/|2017年大热的编程语言Python大事件回顾——附10道经典面试题|Python引用计数单引号编程语言内存池|2
+http://toutiao.com/group/6507053196077171214/|新手看完Python实现微信跳一跳自动运行，再忍不住了|异常处理Exception跳一跳BiggerPython|121
+http://m.thebigdata.cn/show.aspx?articleid=29721|Python数据可视化编程实战|URLcsvopenJSONPythonExcel代码生成as f数据可视化代码库实验结果JAVA EEFLASK特殊字符数据源|14
+http://toutiao.com/group/6431712356493459714/|超级干货 15张脑图看懂 Python 编程核心知识体系|思维导图编程数据类型面向对象面向对象编程Python核心编程|8
+http://toutiao.com/group/6507390133749154318/|孟哥带你学python：第一次使用函数|返回值函数编程语言关键字Python|0
+http://toutiao.com/group/6443205511025754370/|半小时带你快速走进Python编程，正式入门|登录名操作符简明Python教程源文件字符串循环语句False编程语言数据类型李书豪|5
+http://toutiao.com/group/6387503570430214402/|结合示例讲解Python图形化界面编程|GUIPython图形界面添加图形化界面|6
+http://toutiao.com/group/6493481958192972302/|Python编程方面的一些骚操作！|Python并行计算解释器表达式|9
+http://toutiao.com/group/6430570581851177217/|Python编程与人工智能，你毕业前必须收藏！|猜数字面向对象编程JavaScriptDjango|2
+http://toutiao.com/group/6457370649974276622/|零基础小白如何入门 Python 编程|程序员创造性零基础学习编程编译器编程班学习python数据结构FalsePython cookbook敲代码|1
+http://toutiao.com/group/6507184987878457869/|python自我学习 二 05 爬一个图片网站-下载图片链接|python学习缩略图Python图片链接图片网站|0
+http://toutiao.com/group/6493769268537065998/|Python3编程小技巧|False|1
+http://toutiao.com/group/6459987133993058830/|编程初学者不要再纠结学习Python啦！|编程PythonPython编程语言Mozilla编程语言|4
+http://toutiao.com/group/6389923546421035265/|谈谈几天的python编程感受|pass语句PHP编程语言C语言空语句|28
+http://www.codingke.com/article/2123|扣丁学堂为大家总结Python主要功能以及应用的范围|PythonXML数据库数据类型编程语言|0
+http://toutiao.com/group/6466919244863914510/|python学习：手机软件编程python|手机软件|12
+http://toutiao.com/group/6507183209980101128/|感受到Java/C等语言限制程序员热推Python！后院活动部|编程Java第一语言Python程序员|0
+http://toutiao.com/group/6481846959790359054/|Python基础：多线程编程|信号量Lock主程序代码段Semaphore|0
+http://toutiao.com/group/6380461833795092737/|人工智能编程从业者请看：十大流行的Python库！|R语言Shiny编程语言VimPython|1
+http://toutiao.com/group/6504174367428051470/|收藏｜学习Python编程的6本书籍|程序设计笨办法学Python像计算机科学家一样思考PythonPython语言编程语言Python编程|0
+http://toutiao.com/group/6404371017351790850/|快速学编程——用python打开图片|开发工具解释器Anaconda解释性Spyder|14
+http://toutiao.com/group/6383818267475575041/|0015 编程入门python之定义函数|变量值参数函数圆括号函数调用|2
+http://toutiao.com/group/6469338400292864526/|python黑帽编程基础sys模块实例|文本文件脚本sys.argv命令行参数解释器|0
+http://toutiao.com/group/6390978178097824001/|python界面编程实例1|Widget界面Label|0
+http://toutiao.com/group/6507384566796255751/|C/C++工程师的福音——Go语言及其职业方向|机器学习DockerGo语言编程语言工程师|0
+http://toutiao.com/group/6493086056676590093/|python进阶学习第一步·系统编程介绍|父进程False操作系统Python子进程QueueProcess|0
+http://toutiao.com/group/6499205747396575757/|Python编程高级技巧｜选择好的名称|编程命名空间标准库Twisted大小写鲁棒性代码风格函数下划线Python|0
+http://toutiao.com/group/6482174209136001550/|Python编程遇问题，文科生怎么办？|文科生葫芦操作系统编程语言PythonGraphvizx86数据科学如何高效学Python ？Python编程软件包|0
+http://toutiao.com/group/6461794498430108174/|python编程：002用Python设计第一个游戏|Python游戏|3
+http://toutiao.com/group/6501168088996643341/|炙手可热的python编程程序员初体验是怎样的？|编程语言Python程序员编程码农|0
+http://toutiao.com/group/6431010283296686337/|Python编程中一定要注意的那些“坑”|运算符局部变量Filelambda表达式作用域|5
+http://toutiao.com/group/6481402783311331853/|从零开始学编程自学python教程学习笔记——移动python文件位置|Pythonpython快捷方式UsersWindowsPowerShell|0
+http://toutiao.com/group/6397536307174113538/|最适合新手入门编程的语言——PYTHON|Scrapy爬虫编程语言Script机器学习|1
+http://toutiao.com/group/6385389493428338946/|Python界面编程入门|IDLELinux对话框猜数字Windows|7
+http://toutiao.com/group/6317972742332154114/|Python黑帽编程2.8 套接字编程|Error服务端Socket编程TCP套接字|7
+http://toutiao.com/group/6478542134210200077/|python、Java、C语言等主要流行编程语言优劣对比|脚本语言面向对象编程语言PythonC语言Java|2
+http://toutiao.com/group/6507196181590835720/|java9新特性-5-Java的REPL工具：jShell命令|REPLJavajShell表达式Scala|0
+http://toutiao.com/group/6462941409635729933/|Python编程新手常见的几个错误（1）|PythonSyntaxError编程操作符错误示范|0
+http://mp.weixin.qq.com/s?src=3&timestamp=1499395843&ver=1&signature=wnZn1UtWreFWjQbpWweZXp6RRvmmKwW1-Kud3x6OF0fEceSd6OLpMNo7I-tz*p*T4FBnPI15T06Uq1JEm*E8J56FGWx3e7*gq49f3zP*RFqaNlUIRvXgedQF0L*NEP6FFIQVH9m*iepBlJPjUoeDWO1yN0Wf2PspVcyPc87hX0A=|生动理解 Python 的异步编程|异步编程CPU网络服务器烘干机|5
+http://toutiao.com/group/6401533771338154242/|「腾远趣味编程 ·Python」世界，你好！|命令式UTF-8程序语言自然语言CC0|4
+http://toutiao.com/group/6477381037390299661/|Java和Python的编程对比|PythonJavajava|3
+http://toutiao.com/group/6396385458356289793/|每日课程：python网络编程||0
+http://toutiao.com/group/6430664375375692033/|什么是Python的高级编程！|交流群565266089|1
+http://toutiao.com/group/6406217997643415809/|买不起房子怎么办？用python编程画房子吧！||4
+http://toutiao.com/group/6384325018121552130/|python之多线程编程二|True多线程线程Thread|0
+http://toutiao.com/group/6375263337311420673/|python 快乐编程与艺术创作6 编程绘图正方形||12
+http://toutiao.com/group/6501179078383501837/|零基础到项目实战，Python大佬教你如何用Python开发人脸识别系统|人脸识别系统Python视频人脸识别|1
+http://toutiao.com/group/6416121613540163842/|Python 中的异步编程：Asyncio|Python脚本异步模式协程消息循环|1
+http://toutiao.com/group/6387334010812858625/|Python编程-使用 spynner 诱导流量统计|百度统计浏览器CNZZFalse源代码|3
+http://toutiao.com/group/6474830891297276430/|Python面向对象编程|Python运算符实例运算符重载编程语言|0
+http://toutiao.com/group/6462137876804010509/|python编程：009了不起的分支和循环3|视频鱼c工作室论坛|3
+http://toutiao.com/group/6496268573781000717/|英语基础一般，如何才能学习C语言编程和Python|编程语言C语言编程英语单词函数库|0
+http://toutiao.com/group/6457659612588933645/|python编程培训哪家靠谱？-沈阳兄弟连|脚本语言编程语言Python编程兄弟连|0
+http://toutiao.com/group/6438167551424299266/|Python面向对象编程（一）|面向过程面向对象程序设计实例化Chinese|1
+http://toutiao.com/group/6465652490040771085/|python黑帽编程基础（异常处理）实例|错误信息SSH异常处理Exception|0
+http://toutiao.com/item/6464463126396928270/|两分钟速览Java、PHP、C语言、Python四大编程|编程语言C语言PythonPHPJava|0
+http://toutiao.com/group/6461783604241367566/|python编程：005闲聊之Python的数据类型|Python数据类型|1
+http://toutiao.com/group/6379048756323483905/|python快乐编程与艺术创作15 编程画机器猫|机器猫|8
+http://toutiao.com/group/6405682346846126337/|《Python核心编程》（第二版）第4章 Python对象|字符串Python类型内建函数Null操作符|0
+http://mp.weixin.qq.com/s?src=11&timestamp=1503980134&ver=359&signature=zOa9tdSRdaaj1gbdUp*CatLiCs1oUsQUrisrYeQlC7u-jMUPaYb1dEZ-axj2gdESXzNBGwjkIVgfPp0AQFHoSA3ZnKL3M737bX8-C4qQk5rFdQyl1rj7gL58tQo0VI9S&new=1|Python 面向文档编程的正确姿势|Python机器学习API单元测试工程师|1
+http://toutiao.com/group/6428416400905257217/|Python面向对象编程从零开始（3）—小姐姐请客上篇|煮泡面面向对象自我介绍小姐姐面向对象编程|1
+http://toutiao.com/group/6470971189626929678/|python黑帽编程基础关联IP地址和物理地址|物理地址数据库浏览器Longitude|1
+http://toutiao.com/group/6464667615112462861/|python黑帽编程基础词典（dictionary）实例|EOF哈希表数据结构|0
+http://toutiao.com/group/6406055307227742465/|《Python核心编程》（第二版）第5章 数字|字符串函数操作符类型转换浮点型|0
+http://toutiao.com/group/6448000476574122509/|python黑客编程之捕获键盘鼠标事件|Python黑客腾讯|0
+http://toutiao.com/group/6382382862905409794/|python快乐编程与艺术创作16 坐标系统||0
+http://toutiao.com/group/6463203145685139982/|10 Python OOP 面向对象编程实战|面向对象Python OOP实战python oop实战|0
+http://toutiao.com/group/6408802461972906242/|跟强子学编程——Python开发反爬云盘|云盘人生苦短强子学|0
+http://toutiao.com/group/6464324862314807822/|11 Python OOP 面向对象编程进阶|Python OOP面向对象编程进阶python oop面向对象编程进阶面向对象|0
+http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651374827&idx=1&sn=4078aeeecd01b08f460276700055074d|在Python中探索函数式响应型编程(FRP)|FRP数据流函数函数式编程Elm流函数生成器|0
+http://toutiao.com/group/6450700960830685453/|Python面向对象编程：数据封装、继承和多态|PlayerPython面向对象AllStarCurry|1
+http://toutiao.com/group/6428748935762411778/|Python基础 开始学习数据类型 编程基础|数据类型编程语言NBAplayerR语言Py|0
+http://toutiao.com/group/6446254593051623693/|拯救Python新手的几个项目实战|实例数独编程语言源码解读下载项目名称小游戏|2
+http://toutiao.com/group/6507190746418774541/|python 实战项目|topic_idTopicURL模式Django数据库|0
+http://toutiao.com/group/6471370670541373965/|史上最屌Python编程实战第一季|修饰器迭代器PythonCython设计模式|0
+http://toutiao.com/group/6435859290238845186/|Python接口自动化测试实战01 总纲-课件|接口自动化测试接口|3
+http://mp.weixin.qq.com/s?__biz=MjM5MDE3OTk2Ng==&mid=2657426284&idx=2&sn=65026d4defc11ecf17106066114dc2c1|超模大学堂终于开课了，《Python机器学习实战》|随机森林深度学习机器学习神经网络支持向量机|4
+http://toutiao.com/group/6410685845937848834/|Python初学者最佳的学习资源 入门到精通实战|设计模式项目组数据库dive into python关键字OReilly - Learning Python集成开发环境|4
+http://toutiao.com/group/6479612275782058510/|一小时入门 Python 3 网络爬虫（实战）|一年永恒浏览器SoupChrome网络爬虫爬虫HTML笔趣看一念永恒JavaScriptPythonURLPOST|17
+http://toutiao.com/group/6501179078383501837/|零基础到项目实战，Python大佬教你如何用Python开发人脸识别系统|人脸识别系统Python视频人脸识别|1
+http://toutiao.com/group/6504279713437975054/|Python实战项目分享：Python超级实用！|Pythonpython人工智能大家一起来程序员|2
+http://toutiao.com/group/6455893621626372622/|Python从零基础到项目实战（第一节-连载）|解释器Python运算符文本编辑器双引号单引号字符串特殊字符立方体表达式|4
+http://toutiao.com/group/6375781878712860929/|Python零基础到实战之人像扫描|Python人像|5
+http://toutiao.com/group/6507424151551083012/|喜欢的电影需要VIP？看完文章你可以省掉很多钱|URL服务器Python抛出异常表达式|0
+http://toutiao.com/group/6496313343190499854/|7个Python爬虫实战项目教程|Scrapy网络爬虫爬虫PythonFlask|0
+http://toutiao.com/group/6486243984371876366/|python实战，python打造自己的音乐播放器1|音乐播放器|4
+http://m.thebigdata.cn/show.aspx?articleid=29721|Python数据可视化编程实战|URLcsvopenJSONPythonExcel代码生成as f数据可视化代码库实验结果JAVA EEFLASK特殊字符数据源|14
+http://toutiao.com/group/6447259590684836366/|python零基础实战——快速打造用户管理系统|腾讯|4
+http://toutiao.com/group/6498233213507338766/|Python实战：决战虚拟货币市场|BitcoinAnalyzing Cryptocurrency Markets Using Python可视化数据集False函数JSONBTCAnacondaPythonStellar|0
+http://toutiao.com/group/6438437839632859649/|8天学会python：应用案例实战，成高手不是难事|视频|0
+http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647663&idx=2&sn=ff98a798664db2b4d8879f6d90831e91|主成分分析（PCA)在R 及 Python中的实战指南|主成分标准偏差主成分分析线性组合Factor数据集变量|2
+http://toutiao.com/group/6491433374886920718/|精品推荐！使用Nginx作为Python Web的反向代理实战|反向代理快捷方式Upgrade浏览器Nginx|0
+http://toutiao.com/group/6501127397834752525/|Python 实战计划：7天上线苹果官网|Python苹果官网|4
+http://toutiao.com/group/6503842999582065165/|Python实战-了解网络爬虫背后的秘密|Python网络爬虫|0
+http://toutiao.com/group/6432626076136620290/|Python开发实战之API||2
+http://toutiao.com/group/6504834375698350605/|Python机器学习实战——KNN算法详解|函数刘建平Pythonlist1算法OutKNN统计学习方法|0
+http://toutiao.com/group/6486592033304609293/|python实战！Python开发音乐播放器软件2|音乐播放器软件|0
+http://mp.weixin.qq.com/s?__biz=MzAwNDc0MTUxMw==&mid=2649640110&idx=1&sn=769b448b4c023d8ca1d1af1571393081|Python算法实战：冒泡|a1Processexit code 0i + 1冒泡排序|1
+http://toutiao.com/group/6432149455684026626/|机器学习实战及Python实现——支持向量机（SVM）|SVM核函数支持向量机分类器SMO|2
+http://toutiao.com/group/6437981481319170305/|Python接口自动化测试实战02 HTTP协议讲解|http协议|2
+http://toutiao.com/group/6463203145685139982/|10 Python OOP 面向对象编程实战|面向对象Python OOP实战python oop实战|0
+http://toutiao.com/group/6503844543534727693/|Python网络爬虫实战-撰写第一只网络爬虫|Python网络爬虫|0
+https://temai.snssdk.com/article/feed/index/?id=10115079&source_type=12&content_type=1|Python实战——Python实现选择排序|Python算法数据结构排序算法选择排序|1
+http://toutiao.com/group/6426734187415765250/|Python轻松入门到项目实战视频教程网盘下载|字符串直播数据类型函数Python3|0
+http://toutiao.com/group/6440205697539735810/|Python完全零基础到实战入门精讲视频教程网盘下载|运算符百度搜索流程控制|3
+http://toutiao.com/group/6436004167169818882/|Python爬虫开发与项目实战视频教程下载|爬虫MongoDBScrapyHTML网络爬虫|2
+http://toutiao.com/group/6400539683265282305/|人工神经网络之Python 实战|超平面返回值机器学习样本点数据集|0
+http://toutiao.com/group/6395059275987239169/|Python爬虫实战之三抓取淘宝美食||2
+http://toutiao.com/group/6416963546257047810/|机器学习实战及Python实现——K-均值聚类|SSE聚类算法样本误差平方和k-均值|1
+http://toutiao.com/group/6486217534533009934/|0基础Python实战：四周实现爬虫网站「价值239元」|DjangoPython编程爬虫课时|0
+http://toutiao.com/group/6411860111237824770/|linux下的Python微信二次开发项目实战|企业级微信linux|0
+http://toutiao.com/group/6436625169087889666/|实战案例：使用Python制作疾风剑豪-亚索词云图|机器学习疾风剑豪R语言王大伟词云图|1
+http://toutiao.com/group/6507113781955396109/|「自动化工具」使用ansible命令的参数梳理|USERNAMEPATHNUMSECONDSLinux|0
+http://toutiao.com/group/6388457006865481985/|Python开发全功能问答平台系统(实战讲解)|Python数据库|0
+http://toutiao.com/group/6495892804672160270/|Python爬虫实战！python爬取某平台主播信息|爬虫|0
+http://toutiao.com/group/6409220284361376001/|机器学习实战及Python实现（推荐一本好书）|机器学习实战周志华Hadoop支持向量机算法Python基础教程源代码|4
+http://toutiao.com/group/6423361201871601921/|Python实战案例之开发仿知乎问答系统|Python问答系统数据库|0
+http://toutiao.com/group/6415915530322329857/|Python实战案例之开发万能搜索引擎|人生苦短|1
+http://toutiao.com/group/6405905562312196354/|基于Python的微信二次开发项目实战|微信|0
+http://toutiao.com/group/6438453309099983106/|Python项目实战——开发网易云音乐插件|播放器os.path.joinRequests网易云音乐Ubuntu|2
+http://toutiao.com/group/6426621612346736897/|机器学习实战及Python实现——AdaBoost|算法样本AdaBoost权重弱分类器|1
+http://toutiao.com/group/6387298171257848065/|python运维实战_saltstack应用|运维|0
+http://toutiao.com/group/6457423834990510605/|Python实战案例：使用Python实现端口扫描（下）|Python人生苦短|0
+http://toutiao.com/group/6478413204148978190/|python实战课程——控制结构|Python字符串流程控制编程语言C语言|0
+http://toutiao.com/group/6436962706250547714/|Linux下的Python微信二次开发实战教学视频，-下|Linux平台linux平台视频|0
+http://toutiao.com/group/6457098870072541709/|Python实战案例：使用Python实现端口扫描（上）|Python人生苦短|3
+http://toutiao.com/group/6435975730814779905/|Python项目实战——通过Python开发整站爬虫对网站的整站数据进行爬取并实时存储数据库|人生苦短整站爬虫|0
+http://toutiao.com/group/6449857959534067982/|Python网络爬虫实战|Python网络爬虫数据库标识符课时|0
+http://toutiao.com/group/6437615921153540354/|Python网络爬虫实战视频教程下载|网络爬虫新浪新闻百度搜索大数据非结构化数据|0
+http://toutiao.com/group/6411017026110488833/|[实战]Python读写Excel实例应用|uvTimeplayTimeExcel4 ] -playTime [ 4True|0
+http://toutiao.com/group/6397934155421974786/|Python仿知乎问答平台实战（后台开发）||0
+http://toutiao.com/group/6457012995783393806/|python爬虫实战爬取微博及热评|Python微博寻找获取爬虫移动端|0
+http://toutiao.com/group/6397934199982752001/|Python仿知乎问答平台实战（后台开发）||0
+http://toutiao.com/group/6437249920914456833/|Python Web开发实战视频教程下载|FlaskDocker数据结构Web开发MySQL|0
+http://toutiao.com/group/6418646459675607298/|Python-实战-设计员工管理系统|文件夹True输入文件名员工信息库|1
+http://toutiao.com/group/6504051858619761165/|Python网络爬虫实战-制作新浪新闻网络爬虫|Python网络爬虫新浪新闻|0
+http://m.hexun.com/hz/toutiao/2017-09-22/190962988.html|金工：人工智能选股之Python实战|Python人工智能编程语言自变量Python语言|0
+http://toutiao.com/group/6431865607184777474/|Python网络爬虫实战Scrapy Requests库单元小结|Scrapy网络爬虫scrapy|0
+http://toutiao.com/group/6457021144535925261/|2017Python零基础到实战|Python编程JAVA编程语言|0
+http://toutiao.com/group/6408356809778610434/|Python实战网络爬虫入门到精通|爬虫NoSQL动态网页MongoDB网络爬虫|0
+http://toutiao.com/group/6407903174427164930/|学习Python，如何在实战中迅速提高并且运用|数据可视化科学计算Scrapy爬虫编程语言|0
+http://toutiao.com/group/6453958458206061069/|Python接口自动化测试实战16｜数据脚本分离|Python脚本|2
+http://toutiao.com/group/6429206624007569665/|Python开发全功能问答平台系统（实战讲解1)||0
+http://toutiao.com/group/6423531494669779202/|Python机器学习实战|百度搜索Python机器学习Chapter1线性回归|0
+http://toutiao.com/group/6465903597388300814/|ajax异步爬虫Python开发实战|爬虫Python|0
+http://toutiao.com/group/6441687483137655309/|Python零基础到实战第一课||3
+http://toutiao.com/group/6422142938856816898/|Python——整站爬虫开发实时存储数据库（实战讲解1）|Python视频爬虫整站|0
+http://toutiao.com/group/6432809949961814274/|零基础python爬虫实战项目开发视频教程下载|Web微信节爬虫开发基础录播博客园异步IO|0
+http://mp.weixin.qq.com/s?src=3&timestamp=1502411778&ver=1&signature=wnZn1UtWreFWjQbpWweZXp6RRvmmKwW1-Kud3x6OF0eS1SkucHdnBXoAtUFmGJyUaxjs1qEFuG2M5*oMPf3exu93slGO353zEVCFYYoDeui4Ema4vtRKheskWxbkoGQtBRKH*2Ol5AIq7pEbMHrABkwz1Tf5HEE5JziO*0miyWI=|每月好书：Python与机器学习实战|支持向量机随机森林机器学习决策树Python与机器学习实战朴素贝叶斯|7
+http://toutiao.com/group/6421260352089473282/|让程序员都无法拒绝的Python实战课程（第二节）|程序员|0
+http://toutiao.com/group/6459982671148745230/|Python实战应用：探索岩石-鱼雷数据集|机器学习坐标图可视化散点图数据集|0
+http://toutiao.com/group/6429628124813082882/|Python开发全功能问答平台系统（实战讲解2)|全功能|0
+http://toutiao.com/group/6430185607470039298/|Python开发全功能问答平台系统（实战讲解3)|python|0
+http://toutiao.com/group/6422051673666470145/|Python Web开发实战课程|Python|0
+http://toutiao.com/group/6442038678008103437/|Python零基础到实战的第二节|第二节|0
+http://toutiao.com/group/6431155383087300866/|零基础python实战项目Web聊天软件开发|百度搜索WebSocketWeb聊天软件开发|0
+http://toutiao.com/group/6448626049358217485/|数字时代下区块链知多少？（Python实战）|数字货币时间戳区块比特币区块链|4
+http://toutiao.com/group/6421629176251891970/|运用Python抓取嗅事百科实战课程第三节|Python|0
+http://toutiao.com/group/6434124248752095489/|python爬虫实战案例之采集数据|人生苦短|0
+http://toutiao.com/group/6438566231623598594/|Python项目实战：Linux微信二次开发|人生苦短linux|0
+http://toutiao.com/group/6442789929259893262/|Python零基础到实战第三节||0
+http://toutiao.com/group/6416268386602778882/|机器学习实战及Python实现——树回归|特征值非线性过拟合线性回归数据集|0
+http://toutiao.com/group/6422896563169870081/|Python——整站爬虫开发实时存储数据库（实战讲解3）|Python视频数据库爬虫整站|0
+http://toutiao.com/group/6423313752746082562/|Python——整站爬虫开发实时存储数据库（实战讲解4）||0
+http://toutiao.com/group/6422521928111653122/|Python——整站爬虫开发实时存储数据库（实战讲解2）|视频爬虫整站|0
+http://toutiao.com/group/6408028759424762370/|Python爬虫实战（3）：安居客房产经纪人信息采集|Windows源代码网络爬虫爬虫内容提取器|0
+http://toutiao.com/group/6415858638666400002/|机器学习实战及Python实现——线性回归|岭回归简单线性回归正则化过拟合算法|0
+http://toutiao.com/group/6443597894234718478/|Python网络爬虫反爬破解策略实战||2
+http://toutiao.com/group/6431026166941401346/|python简单爬虫，实战案例！|爬虫|0
+http://toutiao.com/group/6427304308287127809/|python项目实战之Django框架开发|Django|0
+http://toutiao.com/group/6433230731966693634/|python开发项目实战之 web开发音乐网站||0
+http://toutiao.com/group/6413598210031829250/|机器学习实战及Python实现——逻辑回归|正则化代码实现机器学习算法逻辑回归|0
+http://toutiao.com/group/6428843656116273410/|机器学习实战及Python实现——FP-Growth算法|FP树支持度z    x算法Apriori|0
+http://toutiao.com/group/6455938890657169933/|Python零基础到项目实战（第二节-连载）|Python字符串参数函数符号表|0
+http://toutiao.com/group/6448534198973612302/|Python之Django实战（二）|DOCTYPE html收藏哦PythonCreatehtml langDjango|0
+http://toutiao.com/group/6438497421785252098/|Python数据挖掘项目实战-深圳脱产班培训|数据分析师编程语言算法数据挖掘数据结构预处理|0
+http://toutiao.com/group/6448165698270789901/|Python之Django实战|PythonDOCTYPE htmlCreatehtml lang博客|0
+http://toutiao.com/group/6354500361039003905/|实战｜Python使用HTTP2实现苹果原生推送|PythonBinaryPOST编程语言推送服务|0
+http://toutiao.com/group/6440409140119470594/|Python接口自动化测试实战05 Fiddler重定向AutoResponder|重定向|0
+http://toutiao.com/group/6428382701191201026/|Python Django框架开发API接口实战（第五节）||0
+http://toutiao.com/group/6428379563717820673/|Python Django框架开发API接口实战（第五节）||0
+http://toutiao.com/group/6401815326157717762/|python爬虫实战案例之爬取笑话网站|人生苦短|0
+http://toutiao.com/group/6420673760282657026/|机器学习实战及Python实现——主成分分析（PCA）|协方差PCA主成分分析特征向量特征值|0
+http://toutiao.com/group/6429960817907007745/|Python数据处理实战|币种小数点数据清洗Python数据库|0
+http://toutiao.com/group/6430388480090636546/|Python数据处理实战 2|百度搜索|0
+http://toutiao.com/group/6423178548798193922/|机器学习实战及Python实现——奇异值分解（SVD）|矩阵分解特征值Python奇异值分解SVD|1
+http://toutiao.com/group/6409965325991297282/|机器学习实战及Python实现——机器学习基础|NumPy数据集机器学习实战机器学习基础算法机器学习机器学习算法|1
+http://toutiao.com/group/6412910814592139521/|机器学习实战及Python实现——朴素贝叶斯|算法垃圾邮件条件概率机器学习实战缺失值朴素贝叶斯|1
+http://toutiao.com/group/6433046173954736386/|Python全栈开发实战视频教程下载|录播运算符数据类型内容补充正整数|0
+http://toutiao.com/group/6425367437331595521/|Python从零到项目实战视频教程网盘下载|第二节Flask第五节直播第一节|0
+http://toutiao.com/group/6428100301907181825/|python的跨平台开发项目实战|视频|0
+http://toutiao.com/group/6411806822272991490/|机器学习实战及Python实现——决策树|数据集机器学习算法决策树随机森林|0
+http://toutiao.com/group/6507083628286050820/|我给你整理一套2018完整的Python学习书籍，请你收下|Python编程Python语言编程语言Python编程自然语言Python机器学习实践指南Python自然语言处理Python极客项目编程用Python写网络爬虫机器学习数据结构Python编程初学者指南精通Python自然语言处理Python高性能编程|23
+http://toutiao.com/group/6507220368237789709/|Python学习难点立刻理解，不求人！|参数值FalseForm数据库错误信息字段HTML|0
+http://toutiao.com/group/6507396996934926855/|Python能与C类语言互调吗？内附Python全栈学习资料|PyObjectpArgsWindows平台动态链接库Python|0
+http://toutiao.com/group/6436248323241935105/|Python学习，这些就够了|学习PythonHitchhiker编程语言DjangoFlask|7
+http://toutiao.com/group/6507075782911721997/|写Python代码竟然是这么简单？|PythonActivate广东IT优就业编程语言License|0
+http://toutiao.com/group/6505738047626150408/|数据小白python入门心得|参考书代码|0
+http://toutiao.com/group/6506781308390212109/|十年老Pythoner花一周总结出最适合小白练手的20个小程序！|Python|12
+http://toutiao.com/group/6507101213635379715/|Python大神三十分钟教你成功开发一个属于自己聊天室！|Python程序员聊天室|0
+http://toutiao.com/group/6494214908983378446/|python学习资料分享|TensorFlow吴恩达卷积神经网络Django机器学习|19
+http://toutiao.com/group/6507154744434229767/|Python大牛教你写维护IP的代理池，爬虫效率呈直线提升！|爬虫Python|0
+http://toutiao.com/group/6498971864361075213/|Python学习资料入门教程分享，Python快速学习方法|Python全栈工程师工程师机器学习Django|0
+http://toutiao.com/group/6481930557956555278/|python初学到底怎么学？大神三天快速学习python的方法留下的笔记|PackersPatriots49ersRavensFalse|0
+http://toutiao.com/group/6507184987878457869/|python自我学习 二 05 爬一个图片网站-下载图片链接|python学习缩略图Python图片链接图片网站|0
+http://toutiao.com/group/6411464064375292161/|最全Python数据学习路线图|Matplotlib正则表达式爬虫入门cuiqingcai.com爬虫|3
+http://toutiao.com/group/6430955573986590978/|Python机器学习初步学习笔记|机器学习数据挖掘交叉验证过拟合数据集|1
+http://toutiao.com/group/6381986048163463425/|「python」使用Python操作Excel的学习|Python脚本Excel防火墙Sheet|18
+http://toutiao.com/group/6493086056676590093/|python进阶学习第一步·系统编程介绍|父进程False操作系统Python子进程QueueProcess|0
+http://toutiao.com/group/6507105886043898371/|Mac和win下的pycharm快捷操作大全|WindowsSHIFTALTF11CTRL|2
+http://toutiao.com/group/6488846181777539598/|Python学习：Python 正则表达式轻松学习|Python正则表达式SRE字符串扫描器|0
+http://toutiao.com/group/6489561906624332301/|Python学习：给你一个学习Python的理由|Python cookbookC语言匿名函数发行版Java可读性Python|0
+http://toutiao.com/group/6480431934668276237/|python基础学习第六步·注释|行注释可读性单行注释Python单引号|0
+http://toutiao.com/group/6507146101156479502/|Python那些事——利用Python爬虫过滤“掘金”的关键词检索结果|解析器函数Python爬虫JSONHTMLNonefout.writeInvalidURL|0
+http://toutiao.com/group/6507392957723705860/|让你的火柴人动起来！DeepMind发布强化学习环境dm_control|强化学习DeepMind学习曲线函数物理模型智能体软件包HomebrewGitHubPython|0
+http://toutiao.com/group/6507187433224798728/|神级程序猿留下的快速安装django指南，非常适合初学框架的你|数据库PostgreSQLDjangoPythonPIP|0
+http://toutiao.com/group/6506085476154212871/|大数据、机器学习、深度学习Python库必备速查表，快来收藏！|机器学习深度学习速查表TensorFlowPython|5
+http://toutiao.com/group/6421726069405712641/|学习Python能干什么？|Java函数式编程BitTorrentPython面向对象|7
+http://toutiao.com/group/6414063500335939842/|大牛Python学习资源总结|WindowspythonEclipseTutorialDjango|0
+http://toutiao.com/group/6434088374826746113/|Python学习教程3||0
+http://toutiao.com/group/6374630405622546689/|如何学习Python？|Python编程语言|5
+http://toutiao.com/group/6424064549969248513/|小白怎么学习python|Python解释器编程编程语言c语言|6
+http://toutiao.com/group/6507100479971918340/|如何将机器学习模型部署到NET环境？|Azure机器学习PythonFlaskweb.config|0
+http://toutiao.com/group/6493826050294809101/|Python学习中小白需要注意的知识点（一）|字符串制表符列表方括号Python|3
+http://toutiao.com/group/6455513630711480845/|思维导图之Python学习|单元测试思维导图编程语言PythonMindManager|3
+http://toutiao.com/group/6484927226696434189/|python基础学习第十四步·元祖&字典|Python地球亚洲中国北京字符串File字典|0
+http://toutiao.com/group/6443215989155824142/|学习Python 15-参数||0
+http://toutiao.com/group/6501867089492443662/|python 学习day-9|python机器人|0
+http://toutiao.com/group/6484219149747749389/|Python学习环境——Python的正确安装姿势|PythonPython3|0
+http://toutiao.com/group/6466919244863914510/|python学习：手机软件编程python|手机软件|12
+http://toutiao.com/group/6486996196912005646/|python基础学习第十七步·面向对象「1」|面向对象BMWStudentCar面向对象编程面向过程Object|0
+http://toutiao.com/group/6493090947935502862/|python进阶学习第三步·SOCKET|套接字进程间通信子网掩码端口号二进制网络地址|0
+http://toutiao.com/group/6488805035936317966/|python学习！python基础知识点之递归函数详解！|知识点递归函数|1
+http://toutiao.com/group/6488600915317096973/|python学习：python数据结构详解|默认值True数据结构TuplePythonlist1list2首字母|1
+http://toutiao.com/group/6478520247555981837/|python基础学习第二步·编辑器的选择|文本编辑器PyCharmIDE编程语言Vim|2
+http://toutiao.com/group/6480678616752456206/|python基础学习第七步·算数运算符|数学计算算数运算符计算结果Python字符串|0
+http://toutiao.com/group/6507409739809292814/|python机器学习配置pybrain与scikitlearnLinux（自学视频收藏）|机器学习视频|0
+http://toutiao.com/group/6432749398682059010/|学习Python 2-Windows 10 安裝|Windows 10windows 10|0
+http://toutiao.com/group/6498486431890014733/|教育改革——国家认证 “网红” 编程语言 Python|程序设计Python编程语言Python语言Python程序设计编程语言Python|0
+http://toutiao.com/group/6470301905145823757/|Python学习笔记——安装Python学习及开发环境|IDEWindows集成开发环境PythonPyCharm|1
+http://toutiao.com/group/6429280139573854465/|Python基础教程：入门学习（3）|人生苦短|0
+http://toutiao.com/group/6438175327037587713/|Python基础学习总结（二）|a ’ 新元素Jack列表字符串|0
+http://toutiao.com/group/6480739839372165646/|明晚九点｜好书分享——流畅的 Python|PythonNginx数据结构运算符重载面向对象|0
+http://toutiao.com/group/6475953387979407886/|python学习相关|HTTP权威指南编程范式Python计算机科学导论HTML算法导论XHTML|1
+http://toutiao.com/group/6482226813840933390/|Python字典的创建与学习|ZaraAgeNameFileClass|0
+http://toutiao.com/group/6442994305388265730/|10年Python大牛倾力打造系统Python学习流程图，让你学习进度犹如火箭升空！|编程语言Mysql数据库数据类型流程图|3
+http://toutiao.com/group/6503838613493514765/|python学习之基础语法（其四）|Python字符串数据类型浮点型Tuple|0
+http://toutiao.com/group/6428426566599409922/|Python学习路 二|字符串不变性数据类型函数utf8|0
+http://toutiao.com/group/6484504380316844558/|python基础学习第十三步·字符串&列表|加勒比海盗str1第一滴血列表速度与激情字符串tempNameuserName|2
+http://toutiao.com/group/6487356692144062990/|python基础学习第十七步·面向对象「2」|JavaFuncPython类属性Animal实例属性父类|0
+http://toutiao.com/group/6442917986696167949/|学习python 9-布尔操作符|EpisodeBoolean|0
+http://toutiao.com/group/6490393378474164749/|Ansible 部署 Zabbix 客户端|WARNINGFileERRORserver_ip配置文件客户机root @ ansible ~192.168.163.171 ] TASK [ tarAnsiblelib64|2
+http://toutiao.com/group/6488593528917082637/|80 行代码爬取豆瓣 Top250 电影信息并导出到 CSV 及数据库|utf8数据库CSVExcelINSERT|0
+http://toutiao.com/group/6491179491254075918/|Debian 部署 Python3 + Flask + uwsgi + Nginx + Supervisor|PythonPython3Supervisorpython3浏览器配置文件NginxFlaskINPUT根目录|0
+http://toutiao.com/group/6416434898215190786/|关于Python学习的回复？|编程语言快捷键编辑器linux系统python3|3
+http://m.chinastor.org/show.aspx?articleid=9218|Python 的学习阶段|数据结构编程语言Python编程JavaScript|2
+http://toutiao.com/group/6483013139485950478/|「Linux」-部署Zabbix监控|配置文件数据库MySQLSNMPLAMPZabbixLinuxroot @ localhost ~|1
+http://toutiao.com/group/6458385669549982222/|python学习笔记（六）-文件操作|This读写方式打开文本文件换行符|1
+http://toutiao.com/group/6485923690146955790/|明晚九点｜Flask 基础与 Web 开发实战|异常处理设计模式GitHello WorldFlask|0
+http://toutiao.com/group/6442610086647955981/|学习python 7-Strings|PythonEpisode|0
+http://toutiao.com/group/6454312839082410510/|Python 字符串学习 就这么简单！|字符str1反斜杠单引号str2|0
+http://toutiao.com/group/6443366460097036813/|学习Python 22-模块||1
+http://toutiao.com/group/6443246162467095054/|学习Python 20-If Else 语句||0
+http://toutiao.com/group/6502253292930728461/|如何构建一个好的资产管理系统（CMDB）|数据库资产管理系统CMDBDatabase|0
+http://toutiao.com/group/6435947537311760641/|「Python 代码」单元测试学习|回调函数模拟对象调用单元测试参数传递测试用例真实对象|0
+http://mp.weixin.qq.com/s?src=3&timestamp=1500305828&ver=1&signature=jlCWT*3Xh9KMcUbSfNVl8d1eqtswlE9wAW4XohRjkgP8BGmjvmRox8TAztC0BGyxgWwrGevfJRylROJrTImujJcfuIFTTUKDvr0B4gGEyoYFJi6SaqFh0GoVU-RK*UT*vhmwo8er5b3rAwywvDP3UzMzYwWglp*HU8V*RvQehxA=|Python｜使用jupyter notebook学习python基础|浏览器R语言集成开发环境jupyter notebookIDE|2
+http://toutiao.com/group/6459887740661006862/|学习Python的urllib模块|PythonURL用户代理浏览器user-agent|0
+http://toutiao.com/group/6484114544699376142/|视频版｜sql上线平台|视频sql上线平台|0
+http://toutiao.com/group/6438540868647239937/|程序猿自我修炼之python学习（2）python练习|程序猿|0
+http://toutiao.com/group/6456230894041563662/|python学习笔记（一）——linux环境配置|SELINUX小白鼠防火墙python3Python|0
+http://toutiao.com/group/6424619415211901186/|Python之numpy数组学习（五）——广播|Originalnumpy数组学习新数组QuietShape王牌大贱谍|0
+http://toutiao.com/group/6483339575694459406/|明晚九点｜SQL 上线平台|PythonSQL开源软件C语言系统调用|0
+http://toutiao.com/group/6420901067127030018/|Python之numpy数组学习（一）|数据类型Out科学计算浮点数In|0
+http://toutiao.com/group/6423502688399638785/|Python之numpy数组学习（三）|Python数据类型array ( [ [ 0numpy数组x00Out2.j函数|0
+http://toutiao.com/group/6433651691153719554/|Python线性模型学习笔记|Sat自相关线性回归R语言OLSRegression自变量正态分布x2x1|0
+http://toutiao.com/group/6428748935762411778/|Python基础 开始学习数据类型 编程基础|数据类型编程语言NBAplayerR语言Py|0
+http://toutiao.com/group/6440749568106693122/|美女老师带你零基础学习Python公开课第一弹|Python公开课美女|0
+http://toutiao.com/group/6460662666502341134/|老男孩IT教育python公开课——python爬虫基础介绍|Python公开课Scrapy爬虫老男孩|1
+http://toutiao.com/group/6374633779834651137/|Python公开课——Python的正确学习姿势|Python公开课编程语言|1
+http://toutiao.com/group/6343418644965360129/|Python公开课——光速入门5.1||1
+http://toutiao.com/group/6346053168450781441/|Python公开课——光速入门8.3||1
+http://toutiao.com/group/6350886271826018561/|Python公开课——光速入门9.4||1
+http://toutiao.com/group/6343418567853097217/|Python公开课——光速入门6.1||4
+http://toutiao.com/group/6503744566976315918/|Python公开课-机械学习之手写识别|面向对象HTML手写识别PHPPython|0
+http://toutiao.com/group/6496301490636849677/|北风网人工智能大咖公开课-Python数据分析讲解|人工智能公开课北风网|0
+http://toutiao.com/group/6501283141318083085/|Python第1课-Python安装|python3Python3编程语言PythonHomebrew|3
+http://toutiao.com/group/6506472422693143054/|Python入门第6课-使用循环操作列表|变量File列表Python缩进|1
+http://toutiao.com/group/6342710795608162562/|Python公开课——1小时光速入门4||5
+http://toutiao.com/group/6503729097577857549/|Python 之禅|Python程序员Perl编程语言Tim|1
+http://toutiao.com/group/6420545799272825090/|Python和R数据挖掘分析技术高级公开课在上海举行|统计分析编程语言GNU数据挖掘程序设计|0
+http://toutiao.com/group/6484099453736190478/|Python陷阱：为什么不能用可变对象作为函数的默认参数值|初始化Python函数对象可变对象返回值|0
+http://toutiao.com/group/6478515605866545677/|Python爬虫实战小案例之阳光电影爬虫（附代码）|爬虫商业智能Pythongb2312网络爬虫|0
+http://toutiao.com/group/6499597098596434445/|Python纳入浙江省高考！AI“御用”语言掀起新一轮鸡娃大战！|Python人工智能高考编程语言信息技术|0
+http://toutiao.com/group/6480351082072506894/|Python与人工智能直播课来袭，Mars喊你快上车|编程语言MarsPython人工智能贪吃蛇|0
+http://toutiao.com/group/6485923690146955790/|明晚九点｜Flask 基础与 Web 开发实战|异常处理设计模式GitHello WorldFlask|0
+http://toutiao.com/group/6483339575694459406/|明晚九点｜SQL 上线平台|PythonSQL开源软件C语言系统调用|0
+http://toutiao.com/group/6481099041852621325/|分析9000部电影｜一个简单的电影推荐系统|电影数据集Python推荐系统星球大战|0
+http://toutiao.com/group/6480359186797429261/|利用多种方法来进行分类算法|Python交叉验证随机森林算法缺失值因变量|0
+http://toutiao.com/group/6392880007942045953/|如何优雅的在手机上写Python|PythonAPPTermux图形界面Linux|51
+http://toutiao.com/group/6507078491073151502/|用Python代码实现微信跳一跳作弊器，排行榜第一还不是你？|广东IT优就业Android安装包版本号Python|0
+http://toutiao.com/group/6504910373257232910/|python做手机app服务端接口，数据AES加密传输|加密AESAES加密算法算法解密|1
+http://toutiao.com/group/6500151313421042189/|Python那些事——Python告诉你iPhone X有多热卖|累计付款销量数据PythoniPhone XiPhone|1
+http://toutiao.com/group/6345978204049719554/|使用Python和adb快速填充手机存储的一种方法|Pythonspace percentERRORadb shellInput|0
+http://toutiao.com/group/6444107473741086990/|python：Android手机截屏脚本|开发者android手机|1
+http://toutiao.com/group/6493837079158456846/|入门必学及免费Python爬虫教程多个例子详细讲解爬虫性能(附代码)|代码例子爬虫回调函数返回值线程池utf8www.baidu.com|0
+http://toutiao.com/group/6477040494181351950/|用python爬取京东商城不同价位手机品牌|京东商城编码格式华为国产品牌可视化|3
+http://toutiao.com/group/6486995810461417998/|python小白社群-小白马上上手python开始践行，手机上就可以开始|机器学习大数据学习程序程序员Python|0
+http://toutiao.com/group/6461809477610897933/|python批量采集京东手机信息|京东手机信息|0
+http://toutiao.com/group/6499594141666640398/|学会Python这几个类库使用，快速写爬虫不是问题（详细步骤附源码）|爬虫InOutExampleCSSNametest1HTML网络爬虫SETTING|2
+http://toutiao.com/group/6490386793270084110/|Python安装\基础讲解\常见问题及scrapy爬虫框架搭建（附例子详解）|AUTHOR二进制输入python3PythonASCIIGB2312Unicode安装包|1
+http://toutiao.com/group/6500047045045256717/|学Python不能着急，经验总结，速则不达|九阳神功Python人工智能欲速则不达数据结构|0
+http://toutiao.com/group/6500332785348117006/|Python程序员实战-从菜鸟到大牛的进阶之路|Python程序设计语言代码代码撸程序员|22
+http://toutiao.com/group/6497737276221555213/|Python入门必学2个重点及精髓-Requests库~正则基本使用（附源码）|经典老歌字符串换行符正则表达式Demowww.baidu.comh2Pythonli data-view参数传递|3
+http://m.hexun.com/hz/toutiao/2018-01-04/192152982.html|小学教育 应有Python一席之地|王峥Python编程人工智能新一代人工智能发展规划李天驰|1
+http://toutiao.com/group/6500012902643139085/|Python两大利器Scrapy框架中Spiders和ItemPipeline用法（附源码）|爬虫回调函数RequestScrapy网络爬虫|2
+http://toutiao.com/group/6503358746889028110/|与Python一样简单学,另类方式实现指纹识别系统(附整个项目源码)|Animator指纹识别指纹Override指纹识别技术Bitmap指纹识别系统数字信号Boolean实时时钟|4
+http://toutiao.com/group/6492934240978600462/|Python迭代对象-迭代器-生成器的理解pycharm远程linux开发和调试|迭代迭代器PythonSentence迭代对象self.text实例化|0
+http://toutiao.com/group/6498083665644356109/|学Python爬虫必会两大神器Urllib与BeautifulSoup的使用（详细源码|解析器Pythonutf8爬虫li classCSSBarwww.baidu.comh4Foo|3
+http://toutiao.com/group/6502647668890665486/|Python工程师详细讲解Django之model,弄懂了马上升职加薪（附源码）|CountCOUNTSQL字段TrueFROM数据库Django表名SELECT|5
+http://toutiao.com/group/6491801374051795469/|Python搭配Mongo学习心得，爬取知乎用户信息完整教程（干货附源码）|Request爬虫FieldScrapy请求头FalseMongoDB数据库子集合字段|4
+http://toutiao.com/group/6485889782990766605/|微信小助手，微信信息和用户监控与自动回复|Python初始化程序编程命令行人生苦短|0
+http://toutiao.com/group/6480123555248865806/|为了抢iPhone X, 有人开发了机器人程序，可以全自动下单|机器人程序iPhone 8程序AbrahamiPhone X|9
+http://toutiao.com/group/6505965511786889732/|「跳一跳」程序员教你“跳一跳小游戏”如何制霸朋友圈|USBPython版本号小游戏ADB跳一跳|58
+http://toutiao.com/group/6492183764997767694/|程序猿如何用深度学习定位马蓉五官？精准率99%,9行python五官定位|机器学习人脸识别facial_featurePyCharmPython|12
+http://toutiao.com/group/6492567389752787470/|Python爬虫大战、 Scrapy分布式原理以及分布式部署（干货附源码）|队列Scrapy数据库分布式SchedulePython虚拟机Redis|2
+http://toutiao.com/group/6504519116743770638/|抽象工厂模式|操作系统CPUPythonConcreteClient|0
+http://toutiao.com/group/6495938417384227342/|定制化专属自己的个性手机——ZeroPhone树莓派手机开源！|Python智能手机树莓派ZeroPhone|0
+http://toutiao.com/group/6493286507351114253/|初学Python认识爬虫及原理~Centos7安装oracle问题及解决方法汇总|浏览器爬虫服务器JsonHTML|0
+http://toutiao.com/item/1587994030238733/|我能说我在多年以后发现了自己前女友的照骗吗[捂脸]//@人生苦短我用python:第一代红米手机，当时加价400买的，大学用了一年多，换了魅族4。上班第一年换了华为，现在手里小米note3，一登录小米账户，看到以前大学拍的照片，真的挺感动的，以前初恋的短信，照片，都还同步着，然而初恋前几天结婚了，新|山寨机note3小米红米手机人生苦短|0
+http://toutiao.com/group/6493844048367845902/|干货分享程序猿必备工具Git之创建版本库及版本库操作(详细教程)|HEAD版本库root @ centos-linux git_homegit addreadme.txt工作区GPLGit版本控制Date|3
+http://toutiao.com/group/6502677269276787213/|最简单的网络爬虫之获取自己喜欢的手机靓号！|网络爬虫手机号码|0
+http://toutiao.com/group/6487117439657050638/|双十一教你爬取淘宝商品信息 再也不用一个个点开网页翻啦 限时哦|商品名称正则表达式搜索接口数据结构bs4|0
+http://toutiao.com/group/6487863313433625101/|为Android安装Linux终端仿真与环境APP|启动器开发环境LinuxPythonTermux|6
+http://toutiao.com/group/6494110102507749902/|分享一下我的编程学习之路|JavaAndroid语法学java|0
+http://toutiao.com/group/6499249407903400461/|程序员：你可以质疑我，但是不准质疑我的代码！|程序员PHP|0
+http://toutiao.com/group/6502645942905209357/|Oracle转移数据库表空间文件,db2空间不足导致load失败（详细步骤）|表空间数据库数据库表db2inst1 @ db2 bkLoad|0
+http://m.hexun.com/hz/toutiao/2017-09-22/190962988.html|金工：人工智能选股之Python实战|Python人工智能编程语言自变量Python语言|0
+http://toutiao.com/group/6503794654696178190/|合肥C 培训机构哪家比较好？北大青鸟放心之选！|合肥北大青鸟合肥北大青鸟云北大青鸟培训机构合肥北大青鸟云登校区|0
+http://toutiao.com/group/6488149478770491917/|什么是全找攻城狮，学Python也可以学设计吗？这有一份设计请您过目|选项概率界面主界面幸运值Android图标|1
+http://toutiao.com/group/6438931971417571841/|一部手机 两个微信？坚果Pro也能实现应用双开功能了|坚果微信|0
+http://toutiao.com/group/6346406893234438402/|一键监控手机内存、CPU消耗的测试工具|span > < bbr /GBKupdateTimeUTF-8|0
+http://toutiao.com/group/6484825127526597133/|神级程序员教你如何勾搭到自己心仪的女神！手把手搭建表白神器！|程序员python3|2
+http://toutiao.com/group/6484055168244515342/|锁屏！怎么解开自己的屏保？（九宫格）|九宫格ADBSHA1字符串Python|0
+http://toutiao.com/group/6448493697676378382/|爬虫——Scrapy框架案例：手机APP抓包，你没见过的操作！|图片链接SeeDefinescrapy.Fieldutf-8 -|0
+http://toutiao.com/group/6491817452291228173/|Web全栈架构师——手机直播客户端|数据库虚拟地址LIMIT服务器视频文件插件浏览器PhoneGap文件夹File|0
+http://toutiao.com/group/6443315485189603854/|手机界最尊重版权的或许只有他了？锤子科技|大爆炸锤子科技三角兽|8
+http://toutiao.com/group/6443385513708618254/|锤子手机点按“系统版本”七下进入开发者模式|锤子手机开发者|4
+http://toutiao.com/group/6475567823862104590/|科普最火的云计算与大数据所用的单位，来看看你的手机是多大内存|云计算网络爬虫大数据互联网大数据时代物联网|1
+http://toutiao.com/group/6395107228496298242/|诺基亚6，手机王者归来实测砸核桃|核桃王者归来诺基亚|0
+http://toutiao.com/group/6450335367703068942/|第一个运行谷歌项目的手机|增强现实亚马逊CESGPU单一Verizon|1
+http://toutiao.com/group/6493473837315785229/|神奇的python！！！|KNNHadoop编程语言函数式编程Python|0
+http://toutiao.com/group/6507396996934926855/|Python能与C类语言互调吗？内附Python全栈学习资料|PyObjectpArgsWindows平台动态链接库Python|0
+http://toutiao.com/group/6499370209227309581/|飞飞私塾：简单实用的几步学会在Windows下搭建Python环境|PythonWindowsRun解压缩复选框|0
+http://toutiao.com/group/6498194125320356366/|Python工作环境搭建(windows)|PythonPyCharmIDEWindowsPostScript|5
+http://toutiao.com/group/6501921408572981774/|基于Python3开发的自动签到拿京豆软件-2.自动启动Python程序|PythonWindows|0
+http://toutiao.com/group/6507016681968108036/|初学Python中编码问题详细整理与相关解决方法（附例子和详细步骤）|字符串编码IDEASCIIGB2312|1
+http://toutiao.com/group/6498088348974842382/|PowerShell调用Windows API就是这样简单|ISEPythonint64Windows APIPowerShell|6
+http://toutiao.com/group/6499721507860644365/|Python的黑客技能：快速提取Windows密码和Wi-Fi密钥凭证！|WindowsLaZagneMozilla实用程序Linux|0
+http://toutiao.com/group/6379159364037165313/|「python」开启，关闭Windows进程的简单脚本|Python脚本Python脚本记事本应用程序|4
+http://toutiao.com/group/6494502483358908942/|编程语言新秩序，如果你还不知道Python就out了！！|PythonGILJava编程语言可移植性|0
+http://toutiao.com/group/6471167541325595150/|python版libsvm在windows上的安装|PythonLIBSVMSVM文件夹Microsoft Visual Studio|0
+http://toutiao.com/group/6488093300925399566/|pywinauto自动化处理-学走路都差不多，从自动化操作记事本开始|友善串口调试助手WindowsStartup记事本对话框|1
+http://toutiao.com/group/6438541432168710401/|Windows下定时运行Python程序|编译器windowsWindows脚本|2
+http://toutiao.com/group/6388027410898977026/|轻松将Python脚本转换为Windows下的可执行文件|安装包脚本PythonWindows可执行文件|10
+http://toutiao.com/group/6485879394425373197/|Python数据分析工具|数据结构NumpyMatplotlibSQLPip|1
+http://toutiao.com/group/6498256159013601806/|Miss带你一起在Windows上安装sphinx|全文检索数据库PHPPostgreSQLMySQL|1
+http://toutiao.com/group/6485867574033646093/|一起学python教程（2）widows下安装python|环境变量|0
+http://toutiao.com/group/6499614958265827853/|python 使用shell编写HelloWorld|提示符Linux编辑器IDEIDLE|0
+http://mp.weixin.qq.com/s?src=11&timestamp=1505006316&ver=383&signature=8cnBvhomuBNKr5wR88PSJJ29w0RYpsBvfFbG07X8ZnuZWQa3X8GVTsQgWSuAyahk4IUgy-QYuFKVv-CZKcQgOi*u3sPVLn*U7i-HTplH1aZR4oxahLEjh37JDTXnxu1P&new=1|你想要的Python软件不支持Windows?来这里找支持版！|Python二进制安装包x64x86|2
+http://toutiao.com/group/6504530223961211406/|Python从零开始—第一天之读写文件|效果图文件名TrueFalse绝对路径|2
+http://toutiao.com/group/6424043033179914498/|windows环境下面配置pip环境变量|可执行文件环境变量当前目录Python外部命令|0
+http://toutiao.com/group/6456537022407377422/|python学习笔记（二）-windows环境配置|安装包浏览器p2ppython3环境变量|0
+http://toutiao.com/group/6490720023093445134/|手把手教你用7行代码实现微信聊天机器人——Python wxpy|图灵机器人机器人Bot图灵实例化|5
+http://toutiao.com/group/6432403867519123714/|windows桌面应用系统|windows桌面|1
+http://toutiao.com/group/6496654413510214158/|零基础开始学习Python爬虫(scrapy)二|PythonmySpider目标文件Scrapy框架打开teacher目录|0
+http://toutiao.com/group/6503863715698311693/|干货满满，Python3网络爬虫还有这操作？你知道吗|Python网络爬虫编码方式浏览器URL|1
+http://toutiao.com/group/6470438496489177614/|将Python程序(.py)转换为Windows可执行文件(.exe)|可执行文件win32LibFilesPython|5
+http://toutiao.com/group/6402963075942613249/|Windows下安装python 3.5|WindowsPATH安装程序树莓派windows|0
+http://toutiao.com/group/6451801233232495117/|python实操案例带你快速开启windows窗口自动化之旅|腾讯Pythonwindows|1
+http://toutiao.com/group/6503449483194401294/|python环境的安装|PythonPyCharm注册码python3PATH|0
+http://toutiao.com/group/6503060194757444109/|Windows server 环境下部署python环境和安装Django|PythonWindows Server环境变量命令行Django|0
+http://toutiao.com/group/6501180174162199054/|python 03可执行的Python程序及帮助获取|源文件程序环境变量LinuxPython|0
+http://toutiao.com/group/6503095975421149709/|利用python获取路径下的指定格式文件|elif re.matchpython初始化dll文件Excel|0
+http://toutiao.com/group/6502031604733444622/|一篇文章让你快速学习Python编程自动化开发学习9-paramiko模块|第三方库环境变量Python家目录公钥|1
+http://toutiao.com/group/6502992079180792333/|神级程序员用tornado教你如何自动化攻击平台！|CHAR程序员数据库VARCHAR集成开发环境|0
+http://toutiao.com/group/6494126926456685069/|自动化运维工具Saltstack安装配置|操作系统CentOS服务端主机名客户端|0
+http://toutiao.com/group/6494395312268902926/|扣丁学堂浅谈如何在win10和Linux下分别安装Python虚机环境|虚拟环境ENVLinuxPythonwin10|0
+http://toutiao.com/group/6503001160511652365/|在Python3下使用tornado实现一个MVC网站！原来开发网站这么简单|数据库SQLAlchemyHTMLMySQLPython|1
+http://toutiao.com/group/6493845384954118669/|干货windows下nginx安装及使用入门教程、Nginx location模块整理|return 403 ;URINginxreturn 404 ;return 401 ;root @ nginx extrareturn 500 ;return 402 ;|0
+http://toutiao.com/group/6507396996934926855/|Python能与C类语言互调吗？内附Python全栈学习资料|PyObjectpArgsWindows平台动态链接库Python|0
+http://toutiao.com/group/6454167371400610318/|Class 类—Python老司机的必修课|实例化属性PythonPyCharmclass类|9
+http://toutiao.com/group/6369549355985486081/|Python定义类详解|Python私有变量Server面向对象编程MySQL|3
+http://toutiao.com/group/6483366382216937997/|python类class中 init_函数以及参数self的简单解释|Python面向对象obj2obj1函数|1
+http://toutiao.com/group/6388219481554092290/|Python中的metaclass(元类)|调用函数编程语言Python父类关键字Foo|1
+http://toutiao.com/group/6481954430865375757/|神级程序员通过两句话带你完全掌握Python最难知识点——元类！|Python道生ORM三生万物Django|14
+http://toutiao.com/group/6482591611971699214/|Python 面向对象编程（类和实例）|Bart Simpson实例变量函数Student类Python|2
+http://toutiao.com/group/6490830834600247822/|Python入门没这么难！这是我见过最全面的基础入门资料！超级详细|Python创建类编程语言代码段程序员|3
+http://toutiao.com/group/6343491796924006657/|Python基础教程: 类和对象||3
+http://toutiao.com/group/6487774666994745869/|热门Python元类解读|InOutPythonPython高级编程ORMOOP|0
+http://toutiao.com/group/6483788109321339405/|Python 类和对象（一）|PythonCarUTF-8实例化类变量|1
+http://toutiao.com/group/6493123140036592141/|强烈推荐｜帮你快速梳理掌握python中面向对象的所有知识点|自动变量面向对象编程类属性Python面向对象|0
+http://toutiao.com/group/6506754559535219203/|干货分享｜如何用 Python 快速实现 HTTP 和 FTP 服务器？|PythonWebHTTPFTP服务器Nginx|0
+http://toutiao.com/group/6451852279661199886/|掌握python的类就如饮水一样简单！（小白请进）|解释器实例化构造方法Pythonclass Foo|4
+http://toutiao.com/group/6408132295349518593/|python基础——类|学习python面向对象面向对象编程|0
+http://toutiao.com/group/6388619892702167298/|每日课程：python对象和类||1
+http://toutiao.com/group/6496088012374409741/|人工智能时代已经来临，今天开始学习Python，每天进步一点点 六|编程语言属性Python面向对象Java|9
+http://toutiao.com/group/6499273567727780366/|你所不知道的Python|浙江省Python语言程序设计JavaScript编程语言|3
+http://toutiao.com/group/6474426915741499918/|好听的段子，分分钟获取几千万，爬虫工具简单制作，Python入门|相声网络爬虫自由软件Python荤段子|2
+http://toutiao.com/group/6506292285309714948/|谁适合学Python?学了Python可以做什么工作？|Flask编程语言深度学习Python机器学习|1
+http://toutiao.com/group/6495724688583426574/|阅读大型python代码必备知识：类|派生类引用计数下划线Python命名空间实例类变量调用函数实例化|0
+http://toutiao.com/group/6452273350147310094/|Python类、实例属性以及类、实例、静态方法的区别|实例属性类方法Animal实例方法静态方法|0
+http://toutiao.com/group/6436852751544746242/|Python黄金-类|实例化作用域Person实例类变量解释器函数|0
+http://toutiao.com/group/6496004344008147470/|十分钟带你走进Python的类与对象世界|静态方法函数Python21天学通Python面向对象实例|4
+http://toutiao.com/group/6484014330080657933/|Python 类和对象（一）丨数析学院|Python类|0
+http://toutiao.com/group/6507211224747344387/|使用 Red 语言编写 GUI 应用程序|二进制文件x86WindowsGUILinuxRed|0
+http://toutiao.com/group/6377567592747680001/|Python类|局部变量命名空间Smalltalk解释器调用函数实例化Python|1
+http://mp.weixin.qq.com/s?src=3&timestamp=1500693865&ver=1&signature=wnZn1UtWreFWjQbpWweZXp6RRvmmKwW1-Kud3x6OF0dHVLpQohNjnlSHbj-AKmrt9wUBoE5KBOsOOZRHU3G-bmXjvPXSewtXNdJHS5Sh3XYjWNVxL7GMKw8v39RVG1D0oJihf4FjYf6bcgD9bk*-6OEIuUBMwoOyeMv1YNH05gw=|在Python中自定义类的创建方式|类定义关键字API类创建修饰符|0
+http://toutiao.com/group/6280669259391566338/|Python 类深入|极客|2
+http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651370422&idx=2&sn=e14c13d61de62215fc97906c80ebd333|Python：细说元类|Python编程语言type函数例子|3
+http://toutiao.com/group/6479388941182042638/|Python那些事——概率论的分类方法，你知道的多少？|p2朴素贝叶斯分类器Python词汇表算法概率论朴素贝叶斯条件概率分类方法数据集|3
+http://toutiao.com/group/6498917282956182030/|新改方案将使用 Python 做核心编程语言|程序设计Java小甲编程语言Python|15
+http://toutiao.com/group/6497111689954066957/|关于python的静态方法（演示）|PythonMyclassTypeError静态方法In|0
+http://toutiao.com/group/6504088436025065998/|「python面试团」Python2.7.x与Python3.x的主要差异？|Python异常处理ASCII函数python3|0
+http://toutiao.com/group/6503681420899123725/|扣丁学堂带你深入理解Python属性查找|调用dd_basePython类属性Widget|0
+http://toutiao.com/group/6490783622709117454/|Python验证码识别大全|二值化字符Pythonx    y验证码OpenCV识别|1
+http://toutiao.com/group/6481162958050165262/|京东的python爬虫，可以搭建自己的购物平台啦，哈哈！|网络爬虫爬虫爬取源码源代码正则表达式|1
+http://toutiao.com/group/6484941144282104333/|Python 中类的私有属性|私有变量下划线Python|0
+http://toutiao.com/group/6489164763442971149/|python学习！python基础知识点：类和对象之继承详解！|知识点类和对象视频|1
+http://toutiao.com/group/6443839959577395469/|程序员也很疑惑python到底是新式类好还是经典类好，此篇文章带你走出迷雾！|调用父类Code新式类经典类函数|2
+http://toutiao.com/group/6499209312911491598/|新手学Python，不用担心，这四个阶段帮你入门|机器学习运维工程师编程语言工程师Python|0
+http://toutiao.com/group/6416792401230987521/|Python自动化第五天-类、unittest|类变量测试套件Person测试用例银行账户Foo|0
+http://m.chinastor.org/show.aspx?articleid=9067|python调用父类方法|MRO构造函数python3Childderived class|0
+http://toutiao.com/group/6495642438093242893/|你还在重复造轮子？企业程序员强推:python实用工具类及函数！|回调函数函数Singleton翻译器Logger|4
+http://toutiao.com/group/6443637469972300045/|Python 的类、继承和多态详解，值得搜藏|JavaPython访问控制ShapeCircleRectangle|1
+http://toutiao.com/group/6503352654205288973/|Python中的Multiprocess和Multithreading（二）|ExecutorPythonFuture函数python3|0
+http://toutiao.com/group/6306623547561214466/|Python 类深入-用特殊方法定制类|Python过程编程语言课时特殊方法|4
+http://toutiao.com/group/6490350850739798541/|python简单http抓取类实现|python视频|0
+http://toutiao.com/group/6497364716954845709/|零基础开始学习Python爬虫(scrapy)四|PythonScrapyPipeline回调函数爬虫|0
+http://toutiao.com/group/6463380056373723662/|草根学Python（十二）元类|class ' type '函数Python动态语言字符串创建类Foo编程语言PersonHello|0
+http://toutiao.com/group/6483247702887891470/|9行python学习cnn卷积神经网络，怎样深度学习植物图片进行分类？|花卉卷积层池化层卷积神经网络数据集|7
+http://toutiao.com/group/6481226851137094157/|Python基础简介之条件语句|Python字符串循环结构语句表达式|2
+http://toutiao.com/group/6498910974479696398/|以后高考要考Python 了？编程教育受到重视！|编程编程语言北大青鸟Python人工智能|1
+http://toutiao.com/group/6498910974479696398/|以后高考要考Python 了？编程教育受到重视！|编程编程语言北大青鸟Python人工智能|1
+http://toutiao.com/group/6388985850453459201/|每日课程：python类继承和操作符重载||0
+http://toutiao.com/group/6483009856180584973/|python 如何使用cookie登录微博|GeckoMozillaFirefoxWindows NTWin64|0
+http://toutiao.com/group/6481972817565843981/|Python那些事——何为元类？道生一，一生二，二生三，三生万物元|造物主Django二生三Found父类Hello道生Python三生万物Field|1
+http://toutiao.com/group/6504416481759986190/|使用python对比文件内容差异|POSTform-data内容差异DOCTYPErequest.FILES|0
+http://toutiao.com/group/6408381425464459521/|如何正确理解Python函数是第一类对象|第一类对象返回值调用参数值函数对象|2
+http://toutiao.com/group/6480123395345220110/|Python入门简介之函数|编程语言Python自定义函数第三方库函数内置函数|1
+http://toutiao.com/group/6507398369055343111/|抢票攻略！用这招，程序猿分分钟抢到春节车票|程序员Splinter浏览器抢票Python|0
+http://toutiao.com/group/6443635070040277517/|Python接口自动化实战14 requests进行类封装||3
+http://toutiao.com/group/6452274810306167309/|Python面向对象，类和对象类和实例，类实例静态方法的区别|面向对象类对象实例对象静态方法区别类|0
+http://toutiao.com/group/6504042885137056270/|扣丁学堂Python视频教程之创建单例模式五种方法|实例单例模式实例化PythonSingleton|0
+http://toutiao.com/group/6504069576278409741/|人工智能学习之小白学Python 5-Python第一个例子|学生小红去上学初始化编译器xiaoHongStudent|0
+http://toutiao.com/group/6308489797552947458/|Python 类深入-迭代器和生成器|生成器编程语言课时迭代器Python|2
+http://toutiao.com/group/6495174500429070862/|[幕客技术]python如何利用pexpect模块自动化ssh密码密钥登录系统|DecParameterssh.expect子程序Python|1
+http://toutiao.com/group/6492615079052182030/|Python中的这个模块是非常重要的！是什么模块呢？神级程序员详解|请求服务端客户端服务器套接字|0
+http://toutiao.com/group/6492276482457469453/|Python实现自定义对象的切片|切片python数据结构|0
+http://toutiao.com/group/6500861424628138509/|字符串的反转 来自Python 3.6 字符串的操作学习|i-1函数代码说明行代码Python|1
+http://toutiao.com/group/6503891829010727438/|Python入门学习资源推荐|Python笨方法学PythonPython核心编程head first Python电子商务|0
+http://toutiao.com/group/6482174209136001550/|Python编程遇问题，文科生怎么办？|文科生葫芦操作系统编程语言PythonGraphvizx86数据科学如何高效学Python ？Python编程软件包|0
+http://toutiao.com/group/6500155541027815950/|Python数据可视化利器Matplotlib，渐变色colormap自定义|偏移量渐变色|1
+http://toutiao.com/group/6504868306896290318/|python处理命令行参数|缺省值False命令行|0
+http://toutiao.com/group/6482592973593772557/|Python 面向对象编程（继承和多态）|PythonCat数据类型DogTortoise|0
+http://toutiao.com/group/6436201732375576833/|Python类中的方法是如何工作的|网络安全Person.eat半月刊函数Person|0
+http://toutiao.com/group/6388238192847732993/|python 在自定义类中输出变量值及在其它文件中引用该类|自定义类Point修饰符UTF-8构造函数|1
+http://toutiao.com/group/6502987217604968974/|python的简单内置函数|字符串返回值八进制True函数|0
+http://toutiao.com/group/6497559062287221261/|零基础开始学习Python爬虫(scrapy)五|正则表达式URLLinkExtractorRuleSpider|0
+http://toutiao.com/group/6504601219888054798/|Python绘图库Matplotlib，如何改变colormap颜色映射数据范围？|最大值最小值Matplotlib0 ， 1Python|0
+http://toutiao.com/group/6503162118592791053/|Python 3.6 字符串操作学习笔记之字符串与日期的转换|函数代码说明字符串Python转换|0
+http://toutiao.com/group/6504616793816957454/|Python——面向对象|面向对象构造法调用参数值实例化|0
+http://toutiao.com/group/6461373854685069838/|Python接口自动化测试实战21 Mock简介、创建类的构造器及实例|Mock构造器|1
+http://toutiao.com/group/6503470028698944014/|python学习之基础语法（其二）|Python空行解释器代码函数|0
+http://toutiao.com/group/6496442338888401421/|Python web框架Django的ModelForm组件|python数据库实例化|1
+http://toutiao.com/group/6494467507749913102/|Python 系统类set笔记|集合等价于修改操作对称差python|0
+http://toutiao.com/group/6480488861251142157/|Python基础笔记九（1）——魔法方法，属性|Exception静态方法构造方法PythonFileRectangle|0
+http://toutiao.com/group/6498163126301622798/|Python成为了高校的核心编程语言？看来Python已经是势不可挡了！|Python5a2e1cc6fd8b9919bc6c840c爬虫1小甲编程语言人生苦短|5
+http://toutiao.com/group/6484579039494275597/|Python 多继承|Python子类构造方法编程语言构造函数|0
+http://toutiao.com/group/6480437623750918669/|Python基础笔记八——异常|TypeErrorFile时引发PythonCalculator|0
+http://toutiao.com/group/6480069010472829454/|Python基础笔记七——更加抽象|多态Foo下划线全局变量函数Python|1
+http://toutiao.com/group/6503468820517093901/|python学习之基础语法（其一）|Python单引号标识符行注释双引号|0
+http://toutiao.com/group/6494469627395965454/|Python 系统模块datetime笔记|UTCNonedatetime对象格式化字符串Calendar返回|0
+http://toutiao.com/group/6485619907290464781/|Python那些事——元类编程，包看你不会！|构造方法Dog字符串Rex元编程|0
+http://toutiao.com/group/6465204272257565197/|Python入门教程完整版（懂中文就能学会）|LinuxPython语言函数Python面向对象|11
+http://toutiao.com/group/6497381938788041230/|python资料汇总（建议收藏）|StackOverflow爬虫练手项目PythonAwesome|47
+http://toutiao.com/group/6507105886043898371/|Mac和win下的pycharm快捷操作大全|WindowsSHIFTALTF11CTRL|2
+http://toutiao.com/group/6501073564643361294/|Python都学了吗？别搞错学习方向！入门教程分享|复杂度Redis爬虫分布式Python|1
+http://toutiao.com/group/6498971864361075213/|Python学习资料入门教程分享，Python快速学习方法|Python全栈工程师工程师机器学习Django|0
+http://toutiao.com/group/6499328570555367950/|不学点编程，将来怎么给孩子辅导作业——Python新手入门教程|Python编程Pythonw3cschool浙江省信息技术编程语言|2
+http://toutiao.com/group/6479021051513668109/|干货Python全套教程免费，网络爬虫-机器学习-黑客入门-入门教程|Python机器学习自然语言编程语言深度学习|2
+http://toutiao.com/group/6507392957723705860/|让你的火柴人动起来！DeepMind发布强化学习环境dm_control|强化学习DeepMind学习曲线函数物理模型智能体软件包HomebrewGitHubPython|0
+http://toutiao.com/group/6454086468892623373/|15K程序员弄的最简短最全面的python入门教程！|解释器函数Python浮点数运算符字符串协程生成器Stack表达式|7
+http://toutiao.com/group/6507013682906530312/|Python学习之路入门教程之测试驱动开发与Python（附例子与源码）|单元测试Django功能测试Test-Driven Development with PythonTDDTo-Do|0
+http://toutiao.com/group/6504559193519817230/|用Python开发一个博客系统（详细教程）|80pxIE10释放内存浏览器0 ] .files [ 0DOCTYPEAjaxbindAvatar3 ( )|2
+http://toutiao.com/group/6454495878601245198/|python入门教程：算术运算学习1||0
+http://toutiao.com/group/6494102883502391822/|基于 Python 的 Scrapy 爬虫入门教程|PythonJSON数据库函数爬虫|2
+http://toutiao.com/group/6467377265310171662/|入门教程Python学习起来没那么难|Python|0
+http://toutiao.com/group/6362862870929113346/|python爬虫入门教程|PHP爬虫入门教程|3
+http://mp.weixin.qq.com/s?__biz=MzA4OTg1MTExMw==&mid=2653389732&idx=1&sn=ee27ab41913c4ab538f40a496d01c58c|教程 | 写给Python程序员的Scala入门教程|杨景SparkJavaScalaPython程序员|3
+http://toutiao.com/group/6486050386602885646/|来自谷歌大脑工程师的RNN系列教程｜RNN的基本介绍|机器翻译神经网络语言模型LSTM利用循环神经网络生成文本循环神经网络RNN|2
+http://toutiao.com/group/6451895755215995405/|python入门教程：论一只爬虫的自我修养3：隐藏功能学习3||1
+http://toutiao.com/group/6451496573841965582/|python入门教程：论一只爬虫的自我修养3：隐藏功能学习2||2
+http://toutiao.com/group/6504601385537896973/|Django开发学生数据库系统||0
+http://toutiao.com/group/6334984192510951681/|Python入门教程-数据类型和变量|字符Python字符串浮点数转义|0
+http://toutiao.com/group/6441728520754512130/|树莓派Python编程入门教程——用2位数码管显示CPU温度|GPIO.output视觉暂留CPU树莓派数码管|2
+http://toutiao.com/group/6451896139120640525/|python入门教程：论一只爬虫的自我修养3：隐藏功能学习4||0
+http://toutiao.com/group/6452269707054547470/|python入门教程：论一只爬虫的自我修养3：实战学习1||0
+http://toutiao.com/group/6452647065506808334/|python入门教程：论一只爬虫的自我修养3：实战学习4||0
+http://toutiao.com/group/6451390442475372814/|对比学python 00——python入门教程|人生苦短PythonJava美工刀编程语言|0
+http://toutiao.com/group/6453769976426791438/|python入门教程：论一只爬虫的自我修养2||0
+http://toutiao.com/group/6454901108975354382/|python入门教程：字典：当索引不好用时解决方法2||0
+http://toutiao.com/group/6453768404036747790/|python入门教程：论一只爬虫的自我修养||1
+http://toutiao.com/group/6454496156704571917/|python入门教程：算术运算学习2||0
+http://toutiao.com/group/6504144362908156430/|Python令人难以置信的增长|PythonStack OverflowTypeScriptJava编程语言|0
+http://toutiao.com/group/6457418056393032206/|python零基础入门教程之装饰器精讲||0
+http://toutiao.com/group/6504505711127446030/|Python小脚本钉钉聊天机器人|Python钉钉机器人脚本|1
+http://toutiao.com/group/6453002513246323214/|python入门教程之匿名函数内嵌函数讲解|匿名函数函数|1
+http://toutiao.com/group/6455241413620662797/|Python入门教程之变量解析学习1||0
+http://toutiao.com/group/6452269964173771278/|python入门教程：论一只爬虫的自我修养3：实战学习2||0
+http://toutiao.com/group/6453043643681866254/|python入门教程：论一只爬虫的自我修养3：实战学习6||0
+http://toutiao.com/group/6455241800465515021/|Python入门教程之变量解析学习2||0
+http://toutiao.com/group/6422000321652621570/|Python基础入门教程网络编程之socket学习视频教程|Python|0
+http://toutiao.com/group/6487557422297645582/|python小白社群-搬砖第一步获取各大比特币市场行情|比特币价格差搬砖可视化大市场|0
+http://toutiao.com/group/6453043425187987981/|python入门教程：论一只爬虫的自我修养3：实战学习5||0
+http://toutiao.com/group/6493845384954118669/|干货windows下nginx安装及使用入门教程、Nginx location模块整理|return 403 ;URINginxreturn 404 ;return 401 ;root @ nginx extrareturn 500 ;return 402 ;|0
+http://toutiao.com/group/6477524441835241997/|免费发美女，淘女郎美人库千万资源任意免费下载，Python入门教程|人工智能专家系统大数据机器人网络爬虫|2
+http://toutiao.com/group/6476747509690532365/|热门电台几千万个任意下载，超简单Python入门教程爬虫带你全搞定|Winamp电台收信机网络电台爬虫|1
+http://toutiao.com/group/6440777442083734017/|python入门教程：论一只爬虫的自我修养：正则表达式课程学习8|正则表达式爬虫|0
+http://toutiao.com/group/6440775968767345154/|python入门教程：论一只爬虫的自我修养：正则表达式课程学习7|正则表达式爬虫|0
+http://toutiao.com/group/6456931704027218445/|2017python小白不得不看的入门教程，你看了吗？|小白|0
+http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651372541&idx=1&sn=db9e36465092f96fbfaa62d148231431|Python面试中最常见的25个问题|Python程序员序列化函数面向对象|4
+http://toutiao.com/group/6482236480021332494/|Python精选面试题|二维数组完全平方数Python正整数青蛙跳|5
+http://toutiao.com/group/6496445651843285518/|10个Python面试常问试题|编程语言段代码Pythonfn1函数|7
+http://toutiao.com/group/6291596714123084033/|Python面试题|数据完整性静态链接编译器地址空间静态库|11
+http://toutiao.com/group/6386890247858438402/|Python面试指南|线程多线程函数迭代器Python生成器|7
+http://toutiao.com/item/6507131213965165070/|Python编程语言大行其道的今天——这10道面试题你不得不知|内存池Python引用计数单引号编程语言|0
+http://toutiao.com/group/6491230793296249358/|常见的python面试问答，让你顺利拿到offer！|Redis内存池PythonmongoDB浮点数|1
+http://toutiao.com/group/6459247194472972814/|大牛总结的20个经典python面试题|浏览器试题内存池Python内存管理表达式|3
+http://toutiao.com/group/6491228752159179277/|Python面试须知，掌握提高自己面试通过率|二叉树子结构后续结点Python递归面试题|6
+http://toutiao.com/group/6416903545405391105/|Python面试 大牛教给你经验|内存池浏览器表达式内存管理内存|2
+http://toutiao.com/group/6344737132350800385/|Python必考的五个面试题！|list1操作符函数div1list2|0
+http://toutiao.com/group/6361940240667853057/|码农分享：面试遇到python相关的考题，看看你能通过吗？|Python类成员方法AlibabaJava静态方法|5
+http://toutiao.com/group/6457037081502810637/|2017最新python面试题长啥样？你见过吗？|多线程函数CanPythonDo|2
+http://toutiao.com/group/6492988653634060814/|Python经典面试题——谈谈生成器|Python生成器腾讯|0
+http://toutiao.com/group/6325931780184686850/|如何拿到半数面试公司Offer——我的Python求职之路|面试官作用域匿名函数中国电信灯塔大数据高峰论坛函数函数式编程Python面试引用计数Parent存活时间|12
+http://toutiao.com/group/6449511519448858894/|python 面试题：两个有序递增数组合并后排序|归并排序list2Mergelist1|9
+http://toutiao.com/group/6479672242228691470/|Python爬虫从零基础到面试视频资料分享|爬虫pdf文档Python|40
+http://toutiao.com/group/6482373434419446285/|Github上Python超越Java，应届人工智能程序员年薪30w+|GitHubJava人工智能深夜食堂2Python机器学习|0
+http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651371210&idx=1&sn=00923f47fd346ed4b6dfcfcf256bdafc|Linux系统管理员面试50题|程序员浏览器服务器端Linux系统系统管理员|8
+http://toutiao.com/group/6503381883324203533/|Python实现添加圣诞帽|检测器圣诞帽调整帽子大小人脸识别技术关键点|1
+http://toutiao.com/group/6498125514698392078/|面试题一（java、Python、C++、前端、PHP）|虚函数ListArrayListStringJava|0
+http://toutiao.com/group/6504222591740281357/|Python面试，让HR对你刮目相看，录用你是分分钟的事|Python3输出GIL函数多线程内存地址表达式ParentPython列表|2
+http://toutiao.com/group/6504088436025065998/|「python面试团」Python2.7.x与Python3.x的主要差异？|Python异常处理ASCII函数python3|0
+http://toutiao.com/group/6445106715623948814/|程序猿面试时拿出用python做的信息管理系统跟HR要求20K，面试官竟然毫不犹豫|面试官程序猿信息管理系统|5
+http://toutiao.com/group/6500912617895232014/|这些Python面试问题你会吗？|函数表达式Python作用域操作符|0
+http://toutiao.com/group/6481909161620668941/|python程序员最害怕的东西，面试！恭喜你收到了offer，来看下吧|Linux程序员pythonSKT|1
+http://toutiao.com/group/6390638341171380482/|Python小程序练习、代码就是这么so easy、面试可用|python|3
+http://toutiao.com/group/6386984394166714625/|python的赋值，浅拷贝，深拷贝 － （面试常问题目系列）|变量浅拷贝赋值Python深拷贝|9
+http://toutiao.com/group/6446701232417865997/|Python面试中8个必考问题，你会几个？|段代码|2
+http://toutiao.com/group/6431817146842038530/|Python面试提升之高阶技巧：staticmethod 和classmethod|实例化参数传递字符串面向对象设计模式|0
+http://toutiao.com/group/6464541785669501453/|老外告诉你为什么应该学习一点Python？|Python|1
+http://toutiao.com/group/6463060306842092045/|展示用Python编写游戏的整个流程（包括p图），值得一看！|Python游戏|6
+http://toutiao.com/group/6446739295647072525/|python面试小算法题：已知一个数组，将数组按照出现次数排序，相同次数按大小排序|pythonTrue数组|2
+http://toutiao.com/group/6485255166957191694/|神级程序员给你59个使用技巧！让你从面试就与众不同！入职成功|Python程序员字节码解释器下划线编程语言|2
+http://toutiao.com/group/6485832469437219341/|2017年最新最强PHP，java学习路线|SVNSmartyPDO程序员集中营ThinkPHPPHP|3
