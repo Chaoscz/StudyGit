@@ -31,6 +31,6 @@ def main():
     url = "http://www.zuihaodaxue.cn/zuihaodaxuepaiming2016.html"
     html = getHTMLText(url)
     fillUnivList(uinfo,html)
-    printUnivList(uinfo,num=20)
+    printUnivList(uinfo,num=101)
 
 main()
