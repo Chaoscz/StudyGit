@@ -16,6 +16,10 @@ Java部分
 
 3.[JAVA+POI导出并通过流下载](https://github.com/Chaoscz/StudyGit/blob/master/java/JAVA%2BPOI%E5%AF%BC%E5%87%BA%E5%B9%B6%E9%80%9A%E8%BF%87%E6%B5%81%E4%B8%8B%E8%BD%BD.md#javapoi%E5%AF%BC%E5%87%BA%E5%B9%B6%E9%80%9A%E8%BF%87%E6%B5%81%E4%B8%8B%E8%BD%BD)
 
+4.[AJAX传递图片和参数](https://github.com/Chaoscz/StudyGit/blob/master/java/%E5%85%B3%E4%BA%8Eajax%E5%A6%82%E4%BD%95%E4%BC%A0%E5%9B%BE%E7%89%87%E5%92%8C%E5%8F%82%E6%95%B0.md)
+
+5.[关于session过期如何从iframe中跳转到登录界面](https://github.com/Chaoscz/StudyGit/blob/master/java/%E5%85%B3%E4%BA%8E%E4%BD%BF%E7%94%A8SpringMVC%EF%BC%8C%E4%BD%BF%E7%94%A8%E6%8B%A6%E6%88%AA%E5%99%A8%EF%BC%8C%E5%81%9ASession%E8%BF%87%E6%9C%9F%E6%A)
+
 Python部分
 
 1.[基础](https://github.com/Chaoscz/StudyGit/blob/master/study/python/Python.md)
