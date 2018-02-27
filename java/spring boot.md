@@ -34,7 +34,7 @@
 
 # spring boot 中的application.java
 
-在本例中使用STS工具(第一次用。。)
+在本例中使用IDEA工具(第一次用。。)
 
 ```java
 package com.example.demo;
@@ -76,6 +76,8 @@ public class DemoApplication {
 
 为了能让spring boot 热部署，在pom.xml中添加devtools的依赖
 
+//在IDEA中还需配置其他的。。。用eclipse和STS 只需要右键项目，Spring Tools ->add Boot Devtools
+
 ```xml
 <dependency>
   <groupId>org.springframework.boot</groupId>
@@ -103,7 +105,7 @@ public class DemoApplication {
 ```properties
 server.context-path=/spring
 #前缀   在templates下新建folder名为ftl(IDEA是新建Directory名为ftl)
-spring.freemarker.prefix=/ftl
+spring.freemarker.prefix=/ftl/
 #后缀
 spring.freemarker.suffix=.ftl
 #配置静态资源
@@ -121,7 +123,8 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+
 
 @SpringBootApplication
 @ComponentScan
@@ -132,11 +135,12 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
-	@RequestMapping("/index")
-	public String index(){
-		return "/index";
+	@GetMapping("/")
+	public String home(){
+		return  "index";
 	}
 }
+
 ```
 
 在ftl下新建index.ftl，并在其中输入 hello word
@@ -314,7 +318,7 @@ public class DruidConfig {
 }
 ```
 
-本例中使用mybaits
+# 添加mybaits
 
 添加依赖
 
@@ -331,51 +335,321 @@ public class DruidConfig {
 </dependency>
 ```
 
-在application.properties中配置mybatis
-
-```properties
-mybatis.configuration.cache-enabled=true
-mybatis.configuration.lazy-loading-enabled=true
-mybatis.configuration.aggressive-lazy-loading=true
-mybatis.configuration.multiple-result-sets-enabled=true
-mybatis.configuration.use-column-label=true
-mybatis.configuration.use-generated-keys=false
-mybatis.configuration.auto-mapping-behavior=partial
-mybatis.configuration.default-executor-type = simple
-mybatis.configuration.default-statement-timeout=2500
-
-```
-
-在DemoApplication.java中添加注解@MapperScan
+# 添加model类 user
 
 ```java
-package com.example.demo;
+package com.example.demo.model;
 
-import org.mybatis.spring.annotation.MapperScan;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.RequestMapping;
+public class User {
+    private String userName;
+    private String createDate;
 
-@SpringBootApplication
-@ComponentScan
-@Controller
-@EnableAutoConfiguration
-@MapperScan("com.example.demo")
-public class DemoApplication {
+    public String getUserName() {
+        return userName;
+    }
 
-	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
-	}
-	@RequestMapping("/index")
-	public String index(){
-		return "/index";
-	}
+    public void setUserName(String userName) {
+        this.userName = userName;
+    }
+
+    public String getCreateDate() {
+        return createDate;
+    }
+
+    public void setCreateDate(String createDate) {
+        this.createDate = createDate;
+    }
+}
+```
+
+# 编写DAO
+
+```java
+package com.example.demo.dao;
+
+import com.example.demo.model.User;
+import org.apache.ibatis.annotations.*;
+import org.springframework.stereotype.Repository;
+
+@Repository
+@Mapper
+public interface UserOperation {
+    @Select("select username,createdate from t_userinfo where username= #{userName}")
+    @Results({
+            @Result(property = "userName",  column = "username"),
+            @Result(property = "createDate", column = "createdate"),
+    })
+    User getUserByUserName(String userName);
+
+    @Insert("insert into t_userinfo(username,createdate) values(#{userName},#{createDate})")
+    int addUser(User user);
+
+    @Update("update t_userinfo set createdate = #{createDate} where username = #{userName}")
+    int updateUser(User user);
+
+    @Delete("delete from t_userinfo where username = #{userName}")
+    int deleteUser(String userName);
 }
 
 ```
 
-添加model类 user
+# 编写Service接口
 
+```java
+package com.example.demo.service;
+
+import com.example.demo.model.User;
+
+public interface UserService {
+    /**
+     * 根据用户名获取用户信息
+     * @param userName
+     * @return
+     */
+    public User getUserInfo(String userName);
+
+    /**
+     * 添加用户
+     * @param user
+     * @return
+     */
+    int addUser(User user);
+
+    /**
+     * 修改用户信息
+     * @param user
+     * @return
+     */
+    int updateUser(User user);
+
+    /**
+     * 删除用户信息
+     * @param userName
+     * @return
+     */
+    int deleteUser(String userName);
+}
+
+```
+
+# 编写Service实现层
+
+```java
+package com.example.demo.service.Impl;
+
+import com.example.demo.dao.UserOperation;
+import com.example.demo.service.UserService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import com.example.demo.model.User;
+
+@Service
+public class UserServiceImpl implements UserService {
+
+    @Autowired
+    private UserOperation uo;
+
+    @Override
+    public User getUserInfo(String userName) {
+        return uo.getUserByUserName(userName);
+    }
+
+    @Override
+    public int addUser(User user) {
+        return uo.addUser(user);
+    }
+
+    @Override
+    public int updateUser(User user) {
+        return uo.updateUser(user);
+    }
+
+    @Override
+    public int deleteUser(String userName) {
+        return uo.deleteUser(userName);
+    }
+}
+
+```
+
+# 编写controller层
+
+```java
+package com.example.demo.controller;
+
+import com.example.demo.model.User;
+import com.example.demo.service.UserService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+@RestController
+public class UserController {
+
+    @Autowired
+    private UserService userService;
+
+    @GetMapping("/getUserInfo")
+    public User getUserInfo(String userName){
+        if(userName==null||userName.trim()==""){
+            return null;
+        }
+        return userService.getUserInfo(userName);
+    }
+
+    @GetMapping("/addUserInfo")
+    public String addUser(User user){
+        User u = userService.getUserInfo(user.getUserName());
+        if(u!=null){
+            return user.getUserName()+"已存在";
+        }
+        user.setCreateDate(new SimpleDateFormat("yyyy-MM-dd hh:mm:ss").format(new Date()));
+        int i = userService.addUser(user);
+        if(i>0) {
+            return "添加成功：" + user.getUserName();
+        }
+        return "添加失败："+user.getUserName();
+    }
+    @GetMapping("/updateUser")
+    public String updateUser(User user){
+        User u = userService.getUserInfo(user.getUserName());
+        if(u==null){
+            return user.getUserName()+"用户不存在";
+        }
+        int i = userService.updateUser(user);
+        if(i>0) {
+            return "修改成功：" + user.getUserName()+":"+user.getCreateDate();
+        }
+        return "修改失败："+user.getUserName()+":"+user.getCreateDate();
+    }
+
+    @GetMapping("/deleteUser")
+    public String deleteUser(String userName){
+        User u = userService.getUserInfo(userName);
+        if(u==null){
+            return userName+"用户不存在";
+        }
+        int i = userService.deleteUser(userName);
+        if(i>0) {
+            return "删除成功：" + userName;
+        }
+        return "删除失败："+userName;
+    }
+｝
+```
+
+# 测试
+
+## 添加用户
+
+![](spring_add.png)
+
+## 查询用户
+
+![](spring_select.png)
+
+## 修改用户
+
+//时间格式应该为2018-01-01 00:00:00 
+
+//%20是浏览器空格自动转的
+
+![](spring_update.png)
+
+## 删除用户
+
+![](spring_delete.png)
+
+# 附录
+
+## pom.xml
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.example</groupId>
+	<artifactId>demo</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name>demo</name>
+	<description>Demo project for Spring Boot</description>
+
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.10.RELEASE</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<java.version>1.8</java.version>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+            <optional>true</optional>
+            <scope>true</scope>
+		</dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-freemarker</artifactId>
+        </dependency>
+		<dependency>
+			<groupId>com.alibaba</groupId>
+			<artifactId>druid-spring-boot-starter</artifactId>
+			<version>1.1.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.mybatis.spring.boot</groupId>
+			<artifactId>mybatis-spring-boot-starter</artifactId>
+			<version>1.3.1</version>
+		</dependency>
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<scope>runtime</scope>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <fork>
+                        true
+                    </fork>
+                </configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>
+
+```
+
+## 目录结构
+
+![](structure.png)
