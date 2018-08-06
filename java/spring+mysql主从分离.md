@@ -15,7 +15,7 @@
                                   binlog-ignore-db=mysql #忽略同步mysql数据库
                                   sync_binlog=1 #确保binlog日志写入后与硬盘同步 
                                   skip-slave-start #让slave不随mysql自动启动
-                                  binlog_checksum = none  ＃跳过现有的采用checksum的事件，mysql5.6.5以后的版本中				 binlog_checksum=crc32,而低版本都是binlog_checksum=none
+                                  binlog_checksum = none  ＃跳过现有的采用checksum的事件	mysql5.6.5以后的版本中binlog_checksum=crc32,而低版本都是binlog_checksum=none
                                   binlog_format = mixed   ＃bin-log日志文件格式，设置为MIXED可以防止主键重复。
      c.配置完成后，重启mysql service mysqld restart
      d.通过Navicat 结构同步操作，将主服务结构复制给从服务 #也可通过dump命令复制表 这里就不一一赘述
@@ -28,12 +28,14 @@
        mysql> show master status;
 ```
 
-​              +------------------+----------+--------------+------------------+-------------------+
-              | File       | Position | Binlog_Do_DB | Binlog_Ignore_DB | Executed_Gtid_Set |
-              +------------------+----------+--------------+------------------+-------------------+
-              | master-bin.000007 | 120    |  petmaker   |     mysql   |          |
-              +------------------+----------+--------------+------------------+-------------------+
-              1 row in set (0.00 sec)
+1. ​              +------------------+----------+--------------+------------------+-------------------+
+
+2. ​              | File       | Position | Binlog_Do_DB | Binlog_Ignore_DB | Executed_Gtid_Set |
+3. ​              +------------------+----------+--------------+------------------+-------------------+
+4. ​              | master-bin.000007 | 120    |  petmaker   |     mysql   |          |
+5. ​              +------------------+----------+--------------+------------------+-------------------+
+6. ​              1 row in set (0.00 sec)
+
  至此主服务器配置完成
 
 # step2 配置从服务器111.231.62.99:3306
