@@ -1,7 +1,12 @@
 本例介绍如何在spring+mybatis框架中实现mysql的主从分离技术
 假设主服务ip为139.199.117.182:3306 从服务器ip为111.231.62.99:3306 系统均为centos
-step1配置主数据库139.199.117.182:3306
-     a.修改主数据库配置文件 vi /etc/my.cnf
+
+# **step1**配置主数据库139.199.117.182:3306
+
+  
+
+```
+   	 a.修改主数据库配置文件 vi /etc/my.cnf
      b.在[mysqld]字段加入 如下配置:
                                   server-id=1 #这里要和从服务id不同
                                   log-bin=master-bin #开启bin-log，并指定文件目录和文件名前缀
@@ -21,7 +26,9 @@ step1配置主数据库139.199.117.182:3306
        Query OK, 0 rows affected (0.00 sec)
      g.show grants for root@'111.231.62.99';
        mysql> show master status;
-              +------------------+----------+--------------+------------------+-------------------+
+```
+
+​              +------------------+----------+--------------+------------------+-------------------+
               | File       | Position | Binlog_Do_DB | Binlog_Ignore_DB | Executed_Gtid_Set |
               +------------------+----------+--------------+------------------+-------------------+
               | master-bin.000007 | 120    |  petmaker   |     mysql   |          |
@@ -29,9 +36,12 @@ step1配置主数据库139.199.117.182:3306
               1 row in set (0.00 sec)
  至此主服务器配置完成
 
+# step2 配置从服务器111.231.62.99:3306
 
-step2 配置从服务器111.231.62.99:3306
-      a.修改从服务器配置文件 vi etc/my.cnf
+​      
+
+```
+a.修改从服务器配置文件 vi etc/my.cnf
       b.在[mysqld]字段加入 如下配置:
                                    server-id=2 #这里和主服务id不同
                                    relay-log-index=slave-relay-bin.index
@@ -64,10 +74,13 @@ step2 配置从服务器111.231.62.99:3306
           Replicate_Ignore_DB: mysql
   ......
 1 row in set (0.00 sec)
+```
+
 如上，当IO和SQL线程的状态均为Yes，则表示主从已实现同步了！这里mysql的配置已经完成
 
-step3  我们开始配置框架
-a.  mybatis-spring.xml
+# step3  我们开始配置框架
+
+##### a.  mybatis-spring.xml
 
 ```
    <!-- 数据源配置, 使用 Druid 数据库连接池 -->
@@ -176,7 +189,7 @@ a.  mybatis-spring.xml
         </aop:aspect>    
     </aop:config>
 
-b.AOP实现数据源的动态切换 DataSource.java
+##### b.AOP实现数据源的动态切换 DataSource.java
 
 ```
 package com.luke.util;
@@ -243,7 +256,7 @@ public class DataSourceAspect
     }
 ```
 
-d.DynamicDataSource.java
+##### d.DynamicDataSource.java
 
 ```
 package com.luke.util;
@@ -267,7 +280,7 @@ public class DynamicDataSource extends AbstractRoutingDataSource
 }
 ```
 
-e.HandleDataSource.java
+##### e.HandleDataSource.java
 
 ```
 package com.luke.util;
@@ -301,7 +314,7 @@ public class HandleDataSource
 }
 ```
 
-f.service接口上应用@DataSource实现数据源的指定
+##### f.service接口上应用@DataSource实现数据源的指定
 
 ```
 package com.luke.service;
