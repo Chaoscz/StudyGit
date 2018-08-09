@@ -43,7 +43,7 @@
 ​      
 
 ```
-a.修改从服务器配置文件 vi etc/my.cnf
+      a.修改从服务器配置文件 vi etc/my.cnf
       b.在[mysqld]字段加入 如下配置:
                                    server-id=2 #这里和主服务id不同
                                    relay-log-index=slave-relay-bin.index
